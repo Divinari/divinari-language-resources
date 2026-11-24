@@ -23,7 +23,7 @@ except ImportError:  # pragma: no cover
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 SKIP_DIRS = {".git", "__pycache__", ".pytest_cache", ".venv"}
-CONTENT_DIRS = ("languages", "regional-variants", "pronunciation", "grammar")
+CONTENT_DIRS = ("languages", "regional-variants", "pronunciation", "grammar", "writing-systems")
 
 DISALLOWED_LICENSE_VALUES = {"CC-BY-SA", "CC-BY-SA-4.0", "ALL RIGHTS RESERVED", "UNKNOWN", "PROPRIETARY"}
 FORBIDDEN_CITATION_TERMS = ("edge-tts", "google tts", "lai ", "pbs 1978+", "kwf commercial")
@@ -117,6 +117,8 @@ def _iter_content_json_files(repo_root: pathlib.Path) -> list[pathlib.Path]:
 
 
 def _infer_schema_name(path: pathlib.Path) -> str | None:
+    if "writing-systems" in path.parts:
+        return "writing-system.schema.json"
     name = path.name.lower()
     if name == "metadata.json":
         return "language-metadata.schema.json"

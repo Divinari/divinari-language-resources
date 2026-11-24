@@ -1,0 +1,1255 @@
+{
+  "schema_version": "1.0.0",
+  "script_id": "hangul",
+  "script_name": "Korean Hangul",
+  "language_codes": [
+    "ko"
+  ],
+  "unicode_block": {
+    "start": "U+3131",
+    "end": "U+3163"
+  },
+  "license": "CC-BY-4.0",
+  "origin_type": "cc_by_4_0",
+  "source_citation": "Divinari open writing-system stroke reference (Unicode standard codepoints and geometric stroke paths)",
+  "contributors": [
+    "Adam Blansett (@adamblansett)",
+    "Divinari Contributors"
+  ],
+  "characters": [
+    {
+      "character_id": "hangul_a",
+      "glyph": "ㅏ",
+      "romanization": "a",
+      "ipa": "/a/",
+      "category": "vowel",
+      "codepoints": [
+        "U+314F"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A standing tree reaching out right to catch the morning sun.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.4,
+              "y": 0.2
+            },
+            {
+              "x": 0.4,
+              "y": 0.8
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.4,
+              "y": 0.5
+            },
+            {
+              "x": 0.7,
+              "y": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hangul_eo",
+      "glyph": "ㅓ",
+      "romanization": "eo",
+      "ipa": "/ʌ/",
+      "category": "vowel",
+      "codepoints": [
+        "U+3153"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A branch pointing inward left toward the tree trunk.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.5
+            },
+            {
+              "x": 0.6,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.6,
+              "y": 0.2
+            },
+            {
+              "x": 0.6,
+              "y": 0.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hangul_o",
+      "glyph": "ㅗ",
+      "romanization": "o",
+      "ipa": "/o/",
+      "category": "vowel",
+      "codepoints": [
+        "U+3157"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Sun rising Over the horizon.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.3
+            },
+            {
+              "x": 0.5,
+              "y": 0.6
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.2,
+              "y": 0.6
+            },
+            {
+              "x": 0.8,
+              "y": 0.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hangul_u",
+      "glyph": "ㅜ",
+      "romanization": "u",
+      "ipa": "/u/",
+      "category": "vowel",
+      "codepoints": [
+        "U+315C"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Roots reaching Underground down from the soil.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.2,
+              "y": 0.4
+            },
+            {
+              "x": 0.8,
+              "y": 0.4
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.4
+            },
+            {
+              "x": 0.5,
+              "y": 0.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hangul_eu",
+      "glyph": "ㅡ",
+      "romanization": "eu",
+      "ipa": "/ɯ/",
+      "category": "vowel",
+      "codepoints": [
+        "U+3161"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "The flat Earth horizon line.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.2,
+              "y": 0.5
+            },
+            {
+              "x": 0.8,
+              "y": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hangul_i",
+      "glyph": "ㅣ",
+      "romanization": "i",
+      "ipa": "/i/",
+      "category": "vowel",
+      "codepoints": [
+        "U+3163"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "An upright human standing tall between earth and heaven.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.2
+            },
+            {
+              "x": 0.5,
+              "y": 0.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hangul_g",
+      "glyph": "ㄱ",
+      "romanization": "g / k",
+      "ipa": "/k/ or /ɡ/",
+      "category": "consonant",
+      "codepoints": [
+        "U+3131"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "Shaped like the tongue root blocking the throat (Gun / Corner).",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.32
+            },
+            {
+              "x": 0.72,
+              "y": 0.32
+            },
+            {
+              "x": 0.72,
+              "y": 0.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hangul_n",
+      "glyph": "ㄴ",
+      "romanization": "n",
+      "ipa": "/n/",
+      "category": "consonant",
+      "codepoints": [
+        "U+3134"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "Shaped like the tip of the tongue touching the upper gums (Nose / Nest).",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.3
+            },
+            {
+              "x": 0.28,
+              "y": 0.7
+            },
+            {
+              "x": 0.72,
+              "y": 0.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hangul_d",
+      "glyph": "ㄷ",
+      "romanization": "d / t",
+      "ipa": "/t/ or /d/",
+      "category": "consonant",
+      "codepoints": [
+        "U+3137"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A door frame opening to the right.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.3
+            },
+            {
+              "x": 0.72,
+              "y": 0.3
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.3
+            },
+            {
+              "x": 0.28,
+              "y": 0.7
+            },
+            {
+              "x": 0.72,
+              "y": 0.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hangul_r",
+      "glyph": "ㄹ",
+      "romanization": "r / l",
+      "ipa": "/ɾ/ or /l/",
+      "category": "consonant",
+      "codepoints": [
+        "U+3139"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Rattlesnake curling like an S/Z curve.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.28
+            },
+            {
+              "x": 0.7,
+              "y": 0.28
+            },
+            {
+              "x": 0.7,
+              "y": 0.48
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.48
+            },
+            {
+              "x": 0.7,
+              "y": 0.48
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.48
+            },
+            {
+              "x": 0.28,
+              "y": 0.72
+            },
+            {
+              "x": 0.7,
+              "y": 0.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hangul_m",
+      "glyph": "ㅁ",
+      "romanization": "m",
+      "ipa": "/m/",
+      "category": "consonant",
+      "codepoints": [
+        "U+3141"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Closed lips forming a square Mouth.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.3
+            },
+            {
+              "x": 0.28,
+              "y": 0.7
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.3
+            },
+            {
+              "x": 0.72,
+              "y": 0.3
+            },
+            {
+              "x": 0.72,
+              "y": 0.7
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.7
+            },
+            {
+              "x": 0.72,
+              "y": 0.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hangul_b",
+      "glyph": "ㅂ",
+      "romanization": "b / p",
+      "ipa": "/p/ or /b/",
+      "category": "consonant",
+      "codepoints": [
+        "U+3142"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "A bucket holding water with two upright sides.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.25
+            },
+            {
+              "x": 0.3,
+              "y": 0.75
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.25
+            },
+            {
+              "x": 0.7,
+              "y": 0.75
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.5
+            },
+            {
+              "x": 0.7,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.75
+            },
+            {
+              "x": 0.7,
+              "y": 0.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hangul_s",
+      "glyph": "ㅅ",
+      "romanization": "s",
+      "ipa": "/s/ or /ʃ/",
+      "category": "consonant",
+      "codepoints": [
+        "U+3145"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A shape of a Tooth (or a tent / mountain summit).",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.28
+            },
+            {
+              "x": 0.25,
+              "y": 0.75
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.35
+            },
+            {
+              "x": 0.75,
+              "y": 0.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hangul_ng",
+      "glyph": "ㅇ",
+      "romanization": "silent (initial) / ng (final)",
+      "ipa": "silent or /ŋ/",
+      "category": "consonant",
+      "codepoints": [
+        "U+3147"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "A round circle like an empty open mouth or throat.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.25
+            },
+            {
+              "x": 0.25,
+              "y": 0.5
+            },
+            {
+              "x": 0.5,
+              "y": 0.75
+            },
+            {
+              "x": 0.75,
+              "y": 0.5
+            },
+            {
+              "x": 0.5,
+              "y": 0.25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hangul_j",
+      "glyph": "ㅈ",
+      "romanization": "j",
+      "ipa": "/t͡ɕ/ or /d͡ʑ/",
+      "category": "consonant",
+      "codepoints": [
+        "U+3148"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A person wearing a wide-brimmed traditional Korean hat (gat).",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.3
+            },
+            {
+              "x": 0.75,
+              "y": 0.3
+            },
+            {
+              "x": 0.3,
+              "y": 0.75
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.45
+            },
+            {
+              "x": 0.7,
+              "y": 0.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hangul_h",
+      "glyph": "ㅎ",
+      "romanization": "h",
+      "ipa": "/h/",
+      "category": "consonant",
+      "codepoints": [
+        "U+314E"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A man wearing a Hat over a round head.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.4,
+              "y": 0.2
+            },
+            {
+              "x": 0.6,
+              "y": 0.2
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.36
+            },
+            {
+              "x": 0.75,
+              "y": 0.36
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.5
+            },
+            {
+              "x": 0.3,
+              "y": 0.65
+            },
+            {
+              "x": 0.5,
+              "y": 0.8
+            },
+            {
+              "x": 0.7,
+              "y": 0.65
+            },
+            {
+              "x": 0.5,
+              "y": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hangul_ch",
+      "glyph": "ㅊ",
+      "romanization": "ch",
+      "ipa": "/t͡ɕʰ/",
+      "category": "consonant",
+      "codepoints": [
+        "U+314A"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "ㅈ with a feather on top.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.45,
+              "y": 0.18
+            },
+            {
+              "x": 0.55,
+              "y": 0.18
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.34
+            },
+            {
+              "x": 0.75,
+              "y": 0.34
+            },
+            {
+              "x": 0.3,
+              "y": 0.75
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.48
+            },
+            {
+              "x": 0.7,
+              "y": 0.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hangul_k",
+      "glyph": "ㅋ",
+      "romanization": "k",
+      "ipa": "/kʰ/",
+      "category": "consonant",
+      "codepoints": [
+        "U+314B"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "ㄱ with an extra stroke for strong air burst.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.3
+            },
+            {
+              "x": 0.72,
+              "y": 0.3
+            },
+            {
+              "x": 0.72,
+              "y": 0.75
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.52
+            },
+            {
+              "x": 0.72,
+              "y": 0.52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hangul_t",
+      "glyph": "ㅌ",
+      "romanization": "t",
+      "ipa": "/tʰ/",
+      "category": "consonant",
+      "codepoints": [
+        "U+314C"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "ㄷ with an extra tongue line, looks like uppercase E.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.3
+            },
+            {
+              "x": 0.72,
+              "y": 0.3
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.5
+            },
+            {
+              "x": 0.68,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.3
+            },
+            {
+              "x": 0.28,
+              "y": 0.72
+            },
+            {
+              "x": 0.72,
+              "y": 0.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hangul_p",
+      "glyph": "ㅍ",
+      "romanization": "p",
+      "ipa": "/pʰ/",
+      "category": "consonant",
+      "codepoints": [
+        "U+314D"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "Two pillars supporting a beam, looks like Roman numeral II with top/bottom bars.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.3
+            },
+            {
+              "x": 0.75,
+              "y": 0.3
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.4,
+              "y": 0.3
+            },
+            {
+              "x": 0.4,
+              "y": 0.7
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.6,
+              "y": 0.3
+            },
+            {
+              "x": 0.6,
+              "y": 0.7
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.7
+            },
+            {
+              "x": 0.75,
+              "y": 0.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hangul_ya",
+      "glyph": "ㅑ",
+      "romanization": "ya",
+      "ipa": "/ja/",
+      "category": "vowel",
+      "codepoints": [
+        "U+3151"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A standing tree reaching rightward with two sun-facing branches: \"Ya\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.4,
+              "y": 0.2
+            },
+            {
+              "x": 0.4,
+              "y": 0.8
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.4,
+              "y": 0.38
+            },
+            {
+              "x": 0.7,
+              "y": 0.38
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.4,
+              "y": 0.62
+            },
+            {
+              "x": 0.7,
+              "y": 0.62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hangul_yeo",
+      "glyph": "ㅕ",
+      "romanization": "yeo",
+      "ipa": "/jʌ/",
+      "category": "vowel",
+      "codepoints": [
+        "U+3155"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Two branches reaching inward towards the tree trunk: \"Yeo\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.38
+            },
+            {
+              "x": 0.6,
+              "y": 0.38
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.62
+            },
+            {
+              "x": 0.6,
+              "y": 0.62
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.6,
+              "y": 0.2
+            },
+            {
+              "x": 0.6,
+              "y": 0.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hangul_yo",
+      "glyph": "ㅛ",
+      "romanization": "yo",
+      "ipa": "/jo/",
+      "category": "vowel",
+      "codepoints": [
+        "U+315B"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Two green saplings sprouting upward from the soil: \"Yo\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.38,
+              "y": 0.35
+            },
+            {
+              "x": 0.38,
+              "y": 0.6
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.62,
+              "y": 0.35
+            },
+            {
+              "x": 0.62,
+              "y": 0.6
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.2,
+              "y": 0.6
+            },
+            {
+              "x": 0.8,
+              "y": 0.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hangul_yu",
+      "glyph": "ㅠ",
+      "romanization": "yu",
+      "ipa": "/ju/",
+      "category": "vowel",
+      "codepoints": [
+        "U+3160"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Two raindrops falling from a horizontal cloud: \"Yu\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.2,
+              "y": 0.4
+            },
+            {
+              "x": 0.8,
+              "y": 0.4
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.38,
+              "y": 0.4
+            },
+            {
+              "x": 0.38,
+              "y": 0.68
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.62,
+              "y": 0.4
+            },
+            {
+              "x": 0.62,
+              "y": 0.68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hangul_ae",
+      "glyph": "ㅐ",
+      "romanization": "ae",
+      "ipa": "/ɛ/",
+      "category": "vowel",
+      "codepoints": [
+        "U+3150"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Two vertical pillars linked by a center crossbeam: \"Ae\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.2
+            },
+            {
+              "x": 0.35,
+              "y": 0.8
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.5
+            },
+            {
+              "x": 0.65,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.65,
+              "y": 0.2
+            },
+            {
+              "x": 0.65,
+              "y": 0.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hangul_e",
+      "glyph": "ㅔ",
+      "romanization": "e",
+      "ipa": "/e/",
+      "category": "vowel",
+      "codepoints": [
+        "U+3154"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Letter \"ㅓ\" joined back-to-back with pillar \"ㅣ\": \"E\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.2
+            },
+            {
+              "x": 0.35,
+              "y": 0.8
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.5
+            },
+            {
+              "x": 0.65,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.65,
+              "y": 0.2
+            },
+            {
+              "x": 0.65,
+              "y": 0.8
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

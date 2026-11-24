@@ -1,0 +1,1729 @@
+{
+  "schema_version": "1.0.0",
+  "script_id": "classical-latin",
+  "script_name": "Classical Latin Alphabet",
+  "language_codes": [
+    "la"
+  ],
+  "unicode_block": {
+    "start": "U+0041",
+    "end": "U+016A"
+  },
+  "license": "CC-BY-4.0",
+  "origin_type": "cc_by_4_0",
+  "source_citation": "Divinari open writing-system stroke reference (Unicode standard codepoints and geometric stroke paths)",
+  "contributors": [
+    "Adam Blansett (@adamblansett)",
+    "Divinari Contributors"
+  ],
+  "characters": [
+    {
+      "character_id": "cla_a",
+      "glyph": "A",
+      "romanization": "a",
+      "ipa": "/a/",
+      "category": "vowel",
+      "codepoints": [
+        "U+0041"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Short open \"a\" as in father (like \"ah\"), never flat English /æ/. Uppercase A / lowercase a.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.16
+            },
+            {
+              "x": 0.24,
+              "y": 0.84
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.16
+            },
+            {
+              "x": 0.76,
+              "y": 0.84
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.34,
+              "y": 0.56
+            },
+            {
+              "x": 0.66,
+              "y": 0.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cla_e",
+      "glyph": "E",
+      "romanization": "e",
+      "ipa": "/ɛ/",
+      "category": "vowel",
+      "codepoints": [
+        "U+0045"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "Short \"e\" as in bet. Roman stonecutters carved crisp horizontal arms.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.16
+            },
+            {
+              "x": 0.3,
+              "y": 0.84
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.16
+            },
+            {
+              "x": 0.72,
+              "y": 0.16
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.5
+            },
+            {
+              "x": 0.64,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.84
+            },
+            {
+              "x": 0.72,
+              "y": 0.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cla_i",
+      "glyph": "I",
+      "romanization": "i",
+      "ipa": "/ɪ/ or /j/",
+      "category": "vowel",
+      "codepoints": [
+        "U+0049"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "Vowel \"i\" (as in pin) or consonantal \"y\" before another vowel (as in Iūlius). Romans had no separate J.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.16
+            },
+            {
+              "x": 0.5,
+              "y": 0.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cla_o",
+      "glyph": "O",
+      "romanization": "o",
+      "ipa": "/ɔ/",
+      "category": "vowel",
+      "codepoints": [
+        "U+004F"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "Pure rounded short \"o\" as in off or pot, carved as a clean oval.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.16
+            },
+            {
+              "x": 0.24,
+              "y": 0.5
+            },
+            {
+              "x": 0.5,
+              "y": 0.84
+            },
+            {
+              "x": 0.76,
+              "y": 0.5
+            },
+            {
+              "x": 0.5,
+              "y": 0.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cla_u",
+      "glyph": "U",
+      "romanization": "u",
+      "ipa": "/ʊ/",
+      "category": "vowel",
+      "codepoints": [
+        "U+0055"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "Short \"u\" as in put; in antiquity Romans wrote U and V identically as V.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.18
+            },
+            {
+              "x": 0.28,
+              "y": 0.68
+            },
+            {
+              "x": 0.5,
+              "y": 0.84
+            },
+            {
+              "x": 0.72,
+              "y": 0.68
+            },
+            {
+              "x": 0.72,
+              "y": 0.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cla_a_macron",
+      "glyph": "Ā",
+      "romanization": "ā",
+      "ipa": "/aː/",
+      "category": "diacritic",
+      "codepoints": [
+        "U+0100"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "Long held \"aaah\" (twice the beat of short a). Distinguish hic (this) vs. hīc, or malus (bad) vs. mālus (apple tree).",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.24
+            },
+            {
+              "x": 0.24,
+              "y": 0.86
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.24
+            },
+            {
+              "x": 0.76,
+              "y": 0.86
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.34,
+              "y": 0.6
+            },
+            {
+              "x": 0.66,
+              "y": 0.6
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.12
+            },
+            {
+              "x": 0.68,
+              "y": 0.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cla_e_macron",
+      "glyph": "Ē",
+      "romanization": "ē",
+      "ipa": "/eː/",
+      "category": "diacritic",
+      "codepoints": [
+        "U+0112"
+      ],
+      "stroke_count": 5,
+      "mnemonic": "Pure long \"ē\" as in Spanish \"e\" held twice as long (close to they without glide).",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.24
+            },
+            {
+              "x": 0.3,
+              "y": 0.86
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.24
+            },
+            {
+              "x": 0.72,
+              "y": 0.24
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.55
+            },
+            {
+              "x": 0.64,
+              "y": 0.55
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.86
+            },
+            {
+              "x": 0.72,
+              "y": 0.86
+            }
+          ]
+        },
+        {
+          "stroke_index": 5,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.12
+            },
+            {
+              "x": 0.68,
+              "y": 0.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cla_i_macron",
+      "glyph": "Ī",
+      "romanization": "ī",
+      "ipa": "/iː/",
+      "category": "diacritic",
+      "codepoints": [
+        "U+012A"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Long held \"ee\" as in machine. Romans often carved tall I-longa in stone.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.24
+            },
+            {
+              "x": 0.5,
+              "y": 0.86
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.34,
+              "y": 0.12
+            },
+            {
+              "x": 0.66,
+              "y": 0.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cla_o_macron",
+      "glyph": "Ō",
+      "romanization": "ō",
+      "ipa": "/oː/",
+      "category": "diacritic",
+      "codepoints": [
+        "U+014C"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Long held \"ō\" as in more (without gliding into \"w\").",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.24
+            },
+            {
+              "x": 0.24,
+              "y": 0.55
+            },
+            {
+              "x": 0.5,
+              "y": 0.86
+            },
+            {
+              "x": 0.76,
+              "y": 0.55
+            },
+            {
+              "x": 0.5,
+              "y": 0.24
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.12
+            },
+            {
+              "x": 0.68,
+              "y": 0.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cla_u_macron",
+      "glyph": "Ū",
+      "romanization": "ū",
+      "ipa": "/uː/",
+      "category": "diacritic",
+      "codepoints": [
+        "U+016A"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Long held \"oo\" as in moon; distinguishes fructūs (genitive) from fructus (nominative).",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.24
+            },
+            {
+              "x": 0.28,
+              "y": 0.68
+            },
+            {
+              "x": 0.5,
+              "y": 0.86
+            },
+            {
+              "x": 0.72,
+              "y": 0.68
+            },
+            {
+              "x": 0.72,
+              "y": 0.24
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.12
+            },
+            {
+              "x": 0.68,
+              "y": 0.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cla_b",
+      "glyph": "B",
+      "romanization": "b",
+      "ipa": "/b/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0042"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Voiced bilabial stop /b/; before s or t in compounds (urbs) it assimilates toward /p/.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.16
+            },
+            {
+              "x": 0.3,
+              "y": 0.84
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.16
+            },
+            {
+              "x": 0.64,
+              "y": 0.18
+            },
+            {
+              "x": 0.68,
+              "y": 0.34
+            },
+            {
+              "x": 0.3,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.5
+            },
+            {
+              "x": 0.68,
+              "y": 0.6
+            },
+            {
+              "x": 0.68,
+              "y": 0.8
+            },
+            {
+              "x": 0.3,
+              "y": 0.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cla_c",
+      "glyph": "C",
+      "romanization": "c",
+      "ipa": "/k/ (Eccl. /tʃ/)",
+      "category": "consonant",
+      "codepoints": [
+        "U+0043"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "In Classical Latin, C is ALWAYS hard /k/ (Kī-ke-rō); in Ecclesiastical Latin it softens to /tʃ/ before e, i, ae, oe.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.75,
+              "y": 0.28
+            },
+            {
+              "x": 0.5,
+              "y": 0.16
+            },
+            {
+              "x": 0.24,
+              "y": 0.5
+            },
+            {
+              "x": 0.5,
+              "y": 0.84
+            },
+            {
+              "x": 0.75,
+              "y": 0.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cla_d",
+      "glyph": "D",
+      "romanization": "d",
+      "ipa": "/d/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0044"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Crisp dental stop /d/ with tongue right behind the upper teeth.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.16
+            },
+            {
+              "x": 0.28,
+              "y": 0.84
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.16
+            },
+            {
+              "x": 0.68,
+              "y": 0.24
+            },
+            {
+              "x": 0.75,
+              "y": 0.5
+            },
+            {
+              "x": 0.68,
+              "y": 0.76
+            },
+            {
+              "x": 0.28,
+              "y": 0.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cla_g",
+      "glyph": "G",
+      "romanization": "g",
+      "ipa": "/ɡ/ (Eccl. /dʒ/)",
+      "category": "consonant",
+      "codepoints": [
+        "U+0047"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Invented in Rome by Spurius Carvilius adding a bar to C. Always hard /g/ in Classical speech (grātia).",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.74,
+              "y": 0.28
+            },
+            {
+              "x": 0.5,
+              "y": 0.16
+            },
+            {
+              "x": 0.24,
+              "y": 0.5
+            },
+            {
+              "x": 0.5,
+              "y": 0.84
+            },
+            {
+              "x": 0.74,
+              "y": 0.68
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.74,
+              "y": 0.54
+            },
+            {
+              "x": 0.5,
+              "y": 0.54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cla_p",
+      "glyph": "P",
+      "romanization": "p",
+      "ipa": "/p/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0050"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Unaspirated /p/ without heavy English puff of breath.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.16
+            },
+            {
+              "x": 0.3,
+              "y": 0.84
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.16
+            },
+            {
+              "x": 0.66,
+              "y": 0.2
+            },
+            {
+              "x": 0.7,
+              "y": 0.36
+            },
+            {
+              "x": 0.64,
+              "y": 0.52
+            },
+            {
+              "x": 0.3,
+              "y": 0.52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cla_q",
+      "glyph": "Q",
+      "romanization": "q",
+      "ipa": "/kʷ/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0051"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Always paired with U (qu-) pronounced /kw/ as in queen: quī, quod, aqua.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.16
+            },
+            {
+              "x": 0.24,
+              "y": 0.48
+            },
+            {
+              "x": 0.5,
+              "y": 0.8
+            },
+            {
+              "x": 0.76,
+              "y": 0.48
+            },
+            {
+              "x": 0.5,
+              "y": 0.16
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.56,
+              "y": 0.64
+            },
+            {
+              "x": 0.8,
+              "y": 0.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cla_t",
+      "glyph": "T",
+      "romanization": "t",
+      "ipa": "/t/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0054"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Pure unaspirated dental /t/; in Ecclesiastical Latin -ti- before a vowel becomes /tsi/.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.22,
+              "y": 0.18
+            },
+            {
+              "x": 0.78,
+              "y": 0.18
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.18
+            },
+            {
+              "x": 0.5,
+              "y": 0.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cla_f",
+      "glyph": "F",
+      "romanization": "f",
+      "ipa": "/f/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0046"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Clean labiodental fricative /f/ as in father.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.16
+            },
+            {
+              "x": 0.32,
+              "y": 0.84
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.16
+            },
+            {
+              "x": 0.74,
+              "y": 0.16
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.5
+            },
+            {
+              "x": 0.64,
+              "y": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cla_h",
+      "glyph": "H",
+      "romanization": "h",
+      "ipa": "/h/ or silent",
+      "category": "consonant",
+      "codepoints": [
+        "U+0048"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Light breath /h/ in Classical Latin (homō, hōra); silent in Ecclesiastical speech except nihil (/k/).",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.16
+            },
+            {
+              "x": 0.28,
+              "y": 0.84
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.72,
+              "y": 0.16
+            },
+            {
+              "x": 0.72,
+              "y": 0.84
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.5
+            },
+            {
+              "x": 0.72,
+              "y": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cla_l",
+      "glyph": "L",
+      "romanization": "l",
+      "ipa": "/l/",
+      "category": "consonant",
+      "codepoints": [
+        "U+004C"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Clear liquid /l/ forming words like lēx (law) and lūx (light).",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.16
+            },
+            {
+              "x": 0.32,
+              "y": 0.84
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.84
+            },
+            {
+              "x": 0.72,
+              "y": 0.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cla_m",
+      "glyph": "M",
+      "romanization": "m",
+      "ipa": "/m/",
+      "category": "consonant",
+      "codepoints": [
+        "U+004D"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "Two peaks for M; Roman Numeral M equals mille (1,000).",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.2,
+              "y": 0.84
+            },
+            {
+              "x": 0.2,
+              "y": 0.18
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.2,
+              "y": 0.18
+            },
+            {
+              "x": 0.5,
+              "y": 0.62
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.62
+            },
+            {
+              "x": 0.8,
+              "y": 0.18
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.8,
+              "y": 0.18
+            },
+            {
+              "x": 0.8,
+              "y": 0.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cla_n",
+      "glyph": "N",
+      "romanization": "n",
+      "ipa": "/n/",
+      "category": "consonant",
+      "codepoints": [
+        "U+004E"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Crisp nasal /n/ bridging two vertical pillars.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.26,
+              "y": 0.84
+            },
+            {
+              "x": 0.26,
+              "y": 0.18
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.26,
+              "y": 0.18
+            },
+            {
+              "x": 0.74,
+              "y": 0.84
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.74,
+              "y": 0.84
+            },
+            {
+              "x": 0.74,
+              "y": 0.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cla_r",
+      "glyph": "R",
+      "romanization": "r",
+      "ipa": "/r/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0052"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Trilled \"canine letter\" (littera canīna): tap or roll every R, even at the end of a word.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.16
+            },
+            {
+              "x": 0.28,
+              "y": 0.84
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.16
+            },
+            {
+              "x": 0.64,
+              "y": 0.18
+            },
+            {
+              "x": 0.68,
+              "y": 0.34
+            },
+            {
+              "x": 0.62,
+              "y": 0.5
+            },
+            {
+              "x": 0.28,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.46,
+              "y": 0.5
+            },
+            {
+              "x": 0.74,
+              "y": 0.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cla_s",
+      "glyph": "S",
+      "romanization": "s",
+      "ipa": "/s/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0053"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "Always voiceless /s/ as in see (even between vowels like rosa /ˈro.sa/ in Classical Latin).",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.24
+            },
+            {
+              "x": 0.48,
+              "y": 0.16
+            },
+            {
+              "x": 0.3,
+              "y": 0.3
+            },
+            {
+              "x": 0.5,
+              "y": 0.5
+            },
+            {
+              "x": 0.72,
+              "y": 0.68
+            },
+            {
+              "x": 0.5,
+              "y": 0.84
+            },
+            {
+              "x": 0.28,
+              "y": 0.74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cla_v",
+      "glyph": "V",
+      "romanization": "v",
+      "ipa": "/w/ (Eccl. /v/)",
+      "category": "consonant",
+      "codepoints": [
+        "U+0056"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "In Classical Latin, V sounded like English /w/ (\"WAY-nee, WEE-dee, WEE-kee\"); in Ecclesiastical Latin it sounds like /v/. Also numeral 5.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.24,
+              "y": 0.18
+            },
+            {
+              "x": 0.5,
+              "y": 0.84
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.84
+            },
+            {
+              "x": 0.76,
+              "y": 0.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cla_k",
+      "glyph": "K",
+      "romanization": "k",
+      "ipa": "/k/",
+      "category": "consonant",
+      "codepoints": [
+        "U+004B"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Survives mainly in old Roman words like Kalendae (the first day of the month, source of \"calendar\").",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.16
+            },
+            {
+              "x": 0.28,
+              "y": 0.84
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.72,
+              "y": 0.18
+            },
+            {
+              "x": 0.3,
+              "y": 0.52
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.42,
+              "y": 0.44
+            },
+            {
+              "x": 0.74,
+              "y": 0.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cla_x",
+      "glyph": "X",
+      "romanization": "x",
+      "ipa": "/ks/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0058"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Double consonant representing /k + s/ (pāx, lēx, rēx, vōx); Roman Numeral for 10.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.24,
+              "y": 0.18
+            },
+            {
+              "x": 0.76,
+              "y": 0.84
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.76,
+              "y": 0.18
+            },
+            {
+              "x": 0.24,
+              "y": 0.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cla_y",
+      "glyph": "Y",
+      "romanization": "y",
+      "ipa": "/y/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0059"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Adopted from Greek Upsilon (called i graeca, \"Greek I\") strictly for Greek loanwords like hymnus and mystērium.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.24,
+              "y": 0.18
+            },
+            {
+              "x": 0.5,
+              "y": 0.52
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.76,
+              "y": 0.18
+            },
+            {
+              "x": 0.5,
+              "y": 0.52
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.52
+            },
+            {
+              "x": 0.5,
+              "y": 0.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cla_z",
+      "glyph": "Z",
+      "romanization": "z",
+      "ipa": "/dz/",
+      "category": "consonant",
+      "codepoints": [
+        "U+005A"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "Placed at the very end of the Roman alphabet for Greek loanwords like zēlus and zōna.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.24,
+              "y": 0.2
+            },
+            {
+              "x": 0.76,
+              "y": 0.2
+            },
+            {
+              "x": 0.24,
+              "y": 0.82
+            },
+            {
+              "x": 0.76,
+              "y": 0.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cla_ae",
+      "glyph": "AE",
+      "romanization": "ae",
+      "ipa": "/ae̯/ (Eccl. /ɛ/)",
+      "category": "vowel",
+      "codepoints": [
+        "U+0041",
+        "U+0045"
+      ],
+      "stroke_count": 5,
+      "mnemonic": "Gliding diphthong pronounced \"eye\" in Classical Latin (caelum = KYE-lum), and /e/ in Ecclesiastical Latin (CHE-lum).",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.2
+            },
+            {
+              "x": 0.12,
+              "y": 0.82
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.2
+            },
+            {
+              "x": 0.46,
+              "y": 0.82
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.18,
+              "y": 0.56
+            },
+            {
+              "x": 0.4,
+              "y": 0.56
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.56,
+              "y": 0.2
+            },
+            {
+              "x": 0.56,
+              "y": 0.82
+            }
+          ]
+        },
+        {
+          "stroke_index": 5,
+          "points": [
+            {
+              "x": 0.56,
+              "y": 0.2
+            },
+            {
+              "x": 0.86,
+              "y": 0.2
+            },
+            {
+              "x": 0.56,
+              "y": 0.5
+            },
+            {
+              "x": 0.86,
+              "y": 0.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cla_oe",
+      "glyph": "OE",
+      "romanization": "oe",
+      "ipa": "/oe̯/ (Eccl. /ɛ/)",
+      "category": "vowel",
+      "codepoints": [
+        "U+004F",
+        "U+0045"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Pronounced like \"oy\" in boy in Classical Latin (foedus = FOY-dus); /e/ in Ecclesiastical speech.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.2
+            },
+            {
+              "x": 0.14,
+              "y": 0.5
+            },
+            {
+              "x": 0.32,
+              "y": 0.82
+            },
+            {
+              "x": 0.48,
+              "y": 0.5
+            },
+            {
+              "x": 0.32,
+              "y": 0.2
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.56,
+              "y": 0.2
+            },
+            {
+              "x": 0.56,
+              "y": 0.82
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.56,
+              "y": 0.2
+            },
+            {
+              "x": 0.86,
+              "y": 0.2
+            },
+            {
+              "x": 0.56,
+              "y": 0.5
+            },
+            {
+              "x": 0.86,
+              "y": 0.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cla_au",
+      "glyph": "AU",
+      "romanization": "au",
+      "ipa": "/au̯/",
+      "category": "vowel",
+      "codepoints": [
+        "U+0041",
+        "U+0055"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "Pronounced \"ow\" as in house: aurum (gold), laudāre (to praise), audio (I hear).",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.2
+            },
+            {
+              "x": 0.12,
+              "y": 0.82
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.2
+            },
+            {
+              "x": 0.44,
+              "y": 0.82
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.18,
+              "y": 0.56
+            },
+            {
+              "x": 0.38,
+              "y": 0.56
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.56,
+              "y": 0.2
+            },
+            {
+              "x": 0.56,
+              "y": 0.72
+            },
+            {
+              "x": 0.7,
+              "y": 0.82
+            },
+            {
+              "x": 0.84,
+              "y": 0.72
+            },
+            {
+              "x": 0.84,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

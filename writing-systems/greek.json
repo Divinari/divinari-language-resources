@@ -1,0 +1,1454 @@
+{
+  "schema_version": "1.0.0",
+  "script_id": "greek",
+  "script_name": "Ancient Greek Alphabet",
+  "language_codes": [
+    "grc",
+    "el"
+  ],
+  "unicode_block": {
+    "start": "U+03B1",
+    "end": "U+1F01"
+  },
+  "license": "CC-BY-4.0",
+  "origin_type": "cc_by_4_0",
+  "source_citation": "Divinari open writing-system stroke reference (Unicode standard codepoints and geometric stroke paths)",
+  "contributors": [
+    "Adam Blansett (@adamblansett)",
+    "Divinari Contributors"
+  ],
+  "characters": [
+    {
+      "character_id": "grc_alpha",
+      "glyph": "α",
+      "romanization": "Alpha",
+      "ipa": "/a/ or /aː/",
+      "category": "vowel",
+      "codepoints": [
+        "U+03B1"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "A loop that ties forward like a fish swimming right.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.75,
+              "y": 0.35
+            },
+            {
+              "x": 0.35,
+              "y": 0.4
+            },
+            {
+              "x": 0.25,
+              "y": 0.6
+            },
+            {
+              "x": 0.45,
+              "y": 0.75
+            },
+            {
+              "x": 0.75,
+              "y": 0.5
+            },
+            {
+              "x": 0.85,
+              "y": 0.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "grc_beta",
+      "glyph": "β",
+      "romanization": "Beta",
+      "ipa": "/b/ or /v/",
+      "category": "consonant",
+      "codepoints": [
+        "U+03B2"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "A deep descending stem with two rounded sails.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.85
+            },
+            {
+              "x": 0.35,
+              "y": 0.2
+            },
+            {
+              "x": 0.65,
+              "y": 0.35
+            },
+            {
+              "x": 0.35,
+              "y": 0.5
+            },
+            {
+              "x": 0.7,
+              "y": 0.65
+            },
+            {
+              "x": 0.35,
+              "y": 0.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "grc_gamma",
+      "glyph": "γ",
+      "romanization": "Gamma",
+      "ipa": "/ɡ/ or /ɣ/",
+      "category": "consonant",
+      "codepoints": [
+        "U+03B3"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A branch splitting into a graceful fork below the line.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.3
+            },
+            {
+              "x": 0.5,
+              "y": 0.6
+            },
+            {
+              "x": 0.45,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.3
+            },
+            {
+              "x": 0.5,
+              "y": 0.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "grc_delta",
+      "glyph": "δ",
+      "romanization": "Delta",
+      "ipa": "/d/ or /ð/",
+      "category": "consonant",
+      "codepoints": [
+        "U+03B4"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "A curled musical clef forming a secure triangle base.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.55,
+              "y": 0.2
+            },
+            {
+              "x": 0.3,
+              "y": 0.35
+            },
+            {
+              "x": 0.4,
+              "y": 0.75
+            },
+            {
+              "x": 0.65,
+              "y": 0.75
+            },
+            {
+              "x": 0.65,
+              "y": 0.4
+            },
+            {
+              "x": 0.4,
+              "y": 0.55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "grc_epsilon",
+      "glyph": "ε",
+      "romanization": "Epsilon",
+      "ipa": "/e/",
+      "category": "vowel",
+      "codepoints": [
+        "U+03B5"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A rounded backward 3 opening right: \"Epsilon\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.3
+            },
+            {
+              "x": 0.35,
+              "y": 0.35
+            },
+            {
+              "x": 0.35,
+              "y": 0.5
+            },
+            {
+              "x": 0.6,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.6,
+              "y": 0.5
+            },
+            {
+              "x": 0.35,
+              "y": 0.52
+            },
+            {
+              "x": 0.35,
+              "y": 0.75
+            },
+            {
+              "x": 0.7,
+              "y": 0.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "grc_zeta",
+      "glyph": "ζ",
+      "romanization": "Zeta",
+      "ipa": "/zd/ or /dz/",
+      "category": "consonant",
+      "codepoints": [
+        "U+03B6"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "A lightning zig-zag looping into an elegant tail: \"Zeta\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.25
+            },
+            {
+              "x": 0.65,
+              "y": 0.25
+            },
+            {
+              "x": 0.45,
+              "y": 0.5
+            },
+            {
+              "x": 0.6,
+              "y": 0.55
+            },
+            {
+              "x": 0.4,
+              "y": 0.85
+            },
+            {
+              "x": 0.3,
+              "y": 0.95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "grc_eta",
+      "glyph": "η",
+      "romanization": "Eta",
+      "ipa": "/ɛː/",
+      "category": "vowel",
+      "codepoints": [
+        "U+03B7"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Looks like Latin n with a long dangling right leg: \"Eta\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.3
+            },
+            {
+              "x": 0.35,
+              "y": 0.75
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.45
+            },
+            {
+              "x": 0.65,
+              "y": 0.35
+            },
+            {
+              "x": 0.65,
+              "y": 0.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "grc_theta",
+      "glyph": "θ",
+      "romanization": "Theta",
+      "ipa": "/tʰ/ or /θ/",
+      "category": "consonant",
+      "codepoints": [
+        "U+03B8"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A shield with a horizontal spear across: \"Theta\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.2
+            },
+            {
+              "x": 0.3,
+              "y": 0.35
+            },
+            {
+              "x": 0.3,
+              "y": 0.65
+            },
+            {
+              "x": 0.5,
+              "y": 0.8
+            },
+            {
+              "x": 0.7,
+              "y": 0.65
+            },
+            {
+              "x": 0.7,
+              "y": 0.35
+            },
+            {
+              "x": 0.5,
+              "y": 0.2
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.5
+            },
+            {
+              "x": 0.65,
+              "y": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "grc_iota",
+      "glyph": "ι",
+      "romanization": "Iota",
+      "ipa": "/i/ or /iː/",
+      "category": "vowel",
+      "codepoints": [
+        "U+03B9"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "The smallest stroke in the alphabet: \"Iota\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.48,
+              "y": 0.3
+            },
+            {
+              "x": 0.48,
+              "y": 0.7
+            },
+            {
+              "x": 0.6,
+              "y": 0.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "grc_kappa",
+      "glyph": "κ",
+      "romanization": "Kappa",
+      "ipa": "/k/",
+      "category": "consonant",
+      "codepoints": [
+        "U+03BA"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A vertical post with two reaching hands: \"Kappa\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.3
+            },
+            {
+              "x": 0.35,
+              "y": 0.8
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.65,
+              "y": 0.35
+            },
+            {
+              "x": 0.38,
+              "y": 0.55
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.4,
+              "y": 0.52
+            },
+            {
+              "x": 0.68,
+              "y": 0.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "grc_lambda",
+      "glyph": "λ",
+      "romanization": "Lambda",
+      "ipa": "/l/",
+      "category": "consonant",
+      "codepoints": [
+        "U+03BB"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "An easel standing tall: \"Lambda\" for Logos.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.45,
+              "y": 0.2
+            },
+            {
+              "x": 0.25,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.42,
+              "y": 0.4
+            },
+            {
+              "x": 0.75,
+              "y": 0.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "grc_mu",
+      "glyph": "μ",
+      "romanization": "Mu",
+      "ipa": "/m/",
+      "category": "consonant",
+      "codepoints": [
+        "U+03BC"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "A long left leg running up into a double valley: \"Mu\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.9
+            },
+            {
+              "x": 0.28,
+              "y": 0.35
+            },
+            {
+              "x": 0.48,
+              "y": 0.65
+            },
+            {
+              "x": 0.68,
+              "y": 0.35
+            },
+            {
+              "x": 0.68,
+              "y": 0.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "grc_nu",
+      "glyph": "ν",
+      "romanization": "Nu",
+      "ipa": "/n/",
+      "category": "consonant",
+      "codepoints": [
+        "U+03BD"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "Looks like a sharp modern v, but sounds like \"Nu\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.3
+            },
+            {
+              "x": 0.5,
+              "y": 0.8
+            },
+            {
+              "x": 0.72,
+              "y": 0.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "grc_xi",
+      "glyph": "ξ",
+      "romanization": "Xi",
+      "ipa": "/ks/",
+      "category": "consonant",
+      "codepoints": [
+        "U+03BE"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "Three flowing cursive coils stacked together: \"Xi\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.25
+            },
+            {
+              "x": 0.65,
+              "y": 0.25
+            },
+            {
+              "x": 0.4,
+              "y": 0.45
+            },
+            {
+              "x": 0.6,
+              "y": 0.5
+            },
+            {
+              "x": 0.38,
+              "y": 0.7
+            },
+            {
+              "x": 0.65,
+              "y": 0.75
+            },
+            {
+              "x": 0.35,
+              "y": 0.95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "grc_omicron",
+      "glyph": "ο",
+      "romanization": "Omicron",
+      "ipa": "/o/",
+      "category": "vowel",
+      "codepoints": [
+        "U+03BF"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "Little O (\"Omicron\"), the small round vowel.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.32
+            },
+            {
+              "x": 0.28,
+              "y": 0.52
+            },
+            {
+              "x": 0.5,
+              "y": 0.75
+            },
+            {
+              "x": 0.72,
+              "y": 0.52
+            },
+            {
+              "x": 0.5,
+              "y": 0.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "grc_pi",
+      "glyph": "π",
+      "romanization": "Pi",
+      "ipa": "/p/",
+      "category": "consonant",
+      "codepoints": [
+        "U+03C0"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Two pillars holding up a horizontal stone lintel: \"Pi\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.22,
+              "y": 0.32
+            },
+            {
+              "x": 0.78,
+              "y": 0.32
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.32
+            },
+            {
+              "x": 0.35,
+              "y": 0.82
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.65,
+              "y": 0.32
+            },
+            {
+              "x": 0.65,
+              "y": 0.8
+            },
+            {
+              "x": 0.72,
+              "y": 0.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "grc_rho",
+      "glyph": "ρ",
+      "romanization": "Rho",
+      "ipa": "/r/ or /r̥/",
+      "category": "consonant",
+      "codepoints": [
+        "U+03C1"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "Looks like Latin p, but rolls like \"Rho\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.9
+            },
+            {
+              "x": 0.35,
+              "y": 0.3
+            },
+            {
+              "x": 0.65,
+              "y": 0.3
+            },
+            {
+              "x": 0.65,
+              "y": 0.55
+            },
+            {
+              "x": 0.35,
+              "y": 0.55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "grc_sigma",
+      "glyph": "σ",
+      "romanization": "Sigma",
+      "ipa": "/s/",
+      "category": "consonant",
+      "codepoints": [
+        "U+03C3"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "A crystal ball with a cap flag blowing in the wind: \"Sigma\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.75,
+              "y": 0.32
+            },
+            {
+              "x": 0.5,
+              "y": 0.32
+            },
+            {
+              "x": 0.3,
+              "y": 0.52
+            },
+            {
+              "x": 0.5,
+              "y": 0.75
+            },
+            {
+              "x": 0.7,
+              "y": 0.52
+            },
+            {
+              "x": 0.5,
+              "y": 0.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "grc_tau",
+      "glyph": "τ",
+      "romanization": "Tau",
+      "ipa": "/t/",
+      "category": "consonant",
+      "codepoints": [
+        "U+03C4"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A cross shaped like the letter T: \"Tau\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.38
+            },
+            {
+              "x": 0.75,
+              "y": 0.32
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.32
+            },
+            {
+              "x": 0.5,
+              "y": 0.75
+            },
+            {
+              "x": 0.62,
+              "y": 0.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "grc_upsilon",
+      "glyph": "υ",
+      "romanization": "Upsilon",
+      "ipa": "/y/ or /yː/",
+      "category": "vowel",
+      "codepoints": [
+        "U+03C5"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "A goblet or chalice: \"Upsilon\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.32
+            },
+            {
+              "x": 0.35,
+              "y": 0.65
+            },
+            {
+              "x": 0.5,
+              "y": 0.78
+            },
+            {
+              "x": 0.65,
+              "y": 0.65
+            },
+            {
+              "x": 0.7,
+              "y": 0.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "grc_phi",
+      "glyph": "φ",
+      "romanization": "Phi",
+      "ipa": "/pʰ/ or /f/",
+      "category": "consonant",
+      "codepoints": [
+        "U+03C6"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A circle pierced by a sword: \"Phi\" for Philia (love).",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.35
+            },
+            {
+              "x": 0.28,
+              "y": 0.48
+            },
+            {
+              "x": 0.5,
+              "y": 0.65
+            },
+            {
+              "x": 0.72,
+              "y": 0.48
+            },
+            {
+              "x": 0.5,
+              "y": 0.35
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.18
+            },
+            {
+              "x": 0.5,
+              "y": 0.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "grc_chi",
+      "glyph": "χ",
+      "romanization": "Chi",
+      "ipa": "/kʰ/ or /x/",
+      "category": "consonant",
+      "codepoints": [
+        "U+03C7"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "The sacred cross of Christ (Christos): \"Chi\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.22
+            },
+            {
+              "x": 0.72,
+              "y": 0.88
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.72,
+              "y": 0.22
+            },
+            {
+              "x": 0.28,
+              "y": 0.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "grc_psi",
+      "glyph": "ψ",
+      "romanization": "Psi",
+      "ipa": "/ps/",
+      "category": "consonant",
+      "codepoints": [
+        "U+03C8"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Poseidon's three-pronged trident: \"Psi\" for Psyche (soul).",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.32
+            },
+            {
+              "x": 0.35,
+              "y": 0.65
+            },
+            {
+              "x": 0.5,
+              "y": 0.7
+            },
+            {
+              "x": 0.65,
+              "y": 0.65
+            },
+            {
+              "x": 0.75,
+              "y": 0.32
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.18
+            },
+            {
+              "x": 0.5,
+              "y": 0.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "grc_omega",
+      "glyph": "ω",
+      "romanization": "Omega",
+      "ipa": "/ɔː/",
+      "category": "vowel",
+      "codepoints": [
+        "U+03C9"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "Two rounded bowls resting side by side: Ω / ω — the ultimate end.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.2,
+              "y": 0.45
+            },
+            {
+              "x": 0.25,
+              "y": 0.75
+            },
+            {
+              "x": 0.5,
+              "y": 0.75
+            },
+            {
+              "x": 0.5,
+              "y": 0.5
+            },
+            {
+              "x": 0.5,
+              "y": 0.75
+            },
+            {
+              "x": 0.75,
+              "y": 0.75
+            },
+            {
+              "x": 0.8,
+              "y": 0.45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "grc_final_sigma",
+      "glyph": "ς",
+      "romanization": "Final Sigma",
+      "ipa": "/s/",
+      "category": "diacritic",
+      "codepoints": [
+        "U+03C2"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "Sigma changes shape from σ to ς whenever it finishes a word (λόγος, θεός).",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.68,
+              "y": 0.25
+            },
+            {
+              "x": 0.36,
+              "y": 0.3
+            },
+            {
+              "x": 0.32,
+              "y": 0.56
+            },
+            {
+              "x": 0.58,
+              "y": 0.66
+            },
+            {
+              "x": 0.62,
+              "y": 0.84
+            },
+            {
+              "x": 0.42,
+              "y": 0.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "grc_smooth_breathing",
+      "glyph": "ἀ",
+      "romanization": "Smooth Breathing",
+      "ipa": "/a/",
+      "category": "diacritic",
+      "codepoints": [
+        "U+1F00"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Psilē (ʼ): comma facing left over an initial vowel adds NO \"h\" sound (ἀγάπη = a-GA-pē).",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.74,
+              "y": 0.42
+            },
+            {
+              "x": 0.36,
+              "y": 0.46
+            },
+            {
+              "x": 0.28,
+              "y": 0.66
+            },
+            {
+              "x": 0.46,
+              "y": 0.8
+            },
+            {
+              "x": 0.74,
+              "y": 0.56
+            },
+            {
+              "x": 0.84,
+              "y": 0.8
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.48,
+              "y": 0.14
+            },
+            {
+              "x": 0.54,
+              "y": 0.22
+            },
+            {
+              "x": 0.46,
+              "y": 0.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "grc_rough_breathing",
+      "glyph": "ἁ",
+      "romanization": "Rough Breathing",
+      "ipa": "/ha/",
+      "category": "diacritic",
+      "codepoints": [
+        "U+1F01"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Daseia (ʽ): opening right adds a clear initial /h/ sound — source of English h- words like ὕδωρ (hydro-) and ὁδός (odometer).",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.74,
+              "y": 0.42
+            },
+            {
+              "x": 0.36,
+              "y": 0.46
+            },
+            {
+              "x": 0.28,
+              "y": 0.66
+            },
+            {
+              "x": 0.46,
+              "y": 0.8
+            },
+            {
+              "x": 0.74,
+              "y": 0.56
+            },
+            {
+              "x": 0.84,
+              "y": 0.8
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.54,
+              "y": 0.14
+            },
+            {
+              "x": 0.46,
+              "y": 0.22
+            },
+            {
+              "x": 0.54,
+              "y": 0.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "grc_diphthong_ai",
+      "glyph": "αι",
+      "romanization": "ai",
+      "ipa": "/ai̯/ or /ɛ/",
+      "category": "diacritic",
+      "codepoints": [
+        "U+03B1",
+        "U+03B9"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Classical \"ai\" like aisle (καί = kai, \"and\"). Breathing or accent rests on the second vowel ι.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.54,
+              "y": 0.38
+            },
+            {
+              "x": 0.24,
+              "y": 0.42
+            },
+            {
+              "x": 0.18,
+              "y": 0.62
+            },
+            {
+              "x": 0.32,
+              "y": 0.74
+            },
+            {
+              "x": 0.54,
+              "y": 0.5
+            },
+            {
+              "x": 0.6,
+              "y": 0.74
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.74,
+              "y": 0.36
+            },
+            {
+              "x": 0.74,
+              "y": 0.72
+            },
+            {
+              "x": 0.84,
+              "y": 0.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "grc_diphthong_ei",
+      "glyph": "ει",
+      "romanization": "ei",
+      "ipa": "/eː/ or /i/",
+      "category": "diacritic",
+      "codepoints": [
+        "U+03B5",
+        "U+03B9"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Smooth long /eː/ (like eight) in Attic, shifting to /i/ in Koine: εἰρήνη (peace), εἰμί (I am).",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.52,
+              "y": 0.34
+            },
+            {
+              "x": 0.24,
+              "y": 0.4
+            },
+            {
+              "x": 0.24,
+              "y": 0.54
+            },
+            {
+              "x": 0.46,
+              "y": 0.54
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.46,
+              "y": 0.54
+            },
+            {
+              "x": 0.24,
+              "y": 0.58
+            },
+            {
+              "x": 0.24,
+              "y": 0.76
+            },
+            {
+              "x": 0.52,
+              "y": 0.76
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.72,
+              "y": 0.34
+            },
+            {
+              "x": 0.72,
+              "y": 0.72
+            },
+            {
+              "x": 0.84,
+              "y": 0.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "grc_diphthong_ou",
+      "glyph": "ου",
+      "romanization": "ou",
+      "ipa": "/uː/",
+      "category": "diacritic",
+      "codepoints": [
+        "U+03BF",
+        "U+03C5"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Long pure /uː/ like \"moon\": οὐρανός (heaven/sky), οὐ (not).",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.36
+            },
+            {
+              "x": 0.16,
+              "y": 0.54
+            },
+            {
+              "x": 0.32,
+              "y": 0.74
+            },
+            {
+              "x": 0.48,
+              "y": 0.54
+            },
+            {
+              "x": 0.32,
+              "y": 0.36
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.56,
+              "y": 0.36
+            },
+            {
+              "x": 0.6,
+              "y": 0.66
+            },
+            {
+              "x": 0.7,
+              "y": 0.76
+            },
+            {
+              "x": 0.8,
+              "y": 0.66
+            },
+            {
+              "x": 0.84,
+              "y": 0.36
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

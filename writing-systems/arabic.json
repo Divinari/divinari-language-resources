@@ -1,0 +1,1495 @@
+{
+  "schema_version": "1.0.0",
+  "script_id": "arabic",
+  "script_name": "Arabic Alphabet",
+  "language_codes": [
+    "ar"
+  ],
+  "unicode_block": {
+    "start": "U+0627",
+    "end": "U+064A"
+  },
+  "license": "CC-BY-4.0",
+  "origin_type": "cc_by_4_0",
+  "source_citation": "Divinari open writing-system stroke reference (Unicode standard codepoints and geometric stroke paths)",
+  "contributors": [
+    "Adam Blansett (@adamblansett)",
+    "Divinari Contributors"
+  ],
+  "characters": [
+    {
+      "character_id": "ar_alif",
+      "glyph": "ا",
+      "romanization": "Alif",
+      "ipa": "/ʔ/ or /aː/",
+      "category": "vowel",
+      "codepoints": [
+        "U+0627"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "A straight standing staff or pillar extending downwards.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.15
+            },
+            {
+              "x": 0.5,
+              "y": 0.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "ar_ba",
+      "glyph": "ب",
+      "romanization": "Bāʼ",
+      "ipa": "/b/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0628"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A shallow dish with one precious pearl beneath it.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.8,
+              "y": 0.5
+            },
+            {
+              "x": 0.8,
+              "y": 0.65
+            },
+            {
+              "x": 0.2,
+              "y": 0.65
+            },
+            {
+              "x": 0.2,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.8
+            },
+            {
+              "x": 0.5,
+              "y": 0.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "ar_ta",
+      "glyph": "ت",
+      "romanization": "Tāʼ",
+      "ipa": "/t/",
+      "category": "consonant",
+      "codepoints": [
+        "U+062A"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A shallow dish carrying Two tea pearls inside.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.8,
+              "y": 0.5
+            },
+            {
+              "x": 0.8,
+              "y": 0.65
+            },
+            {
+              "x": 0.2,
+              "y": 0.65
+            },
+            {
+              "x": 0.2,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.45,
+              "y": 0.4
+            },
+            {
+              "x": 0.45,
+              "y": 0.42
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.55,
+              "y": 0.4
+            },
+            {
+              "x": 0.55,
+              "y": 0.42
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "ar_tha",
+      "glyph": "ث",
+      "romanization": "Thāʼ",
+      "ipa": "/θ/",
+      "category": "consonant",
+      "codepoints": [
+        "U+062B"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "A shallow dish carrying Three precious jewels on top.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.8,
+              "y": 0.5
+            },
+            {
+              "x": 0.8,
+              "y": 0.65
+            },
+            {
+              "x": 0.2,
+              "y": 0.65
+            },
+            {
+              "x": 0.2,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.35
+            },
+            {
+              "x": 0.5,
+              "y": 0.37
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.45,
+              "y": 0.42
+            },
+            {
+              "x": 0.45,
+              "y": 0.44
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.55,
+              "y": 0.42
+            },
+            {
+              "x": 0.55,
+              "y": 0.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "ar_jim",
+      "glyph": "ج",
+      "romanization": "Jīm",
+      "ipa": "/d͡ʒ/",
+      "category": "consonant",
+      "codepoints": [
+        "U+062C"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A camel's belly with a single date inside.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.35
+            },
+            {
+              "x": 0.7,
+              "y": 0.35
+            },
+            {
+              "x": 0.45,
+              "y": 0.5
+            },
+            {
+              "x": 0.7,
+              "y": 0.75
+            },
+            {
+              "x": 0.3,
+              "y": 0.75
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.62
+            },
+            {
+              "x": 0.5,
+              "y": 0.64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "ar_ha",
+      "glyph": "ح",
+      "romanization": "Ḥāʼ",
+      "ipa": "/ħ/",
+      "category": "consonant",
+      "codepoints": [
+        "U+062D"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "A camel's body without any marks: deep voiceless \"Ḥāʼ\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.35
+            },
+            {
+              "x": 0.7,
+              "y": 0.35
+            },
+            {
+              "x": 0.45,
+              "y": 0.5
+            },
+            {
+              "x": 0.7,
+              "y": 0.75
+            },
+            {
+              "x": 0.3,
+              "y": 0.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "ar_kha",
+      "glyph": "خ",
+      "romanization": "Khāʼ",
+      "ipa": "/x/",
+      "category": "consonant",
+      "codepoints": [
+        "U+062E"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "The camel has a crumb sitting on its head: guttural \"Khāʼ\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.35
+            },
+            {
+              "x": 0.7,
+              "y": 0.35
+            },
+            {
+              "x": 0.45,
+              "y": 0.5
+            },
+            {
+              "x": 0.7,
+              "y": 0.75
+            },
+            {
+              "x": 0.3,
+              "y": 0.75
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.22
+            },
+            {
+              "x": 0.5,
+              "y": 0.24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "ar_dal",
+      "glyph": "د",
+      "romanization": "Dāl",
+      "ipa": "/d/",
+      "category": "consonant",
+      "codepoints": [
+        "U+062F"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "A door opening at a sharp 45-degree angle: \"Dāl\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.65,
+              "y": 0.38
+            },
+            {
+              "x": 0.42,
+              "y": 0.65
+            },
+            {
+              "x": 0.75,
+              "y": 0.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "ar_dhal",
+      "glyph": "ذ",
+      "romanization": "Dhāl",
+      "ipa": "/ð/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0630"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "The door with a peephole dot on top: voiced \"Dhāl\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.65,
+              "y": 0.38
+            },
+            {
+              "x": 0.42,
+              "y": 0.65
+            },
+            {
+              "x": 0.75,
+              "y": 0.65
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.55,
+              "y": 0.25
+            },
+            {
+              "x": 0.55,
+              "y": 0.27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "ar_ra",
+      "glyph": "ر",
+      "romanization": "Rāʼ",
+      "ipa": "/r/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0631"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "A smooth banana or playground slide: rolled \"Rāʼ\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.65,
+              "y": 0.45
+            },
+            {
+              "x": 0.5,
+              "y": 0.6
+            },
+            {
+              "x": 0.35,
+              "y": 0.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "ar_zay",
+      "glyph": "ز",
+      "romanization": "Zāy",
+      "ipa": "/z/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0632"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A slide with a flying insect buzzing above it: \"Zāy\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.65,
+              "y": 0.45
+            },
+            {
+              "x": 0.5,
+              "y": 0.6
+            },
+            {
+              "x": 0.35,
+              "y": 0.82
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.58,
+              "y": 0.3
+            },
+            {
+              "x": 0.58,
+              "y": 0.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "ar_seen",
+      "glyph": "س",
+      "romanization": "Sīn",
+      "ipa": "/s/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0633"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "Three sharp smiling teeth scooping into a water bowl: \"Sīn\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.78,
+              "y": 0.45
+            },
+            {
+              "x": 0.68,
+              "y": 0.55
+            },
+            {
+              "x": 0.58,
+              "y": 0.45
+            },
+            {
+              "x": 0.48,
+              "y": 0.55
+            },
+            {
+              "x": 0.38,
+              "y": 0.45
+            },
+            {
+              "x": 0.38,
+              "y": 0.72
+            },
+            {
+              "x": 0.2,
+              "y": 0.8
+            },
+            {
+              "x": 0.15,
+              "y": 0.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "ar_sheen",
+      "glyph": "ش",
+      "romanization": "Shīn",
+      "ipa": "/ʃ/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0634"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "Three teeth crowned with three shining stars: \"Shīn\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.78,
+              "y": 0.48
+            },
+            {
+              "x": 0.68,
+              "y": 0.58
+            },
+            {
+              "x": 0.58,
+              "y": 0.48
+            },
+            {
+              "x": 0.48,
+              "y": 0.58
+            },
+            {
+              "x": 0.38,
+              "y": 0.48
+            },
+            {
+              "x": 0.38,
+              "y": 0.75
+            },
+            {
+              "x": 0.2,
+              "y": 0.82
+            },
+            {
+              "x": 0.15,
+              "y": 0.68
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.58,
+              "y": 0.25
+            },
+            {
+              "x": 0.58,
+              "y": 0.27
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.35
+            },
+            {
+              "x": 0.5,
+              "y": 0.37
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.66,
+              "y": 0.35
+            },
+            {
+              "x": 0.66,
+              "y": 0.37
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "ar_sad",
+      "glyph": "ص",
+      "romanization": "Ṣād",
+      "ipa": "/sˤ/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0635"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "An oval pillow with a small tooth and deep tail: emphatic \"Ṣād\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.45,
+              "y": 0.55
+            },
+            {
+              "x": 0.75,
+              "y": 0.42
+            },
+            {
+              "x": 0.82,
+              "y": 0.55
+            },
+            {
+              "x": 0.4,
+              "y": 0.55
+            },
+            {
+              "x": 0.4,
+              "y": 0.45
+            },
+            {
+              "x": 0.35,
+              "y": 0.72
+            },
+            {
+              "x": 0.18,
+              "y": 0.8
+            },
+            {
+              "x": 0.15,
+              "y": 0.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "ar_dad",
+      "glyph": "ض",
+      "romanization": "Ḍād",
+      "ipa": "/dˤ/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0636"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "The letter of the Arabic language (Lughat al-Ḍād) with a jewel on top: \"Ḍād\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.45,
+              "y": 0.55
+            },
+            {
+              "x": 0.75,
+              "y": 0.42
+            },
+            {
+              "x": 0.82,
+              "y": 0.55
+            },
+            {
+              "x": 0.4,
+              "y": 0.55
+            },
+            {
+              "x": 0.4,
+              "y": 0.45
+            },
+            {
+              "x": 0.35,
+              "y": 0.72
+            },
+            {
+              "x": 0.18,
+              "y": 0.8
+            },
+            {
+              "x": 0.15,
+              "y": 0.65
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.62,
+              "y": 0.28
+            },
+            {
+              "x": 0.62,
+              "y": 0.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "ar_taa",
+      "glyph": "ط",
+      "romanization": "Ṭāʼ",
+      "ipa": "/tˤ/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0637"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A ship's hull with a tall straight mast: emphatic \"Ṭāʼ\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.65
+            },
+            {
+              "x": 0.7,
+              "y": 0.5
+            },
+            {
+              "x": 0.78,
+              "y": 0.65
+            },
+            {
+              "x": 0.25,
+              "y": 0.65
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.2
+            },
+            {
+              "x": 0.35,
+              "y": 0.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "ar_zaa",
+      "glyph": "ظ",
+      "romanization": "Ẓāʼ",
+      "ipa": "/ðˤ/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0638"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "The masted ship with a lookout lantern: emphatic \"Ẓāʼ\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.65
+            },
+            {
+              "x": 0.7,
+              "y": 0.5
+            },
+            {
+              "x": 0.78,
+              "y": 0.65
+            },
+            {
+              "x": 0.25,
+              "y": 0.65
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.2
+            },
+            {
+              "x": 0.35,
+              "y": 0.65
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.55,
+              "y": 0.35
+            },
+            {
+              "x": 0.55,
+              "y": 0.37
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "ar_ayn",
+      "glyph": "ع",
+      "romanization": "ʻAyn",
+      "ipa": "/ʕ/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0639"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "An eyebrow looking into a mirror: deep throat sound \"ʻAyn\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.68,
+              "y": 0.35
+            },
+            {
+              "x": 0.52,
+              "y": 0.28
+            },
+            {
+              "x": 0.42,
+              "y": 0.4
+            },
+            {
+              "x": 0.58,
+              "y": 0.48
+            },
+            {
+              "x": 0.3,
+              "y": 0.7
+            },
+            {
+              "x": 0.5,
+              "y": 0.88
+            },
+            {
+              "x": 0.68,
+              "y": 0.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "ar_ghayn",
+      "glyph": "غ",
+      "romanization": "Ghayn",
+      "ipa": "/ɣ/",
+      "category": "consonant",
+      "codepoints": [
+        "U+063A"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "The eyebrow with a dot above: gargling \"Ghayn\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.68,
+              "y": 0.38
+            },
+            {
+              "x": 0.52,
+              "y": 0.3
+            },
+            {
+              "x": 0.42,
+              "y": 0.42
+            },
+            {
+              "x": 0.58,
+              "y": 0.5
+            },
+            {
+              "x": 0.3,
+              "y": 0.72
+            },
+            {
+              "x": 0.5,
+              "y": 0.9
+            },
+            {
+              "x": 0.68,
+              "y": 0.82
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.55,
+              "y": 0.18
+            },
+            {
+              "x": 0.55,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "ar_fa",
+      "glyph": "ف",
+      "romanization": "Fāʼ",
+      "ipa": "/f/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0641"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A circular head floating on a boat with one lantern: \"Fāʼ\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.68,
+              "y": 0.48
+            },
+            {
+              "x": 0.6,
+              "y": 0.4
+            },
+            {
+              "x": 0.7,
+              "y": 0.32
+            },
+            {
+              "x": 0.78,
+              "y": 0.42
+            },
+            {
+              "x": 0.65,
+              "y": 0.52
+            },
+            {
+              "x": 0.65,
+              "y": 0.65
+            },
+            {
+              "x": 0.2,
+              "y": 0.65
+            },
+            {
+              "x": 0.2,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.68,
+              "y": 0.2
+            },
+            {
+              "x": 0.68,
+              "y": 0.22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "ar_qaf",
+      "glyph": "ق",
+      "romanization": "Qāf",
+      "ipa": "/q/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0642"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A deep well with two sparkling stars above: uvular \"Qāf\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.68,
+              "y": 0.42
+            },
+            {
+              "x": 0.58,
+              "y": 0.35
+            },
+            {
+              "x": 0.68,
+              "y": 0.28
+            },
+            {
+              "x": 0.76,
+              "y": 0.38
+            },
+            {
+              "x": 0.65,
+              "y": 0.48
+            },
+            {
+              "x": 0.55,
+              "y": 0.72
+            },
+            {
+              "x": 0.35,
+              "y": 0.82
+            },
+            {
+              "x": 0.2,
+              "y": 0.65
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.62,
+              "y": 0.18
+            },
+            {
+              "x": 0.62,
+              "y": 0.2
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.74,
+              "y": 0.18
+            },
+            {
+              "x": 0.74,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "ar_kaf",
+      "glyph": "ك",
+      "romanization": "Kāf",
+      "ipa": "/k/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0643"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A tall open container holding a miniature symbol inside: \"Kāf\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.75,
+              "y": 0.18
+            },
+            {
+              "x": 0.75,
+              "y": 0.65
+            },
+            {
+              "x": 0.25,
+              "y": 0.65
+            },
+            {
+              "x": 0.25,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.45,
+              "y": 0.48
+            },
+            {
+              "x": 0.55,
+              "y": 0.42
+            },
+            {
+              "x": 0.45,
+              "y": 0.58
+            },
+            {
+              "x": 0.58,
+              "y": 0.58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "ar_lam",
+      "glyph": "ل",
+      "romanization": "Lām",
+      "ipa": "/l/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0644"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "A tall walking cane or shepherd's crook diving under: \"Lām\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.68,
+              "y": 0.15
+            },
+            {
+              "x": 0.68,
+              "y": 0.65
+            },
+            {
+              "x": 0.5,
+              "y": 0.85
+            },
+            {
+              "x": 0.3,
+              "y": 0.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "ar_meem",
+      "glyph": "م",
+      "romanization": "Mīm",
+      "ipa": "/m/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0645"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A small round melon on a vine hanging straight down: \"Mīm\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.65,
+              "y": 0.52
+            },
+            {
+              "x": 0.5,
+              "y": 0.42
+            },
+            {
+              "x": 0.45,
+              "y": 0.55
+            },
+            {
+              "x": 0.65,
+              "y": 0.55
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.45,
+              "y": 0.55
+            },
+            {
+              "x": 0.45,
+              "y": 0.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "ar_noon",
+      "glyph": "ن",
+      "romanization": "Nūn",
+      "ipa": "/n/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0646"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A bowl holding a single pearl in its center: \"Nūn\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.75,
+              "y": 0.45
+            },
+            {
+              "x": 0.68,
+              "y": 0.78
+            },
+            {
+              "x": 0.4,
+              "y": 0.82
+            },
+            {
+              "x": 0.25,
+              "y": 0.65
+            },
+            {
+              "x": 0.25,
+              "y": 0.48
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.48,
+              "y": 0.48
+            },
+            {
+              "x": 0.48,
+              "y": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "ar_haa",
+      "glyph": "ه",
+      "romanization": "Hāʼ",
+      "ipa": "/h/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0647"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "A ribbon curling inside itself to form a knot: soft \"Hāʼ\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.65
+            },
+            {
+              "x": 0.35,
+              "y": 0.65
+            },
+            {
+              "x": 0.42,
+              "y": 0.35
+            },
+            {
+              "x": 0.65,
+              "y": 0.35
+            },
+            {
+              "x": 0.55,
+              "y": 0.55
+            },
+            {
+              "x": 0.42,
+              "y": 0.55
+            },
+            {
+              "x": 0.65,
+              "y": 0.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "ar_waw",
+      "glyph": "و",
+      "romanization": "Wāw",
+      "ipa": "/w/ or /uː/",
+      "category": "vowel",
+      "codepoints": [
+        "U+0648"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "A comma-shaped loop rolling down: \"Wāw\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.6,
+              "y": 0.48
+            },
+            {
+              "x": 0.5,
+              "y": 0.38
+            },
+            {
+              "x": 0.6,
+              "y": 0.3
+            },
+            {
+              "x": 0.68,
+              "y": 0.4
+            },
+            {
+              "x": 0.58,
+              "y": 0.5
+            },
+            {
+              "x": 0.45,
+              "y": 0.7
+            },
+            {
+              "x": 0.3,
+              "y": 0.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "ar_yaa",
+      "glyph": "ي",
+      "romanization": "Yāʼ",
+      "ipa": "/j/ or /iː/",
+      "category": "vowel",
+      "codepoints": [
+        "U+064A"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A graceful swan swimming with two droplets of water underneath: \"Yāʼ\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.35
+            },
+            {
+              "x": 0.55,
+              "y": 0.28
+            },
+            {
+              "x": 0.48,
+              "y": 0.4
+            },
+            {
+              "x": 0.6,
+              "y": 0.55
+            },
+            {
+              "x": 0.4,
+              "y": 0.75
+            },
+            {
+              "x": 0.25,
+              "y": 0.68
+            },
+            {
+              "x": 0.2,
+              "y": 0.55
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.38,
+              "y": 0.85
+            },
+            {
+              "x": 0.38,
+              "y": 0.87
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.85
+            },
+            {
+              "x": 0.5,
+              "y": 0.87
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

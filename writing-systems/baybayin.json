@@ -1,0 +1,820 @@
+{
+  "schema_version": "1.0.0",
+  "script_id": "baybayin",
+  "script_name": "Baybayin",
+  "language_codes": [
+    "tl",
+    "ilo"
+  ],
+  "unicode_block": {
+    "start": "U+1700",
+    "end": "U+1711"
+  },
+  "license": "CC-BY-4.0",
+  "origin_type": "cc_by_4_0",
+  "source_citation": "Divinari open writing-system stroke reference (Unicode standard codepoints and geometric stroke paths)",
+  "contributors": [
+    "Adam Blansett (@adamblansett)",
+    "Divinari Contributors"
+  ],
+  "characters": [
+    {
+      "character_id": "baybayin_a",
+      "glyph": "ᜀ",
+      "romanization": "A",
+      "ipa": "/a/",
+      "category": "vowel",
+      "codepoints": [
+        "U+1700"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A flowing river curve with two horizontal crossbars on the left.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.24,
+              "y": 0.26
+            },
+            {
+              "x": 0.31,
+              "y": 0.33
+            },
+            {
+              "x": 0.35,
+              "y": 0.44
+            },
+            {
+              "x": 0.34,
+              "y": 0.56
+            },
+            {
+              "x": 0.31,
+              "y": 0.67
+            },
+            {
+              "x": 0.36,
+              "y": 0.73
+            },
+            {
+              "x": 0.44,
+              "y": 0.72
+            },
+            {
+              "x": 0.54,
+              "y": 0.58
+            },
+            {
+              "x": 0.64,
+              "y": 0.42
+            },
+            {
+              "x": 0.72,
+              "y": 0.35
+            },
+            {
+              "x": 0.8,
+              "y": 0.39
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.22,
+              "y": 0.37
+            },
+            {
+              "x": 0.46,
+              "y": 0.37
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.22,
+              "y": 0.47
+            },
+            {
+              "x": 0.36,
+              "y": 0.47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "baybayin_i",
+      "glyph": "ᜁ",
+      "romanization": "I / E",
+      "ipa": "/i/, /e/",
+      "category": "vowel",
+      "codepoints": [
+        "U+1701"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Two vertical waves flowing like ocean tides.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.36,
+              "y": 0.25
+            },
+            {
+              "x": 0.32,
+              "y": 0.52
+            },
+            {
+              "x": 0.4,
+              "y": 0.78
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.64,
+              "y": 0.25
+            },
+            {
+              "x": 0.68,
+              "y": 0.52
+            },
+            {
+              "x": 0.6,
+              "y": 0.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "baybayin_u",
+      "glyph": "ᜂ",
+      "romanization": "U / O",
+      "ipa": "/u/, /o/",
+      "category": "vowel",
+      "codepoints": [
+        "U+1702"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "A curving hook representing a horn or mountain peak.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.3
+            },
+            {
+              "x": 0.55,
+              "y": 0.25
+            },
+            {
+              "x": 0.65,
+              "y": 0.5
+            },
+            {
+              "x": 0.45,
+              "y": 0.75
+            },
+            {
+              "x": 0.32,
+              "y": 0.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "baybayin_ba",
+      "glyph": "ᜊ",
+      "romanization": "Ba",
+      "ipa": "/ba/",
+      "category": "syllable",
+      "codepoints": [
+        "U+170A"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "Shaped like an inverted heart or a woman's torso (babae).",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.22
+            },
+            {
+              "x": 0.38,
+              "y": 0.2
+            },
+            {
+              "x": 0.24,
+              "y": 0.28
+            },
+            {
+              "x": 0.2,
+              "y": 0.42
+            },
+            {
+              "x": 0.26,
+              "y": 0.58
+            },
+            {
+              "x": 0.38,
+              "y": 0.72
+            },
+            {
+              "x": 0.5,
+              "y": 0.82
+            },
+            {
+              "x": 0.62,
+              "y": 0.72
+            },
+            {
+              "x": 0.74,
+              "y": 0.58
+            },
+            {
+              "x": 0.8,
+              "y": 0.42
+            },
+            {
+              "x": 0.76,
+              "y": 0.28
+            },
+            {
+              "x": 0.62,
+              "y": 0.2
+            },
+            {
+              "x": 0.5,
+              "y": 0.22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "baybayin_ka",
+      "glyph": "ᜃ",
+      "romanization": "Ka",
+      "ipa": "/ka/",
+      "category": "syllable",
+      "codepoints": [
+        "U+1703"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A horizontal bar crossed by a vertical ribbon.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.35
+            },
+            {
+              "x": 0.72,
+              "y": 0.35
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.22
+            },
+            {
+              "x": 0.46,
+              "y": 0.55
+            },
+            {
+              "x": 0.54,
+              "y": 0.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "baybayin_da",
+      "glyph": "ᜇ",
+      "romanization": "Da / Ra",
+      "ipa": "/da/, /ɾa/",
+      "category": "syllable",
+      "codepoints": [
+        "U+1707"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A wave with a tail, representing daloy (flow).",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.35
+            },
+            {
+              "x": 0.52,
+              "y": 0.25
+            },
+            {
+              "x": 0.7,
+              "y": 0.4
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.4,
+              "y": 0.5
+            },
+            {
+              "x": 0.55,
+              "y": 0.72
+            },
+            {
+              "x": 0.74,
+              "y": 0.68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "baybayin_ga",
+      "glyph": "ᜄ",
+      "romanization": "Ga",
+      "ipa": "/ɡa/",
+      "category": "syllable",
+      "codepoints": [
+        "U+1704"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "An arching mountain chevron: \"Ga\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.75
+            },
+            {
+              "x": 0.38,
+              "y": 0.45
+            },
+            {
+              "x": 0.5,
+              "y": 0.25
+            },
+            {
+              "x": 0.62,
+              "y": 0.45
+            },
+            {
+              "x": 0.7,
+              "y": 0.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "baybayin_ha",
+      "glyph": "ᜑ",
+      "romanization": "Ha",
+      "ipa": "/ha/",
+      "category": "syllable",
+      "codepoints": [
+        "U+1711"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A gust of wind blowing through branches.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.22
+            },
+            {
+              "x": 0.35,
+              "y": 0.78
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.4
+            },
+            {
+              "x": 0.68,
+              "y": 0.35
+            },
+            {
+              "x": 0.64,
+              "y": 0.7
+            },
+            {
+              "x": 0.4,
+              "y": 0.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "baybayin_la",
+      "glyph": "ᜎ",
+      "romanization": "La",
+      "ipa": "/la/",
+      "category": "syllable",
+      "codepoints": [
+        "U+170E"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "A curving vine or leaf.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.3
+            },
+            {
+              "x": 0.5,
+              "y": 0.45
+            },
+            {
+              "x": 0.68,
+              "y": 0.3
+            },
+            {
+              "x": 0.6,
+              "y": 0.75
+            },
+            {
+              "x": 0.4,
+              "y": 0.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "baybayin_ma",
+      "glyph": "ᜋ",
+      "romanization": "Ma",
+      "ipa": "/ma/",
+      "category": "syllable",
+      "codepoints": [
+        "U+170B"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Two mountains or rolling hills (mata).",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.65
+            },
+            {
+              "x": 0.4,
+              "y": 0.32
+            },
+            {
+              "x": 0.52,
+              "y": 0.55
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.52,
+              "y": 0.55
+            },
+            {
+              "x": 0.64,
+              "y": 0.32
+            },
+            {
+              "x": 0.76,
+              "y": 0.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "baybayin_na",
+      "glyph": "ᜈ",
+      "romanization": "Na",
+      "ipa": "/na/",
+      "category": "syllable",
+      "codepoints": [
+        "U+1708"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "A wave with a high crest on the left.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.4
+            },
+            {
+              "x": 0.45,
+              "y": 0.22
+            },
+            {
+              "x": 0.58,
+              "y": 0.5
+            },
+            {
+              "x": 0.72,
+              "y": 0.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "baybayin_nga",
+      "glyph": "ᜅ",
+      "romanization": "Nga",
+      "ipa": "/ŋa/",
+      "category": "syllable",
+      "codepoints": [
+        "U+1705"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "An open mouth singing.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.35
+            },
+            {
+              "x": 0.68,
+              "y": 0.35
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.35
+            },
+            {
+              "x": 0.68,
+              "y": 0.55
+            },
+            {
+              "x": 0.45,
+              "y": 0.78
+            },
+            {
+              "x": 0.32,
+              "y": 0.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "baybayin_pa",
+      "glyph": "ᜉ",
+      "romanization": "Pa",
+      "ipa": "/pa/",
+      "category": "syllable",
+      "codepoints": [
+        "U+1709"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A sprout shooting up from the soil.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.25
+            },
+            {
+              "x": 0.35,
+              "y": 0.75
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.45
+            },
+            {
+              "x": 0.65,
+              "y": 0.35
+            },
+            {
+              "x": 0.68,
+              "y": 0.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "baybayin_sa",
+      "glyph": "ᜐ",
+      "romanization": "Sa",
+      "ipa": "/sa/",
+      "category": "syllable",
+      "codepoints": [
+        "U+1710"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "A serpent curving gracefully.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.62,
+              "y": 0.25
+            },
+            {
+              "x": 0.38,
+              "y": 0.35
+            },
+            {
+              "x": 0.6,
+              "y": 0.55
+            },
+            {
+              "x": 0.36,
+              "y": 0.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "baybayin_ta",
+      "glyph": "ᜆ",
+      "romanization": "Ta",
+      "ipa": "/ta/",
+      "category": "syllable",
+      "codepoints": [
+        "U+1706"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A spearhead or arrow.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.38
+            },
+            {
+              "x": 0.5,
+              "y": 0.22
+            },
+            {
+              "x": 0.7,
+              "y": 0.38
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.22
+            },
+            {
+              "x": 0.5,
+              "y": 0.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "baybayin_wa",
+      "glyph": "ᜏ",
+      "romanization": "Wa",
+      "ipa": "/wa/",
+      "category": "syllable",
+      "codepoints": [
+        "U+170F"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "A wave with an open crest.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.65
+            },
+            {
+              "x": 0.42,
+              "y": 0.3
+            },
+            {
+              "x": 0.65,
+              "y": 0.4
+            },
+            {
+              "x": 0.52,
+              "y": 0.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "baybayin_ya",
+      "glyph": "ᜌ",
+      "romanization": "Ya",
+      "ipa": "/ja/",
+      "category": "syllable",
+      "codepoints": [
+        "U+170C"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A fork in the road.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.25
+            },
+            {
+              "x": 0.48,
+              "y": 0.5
+            },
+            {
+              "x": 0.48,
+              "y": 0.78
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.68,
+              "y": 0.25
+            },
+            {
+              "x": 0.48,
+              "y": 0.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

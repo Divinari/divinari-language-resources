@@ -1,0 +1,1788 @@
+{
+  "schema_version": "1.0.0",
+  "script_id": "cyrillic",
+  "script_name": "Cyrillic Alphabet",
+  "language_codes": [
+    "ru"
+  ],
+  "unicode_block": {
+    "start": "U+0401",
+    "end": "U+042F"
+  },
+  "license": "CC-BY-4.0",
+  "origin_type": "cc_by_4_0",
+  "source_citation": "Divinari open writing-system stroke reference (Unicode standard codepoints and geometric stroke paths)",
+  "contributors": [
+    "Adam Blansett (@adamblansett)",
+    "Divinari Contributors"
+  ],
+  "characters": [
+    {
+      "character_id": "cyr_a",
+      "glyph": "А",
+      "romanization": "a",
+      "ipa": "/a/",
+      "category": "vowel",
+      "codepoints": [
+        "U+0410"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Identical to English \"A\" in look and sound.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.15
+            },
+            {
+              "x": 0.2,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.15
+            },
+            {
+              "x": 0.8,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.55
+            },
+            {
+              "x": 0.68,
+              "y": 0.55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cyr_k",
+      "glyph": "К",
+      "romanization": "k",
+      "ipa": "/k/",
+      "category": "consonant",
+      "codepoints": [
+        "U+041A"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Identical to English \"K\" in look and sound.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.15
+            },
+            {
+              "x": 0.3,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.2
+            },
+            {
+              "x": 0.35,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.5
+            },
+            {
+              "x": 0.75,
+              "y": 0.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cyr_m",
+      "glyph": "М",
+      "romanization": "m",
+      "ipa": "/m/",
+      "category": "consonant",
+      "codepoints": [
+        "U+041C"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "Identical to English \"M\" in look and sound.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.2,
+              "y": 0.15
+            },
+            {
+              "x": 0.2,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.2,
+              "y": 0.15
+            },
+            {
+              "x": 0.5,
+              "y": 0.65
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.65
+            },
+            {
+              "x": 0.8,
+              "y": 0.15
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.8,
+              "y": 0.15
+            },
+            {
+              "x": 0.8,
+              "y": 0.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cyr_o",
+      "glyph": "О",
+      "romanization": "o",
+      "ipa": "/o/ or /a/",
+      "category": "vowel",
+      "codepoints": [
+        "U+041E"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "Identical to English \"O\". In unstressed positions, it sounds like \"ah\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.15
+            },
+            {
+              "x": 0.25,
+              "y": 0.5
+            },
+            {
+              "x": 0.5,
+              "y": 0.85
+            },
+            {
+              "x": 0.75,
+              "y": 0.5
+            },
+            {
+              "x": 0.5,
+              "y": 0.15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cyr_t",
+      "glyph": "Т",
+      "romanization": "t",
+      "ipa": "/t/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0422"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Identical to English \"T\" in look and sound.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.2,
+              "y": 0.2
+            },
+            {
+              "x": 0.8,
+              "y": 0.2
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.2
+            },
+            {
+              "x": 0.5,
+              "y": 0.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cyr_v",
+      "glyph": "В",
+      "romanization": "v",
+      "ipa": "/v/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0412"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Looks like Latin \"B\", but sounds like English \"V\" (as in Vodka & Victory)!",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.15
+            },
+            {
+              "x": 0.25,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.15
+            },
+            {
+              "x": 0.65,
+              "y": 0.28
+            },
+            {
+              "x": 0.25,
+              "y": 0.5
+            },
+            {
+              "x": 0.7,
+              "y": 0.68
+            },
+            {
+              "x": 0.25,
+              "y": 0.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cyr_n",
+      "glyph": "Н",
+      "romanization": "n",
+      "ipa": "/n/",
+      "category": "consonant",
+      "codepoints": [
+        "U+041D"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Looks like English \"H\", but sounds like English \"N\" (as in \"No\")!",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.15
+            },
+            {
+              "x": 0.3,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.15
+            },
+            {
+              "x": 0.7,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.5
+            },
+            {
+              "x": 0.7,
+              "y": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cyr_r",
+      "glyph": "Р",
+      "romanization": "r",
+      "ipa": "/r/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0420"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Looks like English \"P\", but it is a rolled \"R\" (as in Russia & Red)!",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.15
+            },
+            {
+              "x": 0.3,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.15
+            },
+            {
+              "x": 0.75,
+              "y": 0.32
+            },
+            {
+              "x": 0.3,
+              "y": 0.52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cyr_s",
+      "glyph": "С",
+      "romanization": "s",
+      "ipa": "/s/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0421"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "Looks like English \"C\", but is ALWAYS a soft \"S\" (as in Sun & Slavic)!",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.75,
+              "y": 0.25
+            },
+            {
+              "x": 0.35,
+              "y": 0.5
+            },
+            {
+              "x": 0.75,
+              "y": 0.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cyr_u",
+      "glyph": "У",
+      "romanization": "u",
+      "ipa": "/u/",
+      "category": "vowel",
+      "codepoints": [
+        "U+0423"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Looks like English \"Y\", but sounds like English \"OO\" (as in Moon)!",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.2
+            },
+            {
+              "x": 0.48,
+              "y": 0.55
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.75,
+              "y": 0.2
+            },
+            {
+              "x": 0.3,
+              "y": 0.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cyr_kh",
+      "glyph": "Х",
+      "romanization": "kh",
+      "ipa": "/x/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0425"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Looks like English \"X\", but sounds like a raspy \"Kh\" (as in Scottish loch).",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.2
+            },
+            {
+              "x": 0.75,
+              "y": 0.8
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.75,
+              "y": 0.2
+            },
+            {
+              "x": 0.25,
+              "y": 0.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cyr_b",
+      "glyph": "Б",
+      "romanization": "b",
+      "ipa": "/b/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0411"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "The real \"B\" sound in Cyrillic, with a flat roof on top.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.15
+            },
+            {
+              "x": 0.3,
+              "y": 0.85
+            },
+            {
+              "x": 0.7,
+              "y": 0.7
+            },
+            {
+              "x": 0.3,
+              "y": 0.52
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.18
+            },
+            {
+              "x": 0.75,
+              "y": 0.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cyr_g",
+      "glyph": "Г",
+      "romanization": "g",
+      "ipa": "/ɡ/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0413"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Looks like an upside-down L or Greek Gamma (Γ). Sounds like \"G\" in Go.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.2
+            },
+            {
+              "x": 0.75,
+              "y": 0.2
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.2
+            },
+            {
+              "x": 0.3,
+              "y": 0.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cyr_d",
+      "glyph": "Д",
+      "romanization": "d",
+      "ipa": "/d/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0414"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "Looks like a little house on stilts: \"D\" for Doorway.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.55
+            },
+            {
+              "x": 0.42,
+              "y": 0.22
+            },
+            {
+              "x": 0.58,
+              "y": 0.22
+            },
+            {
+              "x": 0.65,
+              "y": 0.55
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.2,
+              "y": 0.55
+            },
+            {
+              "x": 0.8,
+              "y": 0.55
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.55
+            },
+            {
+              "x": 0.25,
+              "y": 0.8
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.75,
+              "y": 0.55
+            },
+            {
+              "x": 0.75,
+              "y": 0.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cyr_p",
+      "glyph": "П",
+      "romanization": "p",
+      "ipa": "/p/",
+      "category": "consonant",
+      "codepoints": [
+        "U+041F"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Looks like Greek Pi (Π). Sounds like \"P\" in Park.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.2
+            },
+            {
+              "x": 0.75,
+              "y": 0.2
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.2
+            },
+            {
+              "x": 0.3,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.2
+            },
+            {
+              "x": 0.7,
+              "y": 0.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cyr_zh",
+      "glyph": "Ж",
+      "romanization": "zh",
+      "ipa": "/ʐ/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0416"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Looks like a beetle or butterfly with spread wings. Sounds like \"s\" in Measure.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.15
+            },
+            {
+              "x": 0.5,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.2
+            },
+            {
+              "x": 0.48,
+              "y": 0.5
+            },
+            {
+              "x": 0.25,
+              "y": 0.8
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.75,
+              "y": 0.2
+            },
+            {
+              "x": 0.52,
+              "y": 0.5
+            },
+            {
+              "x": 0.75,
+              "y": 0.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cyr_z",
+      "glyph": "З",
+      "romanization": "z",
+      "ipa": "/z/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0417"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "Looks like the number 3. Sounds like \"Z\" in Zebra.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.22
+            },
+            {
+              "x": 0.65,
+              "y": 0.22
+            },
+            {
+              "x": 0.45,
+              "y": 0.48
+            },
+            {
+              "x": 0.7,
+              "y": 0.65
+            },
+            {
+              "x": 0.3,
+              "y": 0.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cyr_ch",
+      "glyph": "Ч",
+      "romanization": "ch",
+      "ipa": "/t͡ɕ/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0427"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Looks like the number 4: Sounds like \"Ch\" in Chair.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.2
+            },
+            {
+              "x": 0.3,
+              "y": 0.5
+            },
+            {
+              "x": 0.7,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.2
+            },
+            {
+              "x": 0.7,
+              "y": 0.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cyr_i",
+      "glyph": "И",
+      "romanization": "i",
+      "ipa": "/i/",
+      "category": "vowel",
+      "codepoints": [
+        "U+0418"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Looks like a backwards \"N\", but is the vowel \"ee\" (as in Pizza)!",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.15
+            },
+            {
+              "x": 0.3,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.15
+            },
+            {
+              "x": 0.7,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.85
+            },
+            {
+              "x": 0.7,
+              "y": 0.15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cyr_short_i",
+      "glyph": "Й",
+      "romanization": "y",
+      "ipa": "/j/",
+      "category": "vowel",
+      "codepoints": [
+        "U+0419"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "Short \"I\" with a smiling hat on top, making the glide \"y\" (as in Boy).",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.28
+            },
+            {
+              "x": 0.3,
+              "y": 0.88
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.28
+            },
+            {
+              "x": 0.7,
+              "y": 0.88
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.88
+            },
+            {
+              "x": 0.7,
+              "y": 0.28
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.4,
+              "y": 0.14
+            },
+            {
+              "x": 0.5,
+              "y": 0.2
+            },
+            {
+              "x": 0.6,
+              "y": 0.14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cyr_y",
+      "glyph": "Ы",
+      "romanization": "y",
+      "ipa": "/ɨ/",
+      "category": "vowel",
+      "codepoints": [
+        "U+042B"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "The deep guttural vowel \"i\", pronounced like getting punched in the gut: \"ugh-ee\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.18
+            },
+            {
+              "x": 0.25,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.52
+            },
+            {
+              "x": 0.55,
+              "y": 0.65
+            },
+            {
+              "x": 0.55,
+              "y": 0.78
+            },
+            {
+              "x": 0.25,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.75,
+              "y": 0.18
+            },
+            {
+              "x": 0.75,
+              "y": 0.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cyr_e_rev",
+      "glyph": "Э",
+      "romanization": "e",
+      "ipa": "/ɛ/",
+      "category": "vowel",
+      "codepoints": [
+        "U+042D"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Reverse \"C\" with a tongue sticking out: Sounds like \"e\" in Met.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.22
+            },
+            {
+              "x": 0.7,
+              "y": 0.5
+            },
+            {
+              "x": 0.3,
+              "y": 0.78
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.4,
+              "y": 0.5
+            },
+            {
+              "x": 0.65,
+              "y": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cyr_yu",
+      "glyph": "Ю",
+      "romanization": "yu",
+      "ipa": "/ju/",
+      "category": "vowel",
+      "codepoints": [
+        "U+042E"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A bar linked to an \"O\": Sounds like \"Yu\" in Universe.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.18
+            },
+            {
+              "x": 0.25,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.5
+            },
+            {
+              "x": 0.48,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.18
+            },
+            {
+              "x": 0.48,
+              "y": 0.5
+            },
+            {
+              "x": 0.7,
+              "y": 0.85
+            },
+            {
+              "x": 0.9,
+              "y": 0.5
+            },
+            {
+              "x": 0.7,
+              "y": 0.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cyr_ya",
+      "glyph": "Я",
+      "romanization": "ya",
+      "ipa": "/ja/",
+      "category": "vowel",
+      "codepoints": [
+        "U+042F"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Backwards \"R\": Sounds like \"Ya\" (also means \"I / me\" in Russian)!",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.75,
+              "y": 0.15
+            },
+            {
+              "x": 0.75,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.75,
+              "y": 0.15
+            },
+            {
+              "x": 0.35,
+              "y": 0.32
+            },
+            {
+              "x": 0.75,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.75,
+              "y": 0.5
+            },
+            {
+              "x": 0.35,
+              "y": 0.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cyr_soft_sign",
+      "glyph": "Ь",
+      "romanization": "’",
+      "ipa": "/ʲ/ (palatalizes preceding consonant)",
+      "category": "diacritic",
+      "codepoints": [
+        "U+042C"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Soft Sign: Has no sound of its own; softens the consonant right before it.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.2
+            },
+            {
+              "x": 0.3,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.5
+            },
+            {
+              "x": 0.7,
+              "y": 0.68
+            },
+            {
+              "x": 0.3,
+              "y": 0.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cyr_hard_sign",
+      "glyph": "Ъ",
+      "romanization": "”",
+      "ipa": "/silent/ (prevents palatalization)",
+      "category": "diacritic",
+      "codepoints": [
+        "U+042A"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Hard Sign: Prevents softening, creating a brief crisp pause before a vowel.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.2,
+              "y": 0.2
+            },
+            {
+              "x": 0.4,
+              "y": 0.2
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.4,
+              "y": 0.2
+            },
+            {
+              "x": 0.4,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.4,
+              "y": 0.5
+            },
+            {
+              "x": 0.75,
+              "y": 0.68
+            },
+            {
+              "x": 0.4,
+              "y": 0.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cyr_l",
+      "glyph": "Л",
+      "romanization": "l",
+      "ipa": "/l/",
+      "category": "consonant",
+      "codepoints": [
+        "U+041B"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Looks like a tent or ladder: \"El\" for Luna (moon).",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.4,
+              "y": 0.2
+            },
+            {
+              "x": 0.25,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.4,
+              "y": 0.2
+            },
+            {
+              "x": 0.7,
+              "y": 0.2
+            },
+            {
+              "x": 0.7,
+              "y": 0.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cyr_f",
+      "glyph": "Ф",
+      "romanization": "f",
+      "ipa": "/f/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0424"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A key with two round wings on either side: \"Ef\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.3
+            },
+            {
+              "x": 0.2,
+              "y": 0.3
+            },
+            {
+              "x": 0.2,
+              "y": 0.65
+            },
+            {
+              "x": 0.5,
+              "y": 0.65
+            },
+            {
+              "x": 0.8,
+              "y": 0.65
+            },
+            {
+              "x": 0.8,
+              "y": 0.3
+            },
+            {
+              "x": 0.5,
+              "y": 0.3
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.15
+            },
+            {
+              "x": 0.5,
+              "y": 0.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cyr_ts",
+      "glyph": "Ц",
+      "romanization": "ts",
+      "ipa": "/ts/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0426"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A cup with a little foot on the right: \"Tse\" for Tsar.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.2
+            },
+            {
+              "x": 0.3,
+              "y": 0.8
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.8
+            },
+            {
+              "x": 0.7,
+              "y": 0.8
+            },
+            {
+              "x": 0.7,
+              "y": 0.2
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.75
+            },
+            {
+              "x": 0.78,
+              "y": 0.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cyr_sh",
+      "glyph": "Ш",
+      "romanization": "sh",
+      "ipa": "/ʂ/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0428"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A three-pronged fork or rake: \"Sha\" for Shkola (school).",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.2
+            },
+            {
+              "x": 0.25,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.2
+            },
+            {
+              "x": 0.5,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.75,
+              "y": 0.2
+            },
+            {
+              "x": 0.75,
+              "y": 0.85
+            },
+            {
+              "x": 0.25,
+              "y": 0.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cyr_shch",
+      "glyph": "Щ",
+      "romanization": "shch",
+      "ipa": "/ɕː/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0429"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "Like \"Ш\" but with a tail dropping on the right: \"Shcha\" for Shchit (shield).",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.2
+            },
+            {
+              "x": 0.25,
+              "y": 0.8
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.48,
+              "y": 0.2
+            },
+            {
+              "x": 0.48,
+              "y": 0.8
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.2
+            },
+            {
+              "x": 0.7,
+              "y": 0.8
+            },
+            {
+              "x": 0.25,
+              "y": 0.8
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.75
+            },
+            {
+              "x": 0.78,
+              "y": 0.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cyr_e",
+      "glyph": "Е",
+      "romanization": "ye",
+      "ipa": "/je/",
+      "category": "vowel",
+      "codepoints": [
+        "U+0415"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "Looks like Latin E, pronounced \"Ye\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.2
+            },
+            {
+              "x": 0.3,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.2
+            },
+            {
+              "x": 0.7,
+              "y": 0.2
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.52
+            },
+            {
+              "x": 0.6,
+              "y": 0.52
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.85
+            },
+            {
+              "x": 0.7,
+              "y": 0.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "cyr_yo",
+      "glyph": "Ё",
+      "romanization": "yo",
+      "ipa": "/jo/",
+      "category": "vowel",
+      "codepoints": [
+        "U+0401"
+      ],
+      "stroke_count": 6,
+      "mnemonic": "Letter E with two eyes on top: pronounced \"Yo\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.25
+            },
+            {
+              "x": 0.3,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.25
+            },
+            {
+              "x": 0.7,
+              "y": 0.25
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.55
+            },
+            {
+              "x": 0.6,
+              "y": 0.55
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.85
+            },
+            {
+              "x": 0.7,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 5,
+          "points": [
+            {
+              "x": 0.4,
+              "y": 0.12
+            },
+            {
+              "x": 0.42,
+              "y": 0.14
+            }
+          ]
+        },
+        {
+          "stroke_index": 6,
+          "points": [
+            {
+              "x": 0.58,
+              "y": 0.12
+            },
+            {
+              "x": 0.6,
+              "y": 0.14
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

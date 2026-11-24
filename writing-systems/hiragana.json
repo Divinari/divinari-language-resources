@@ -1,0 +1,2509 @@
+{
+  "schema_version": "1.0.0",
+  "script_id": "hiragana",
+  "script_name": "Hiragana",
+  "language_codes": [
+    "ja"
+  ],
+  "unicode_block": {
+    "start": "U+3042",
+    "end": "U+3093"
+  },
+  "license": "CC-BY-4.0",
+  "origin_type": "cc_by_4_0",
+  "source_citation": "Divinari open writing-system stroke reference (Unicode standard codepoints and geometric stroke paths)",
+  "contributors": [
+    "Adam Blansett (@adamblansett)",
+    "Divinari Contributors"
+  ],
+  "characters": [
+    {
+      "character_id": "hiragana_a",
+      "glyph": "あ",
+      "romanization": "a",
+      "ipa": "/a/",
+      "category": "vowel",
+      "codepoints": [
+        "U+3042"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Looks like an apple with an \"a\" stem and curve.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.32
+            },
+            {
+              "x": 0.5,
+              "y": 0.32
+            },
+            {
+              "x": 0.75,
+              "y": 0.32
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.15
+            },
+            {
+              "x": 0.48,
+              "y": 0.45
+            },
+            {
+              "x": 0.44,
+              "y": 0.82
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.64,
+              "y": 0.42
+            },
+            {
+              "x": 0.32,
+              "y": 0.6
+            },
+            {
+              "x": 0.35,
+              "y": 0.78
+            },
+            {
+              "x": 0.68,
+              "y": 0.78
+            },
+            {
+              "x": 0.78,
+              "y": 0.62
+            },
+            {
+              "x": 0.7,
+              "y": 0.74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_i",
+      "glyph": "い",
+      "romanization": "i",
+      "ipa": "/i/",
+      "category": "vowel",
+      "codepoints": [
+        "U+3044"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Two \"i\" eels swimming side by side.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.24
+            },
+            {
+              "x": 0.28,
+              "y": 0.52
+            },
+            {
+              "x": 0.3,
+              "y": 0.74
+            },
+            {
+              "x": 0.38,
+              "y": 0.68
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.68,
+              "y": 0.34
+            },
+            {
+              "x": 0.72,
+              "y": 0.5
+            },
+            {
+              "x": 0.74,
+              "y": 0.64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_u",
+      "glyph": "う",
+      "romanization": "u",
+      "ipa": "/ɯ/",
+      "category": "vowel",
+      "codepoints": [
+        "U+3046"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "An athlete bent over doing sit-ups (\"uuggh\").",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.44,
+              "y": 0.2
+            },
+            {
+              "x": 0.54,
+              "y": 0.24
+            },
+            {
+              "x": 0.58,
+              "y": 0.28
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.34,
+              "y": 0.42
+            },
+            {
+              "x": 0.68,
+              "y": 0.44
+            },
+            {
+              "x": 0.72,
+              "y": 0.62
+            },
+            {
+              "x": 0.48,
+              "y": 0.82
+            },
+            {
+              "x": 0.36,
+              "y": 0.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_e",
+      "glyph": "え",
+      "romanization": "e",
+      "ipa": "/e/",
+      "category": "vowel",
+      "codepoints": [
+        "U+3048"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "An energetic exotic bird with a crest.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.45,
+              "y": 0.18
+            },
+            {
+              "x": 0.55,
+              "y": 0.26
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.44
+            },
+            {
+              "x": 0.62,
+              "y": 0.44
+            },
+            {
+              "x": 0.36,
+              "y": 0.72
+            },
+            {
+              "x": 0.6,
+              "y": 0.68
+            },
+            {
+              "x": 0.8,
+              "y": 0.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_o",
+      "glyph": "お",
+      "romanization": "o",
+      "ipa": "/o/",
+      "category": "vowel",
+      "codepoints": [
+        "U+304A"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A golfer on the green shouting \"O!\"",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.24,
+              "y": 0.34
+            },
+            {
+              "x": 0.54,
+              "y": 0.34
+            },
+            {
+              "x": 0.62,
+              "y": 0.34
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.48,
+              "y": 0.18
+            },
+            {
+              "x": 0.48,
+              "y": 0.62
+            },
+            {
+              "x": 0.42,
+              "y": 0.68
+            },
+            {
+              "x": 0.7,
+              "y": 0.62
+            },
+            {
+              "x": 0.76,
+              "y": 0.76
+            },
+            {
+              "x": 0.58,
+              "y": 0.84
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.72,
+              "y": 0.28
+            },
+            {
+              "x": 0.82,
+              "y": 0.38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_ka",
+      "glyph": "か",
+      "romanization": "ka",
+      "ipa": "/ka/",
+      "category": "syllable",
+      "codepoints": [
+        "U+304B"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A kite dancing in the wind.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.28
+            },
+            {
+              "x": 0.56,
+              "y": 0.3
+            },
+            {
+              "x": 0.5,
+              "y": 0.64
+            },
+            {
+              "x": 0.42,
+              "y": 0.68
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.36,
+              "y": 0.22
+            },
+            {
+              "x": 0.3,
+              "y": 0.74
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.28
+            },
+            {
+              "x": 0.8,
+              "y": 0.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_ki",
+      "glyph": "き",
+      "romanization": "ki",
+      "ipa": "/ki/",
+      "category": "syllable",
+      "codepoints": [
+        "U+304D"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "Looks like an ornate antique key.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.3
+            },
+            {
+              "x": 0.68,
+              "y": 0.26
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.26,
+              "y": 0.44
+            },
+            {
+              "x": 0.72,
+              "y": 0.4
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.54,
+              "y": 0.16
+            },
+            {
+              "x": 0.46,
+              "y": 0.64
+            },
+            {
+              "x": 0.38,
+              "y": 0.6
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.36,
+              "y": 0.72
+            },
+            {
+              "x": 0.54,
+              "y": 0.8
+            },
+            {
+              "x": 0.66,
+              "y": 0.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_ku",
+      "glyph": "く",
+      "romanization": "ku",
+      "ipa": "/kɯ/",
+      "category": "syllable",
+      "codepoints": [
+        "U+304F"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "The beak of a cuckoo bird (\"ku-ku\").",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.62,
+              "y": 0.22
+            },
+            {
+              "x": 0.32,
+              "y": 0.5
+            },
+            {
+              "x": 0.64,
+              "y": 0.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_ke",
+      "glyph": "け",
+      "romanization": "ke",
+      "ipa": "/ke/",
+      "category": "syllable",
+      "codepoints": [
+        "U+3051"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A keg of juice on a shelf.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.22
+            },
+            {
+              "x": 0.28,
+              "y": 0.76
+            },
+            {
+              "x": 0.36,
+              "y": 0.72
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.34
+            },
+            {
+              "x": 0.78,
+              "y": 0.34
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.66,
+              "y": 0.2
+            },
+            {
+              "x": 0.68,
+              "y": 0.5
+            },
+            {
+              "x": 0.74,
+              "y": 0.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_ko",
+      "glyph": "こ",
+      "romanization": "ko",
+      "ipa": "/ko/",
+      "category": "syllable",
+      "codepoints": [
+        "U+3053"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Two koi fish swimming in parallel.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.32
+            },
+            {
+              "x": 0.7,
+              "y": 0.32
+            },
+            {
+              "x": 0.64,
+              "y": 0.38
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.7
+            },
+            {
+              "x": 0.52,
+              "y": 0.74
+            },
+            {
+              "x": 0.72,
+              "y": 0.68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_sa",
+      "glyph": "さ",
+      "romanization": "sa",
+      "ipa": "/sa/",
+      "category": "syllable",
+      "codepoints": [
+        "U+3055"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A samurai sword pointing down.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.32
+            },
+            {
+              "x": 0.7,
+              "y": 0.28
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.54,
+              "y": 0.18
+            },
+            {
+              "x": 0.44,
+              "y": 0.62
+            },
+            {
+              "x": 0.36,
+              "y": 0.58
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.36,
+              "y": 0.72
+            },
+            {
+              "x": 0.56,
+              "y": 0.8
+            },
+            {
+              "x": 0.68,
+              "y": 0.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_shi",
+      "glyph": "し",
+      "romanization": "shi",
+      "ipa": "/ɕi/",
+      "category": "syllable",
+      "codepoints": [
+        "U+3057"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "A slender fish hook dipping in the sea.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.42,
+              "y": 0.2
+            },
+            {
+              "x": 0.4,
+              "y": 0.65
+            },
+            {
+              "x": 0.48,
+              "y": 0.82
+            },
+            {
+              "x": 0.68,
+              "y": 0.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_su",
+      "glyph": "す",
+      "romanization": "su",
+      "ipa": "/sɯ/",
+      "category": "syllable",
+      "codepoints": [
+        "U+3059"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A spiral straw swirling in juice.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.24,
+              "y": 0.32
+            },
+            {
+              "x": 0.76,
+              "y": 0.32
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.54,
+              "y": 0.16
+            },
+            {
+              "x": 0.54,
+              "y": 0.46
+            },
+            {
+              "x": 0.4,
+              "y": 0.54
+            },
+            {
+              "x": 0.54,
+              "y": 0.6
+            },
+            {
+              "x": 0.5,
+              "y": 0.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_se",
+      "glyph": "せ",
+      "romanization": "se",
+      "ipa": "/se/",
+      "category": "syllable",
+      "codepoints": [
+        "U+305B"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A seat with an armrest and backrest.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.4
+            },
+            {
+              "x": 0.75,
+              "y": 0.4
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.65,
+              "y": 0.22
+            },
+            {
+              "x": 0.66,
+              "y": 0.68
+            },
+            {
+              "x": 0.48,
+              "y": 0.74
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.38,
+              "y": 0.28
+            },
+            {
+              "x": 0.38,
+              "y": 0.72
+            },
+            {
+              "x": 0.72,
+              "y": 0.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_so",
+      "glyph": "そ",
+      "romanization": "so",
+      "ipa": "/so/",
+      "category": "syllable",
+      "codepoints": [
+        "U+305D"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "A zigzag sewing stitch pattern (\"so-so\").",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.24
+            },
+            {
+              "x": 0.65,
+              "y": 0.24
+            },
+            {
+              "x": 0.34,
+              "y": 0.46
+            },
+            {
+              "x": 0.68,
+              "y": 0.46
+            },
+            {
+              "x": 0.4,
+              "y": 0.78
+            },
+            {
+              "x": 0.66,
+              "y": 0.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_ta",
+      "glyph": "た",
+      "romanization": "ta",
+      "ipa": "/ta/",
+      "category": "syllable",
+      "codepoints": [
+        "U+305F"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "Spells \"ta\" with letters t and a together.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.24,
+              "y": 0.36
+            },
+            {
+              "x": 0.52,
+              "y": 0.36
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.4,
+              "y": 0.22
+            },
+            {
+              "x": 0.32,
+              "y": 0.72
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.58,
+              "y": 0.44
+            },
+            {
+              "x": 0.78,
+              "y": 0.44
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.56,
+              "y": 0.68
+            },
+            {
+              "x": 0.8,
+              "y": 0.66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_chi",
+      "glyph": "ち",
+      "romanization": "chi",
+      "ipa": "/t͡ɕi/",
+      "category": "syllable",
+      "codepoints": [
+        "U+3061"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A cheering cheerleader with pom-poms.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.34
+            },
+            {
+              "x": 0.72,
+              "y": 0.34
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.18
+            },
+            {
+              "x": 0.44,
+              "y": 0.48
+            },
+            {
+              "x": 0.68,
+              "y": 0.52
+            },
+            {
+              "x": 0.72,
+              "y": 0.72
+            },
+            {
+              "x": 0.4,
+              "y": 0.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_tsu",
+      "glyph": "つ",
+      "romanization": "tsu",
+      "ipa": "/t͡sɯ/",
+      "category": "syllable",
+      "codepoints": [
+        "U+3064"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "A huge tsunami wave rolling in.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.35
+            },
+            {
+              "x": 0.7,
+              "y": 0.35
+            },
+            {
+              "x": 0.74,
+              "y": 0.55
+            },
+            {
+              "x": 0.44,
+              "y": 0.78
+            },
+            {
+              "x": 0.26,
+              "y": 0.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_te",
+      "glyph": "て",
+      "romanization": "te",
+      "ipa": "/te/",
+      "category": "syllable",
+      "codepoints": [
+        "U+3066"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "A telephone pole bending gracefully.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.34
+            },
+            {
+              "x": 0.72,
+              "y": 0.34
+            },
+            {
+              "x": 0.65,
+              "y": 0.55
+            },
+            {
+              "x": 0.44,
+              "y": 0.75
+            },
+            {
+              "x": 0.32,
+              "y": 0.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_to",
+      "glyph": "と",
+      "romanization": "to",
+      "ipa": "/to/",
+      "category": "syllable",
+      "codepoints": [
+        "U+3068"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A thorn in a toe.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.38,
+              "y": 0.25
+            },
+            {
+              "x": 0.48,
+              "y": 0.44
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.62,
+              "y": 0.35
+            },
+            {
+              "x": 0.4,
+              "y": 0.52
+            },
+            {
+              "x": 0.6,
+              "y": 0.78
+            },
+            {
+              "x": 0.72,
+              "y": 0.74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_na",
+      "glyph": "な",
+      "romanization": "na",
+      "ipa": "/na/",
+      "category": "syllable",
+      "codepoints": [
+        "U+306A"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "A nun praying before a cross.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.24,
+              "y": 0.36
+            },
+            {
+              "x": 0.46,
+              "y": 0.36
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.36,
+              "y": 0.22
+            },
+            {
+              "x": 0.3,
+              "y": 0.7
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.6,
+              "y": 0.3
+            },
+            {
+              "x": 0.68,
+              "y": 0.38
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.58,
+              "y": 0.48
+            },
+            {
+              "x": 0.58,
+              "y": 0.75
+            },
+            {
+              "x": 0.48,
+              "y": 0.8
+            },
+            {
+              "x": 0.66,
+              "y": 0.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_ni",
+      "glyph": "に",
+      "romanization": "ni",
+      "ipa": "/ɲi/",
+      "category": "syllable",
+      "codepoints": [
+        "U+306B"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A needle sewing through two stitches.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.22
+            },
+            {
+              "x": 0.28,
+              "y": 0.74
+            },
+            {
+              "x": 0.34,
+              "y": 0.7
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.52,
+              "y": 0.4
+            },
+            {
+              "x": 0.76,
+              "y": 0.4
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.52,
+              "y": 0.64
+            },
+            {
+              "x": 0.78,
+              "y": 0.62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_nu",
+      "glyph": "ぬ",
+      "romanization": "nu",
+      "ipa": "/nɯ/",
+      "category": "syllable",
+      "codepoints": [
+        "U+306C"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Noodles wrapped in chopsticks with a loop at the tip.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.42,
+              "y": 0.22
+            },
+            {
+              "x": 0.34,
+              "y": 0.74
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.4
+            },
+            {
+              "x": 0.72,
+              "y": 0.44
+            },
+            {
+              "x": 0.68,
+              "y": 0.78
+            },
+            {
+              "x": 0.5,
+              "y": 0.82
+            },
+            {
+              "x": 0.76,
+              "y": 0.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_ne",
+      "glyph": "ね",
+      "romanization": "ne",
+      "ipa": "/ne/",
+      "category": "syllable",
+      "codepoints": [
+        "U+306D"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A cat (neko) curled up with its curly tail.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.2
+            },
+            {
+              "x": 0.32,
+              "y": 0.8
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.24,
+              "y": 0.38
+            },
+            {
+              "x": 0.64,
+              "y": 0.38
+            },
+            {
+              "x": 0.32,
+              "y": 0.62
+            },
+            {
+              "x": 0.7,
+              "y": 0.58
+            },
+            {
+              "x": 0.64,
+              "y": 0.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_no",
+      "glyph": "の",
+      "romanization": "no",
+      "ipa": "/no/",
+      "category": "syllable",
+      "codepoints": [
+        "U+306E"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "A \"No smoking\" sign circle.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.54,
+              "y": 0.25
+            },
+            {
+              "x": 0.35,
+              "y": 0.68
+            },
+            {
+              "x": 0.68,
+              "y": 0.35
+            },
+            {
+              "x": 0.74,
+              "y": 0.65
+            },
+            {
+              "x": 0.48,
+              "y": 0.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_ha",
+      "glyph": "は",
+      "romanization": "ha",
+      "ipa": "/ha/",
+      "category": "syllable",
+      "codepoints": [
+        "U+306F"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Looks like a man holding a hockey stick: \"Ha\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.2
+            },
+            {
+              "x": 0.28,
+              "y": 0.82
+            },
+            {
+              "x": 0.32,
+              "y": 0.78
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.45,
+              "y": 0.38
+            },
+            {
+              "x": 0.75,
+              "y": 0.38
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.6,
+              "y": 0.25
+            },
+            {
+              "x": 0.6,
+              "y": 0.7
+            },
+            {
+              "x": 0.48,
+              "y": 0.82
+            },
+            {
+              "x": 0.48,
+              "y": 0.68
+            },
+            {
+              "x": 0.7,
+              "y": 0.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_hi",
+      "glyph": "ひ",
+      "romanization": "hi",
+      "ipa": "/çi/",
+      "category": "syllable",
+      "codepoints": [
+        "U+3072"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "He is smiling with a big wide mouth: \"Hi\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.4
+            },
+            {
+              "x": 0.4,
+              "y": 0.32
+            },
+            {
+              "x": 0.35,
+              "y": 0.7
+            },
+            {
+              "x": 0.6,
+              "y": 0.75
+            },
+            {
+              "x": 0.65,
+              "y": 0.38
+            },
+            {
+              "x": 0.78,
+              "y": 0.45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_fu",
+      "glyph": "ふ",
+      "romanization": "fu",
+      "ipa": "/ɸɯ/",
+      "category": "syllable",
+      "codepoints": [
+        "U+3075"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "Mount Fuji with smoke plumes rising: \"Fu\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.2
+            },
+            {
+              "x": 0.5,
+              "y": 0.28
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.38
+            },
+            {
+              "x": 0.42,
+              "y": 0.6
+            },
+            {
+              "x": 0.48,
+              "y": 0.8
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.5
+            },
+            {
+              "x": 0.22,
+              "y": 0.65
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.72,
+              "y": 0.48
+            },
+            {
+              "x": 0.78,
+              "y": 0.62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_he",
+      "glyph": "へ",
+      "romanization": "he",
+      "ipa": "/he/",
+      "category": "syllable",
+      "codepoints": [
+        "U+3078"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "Pointing up to Heaven: \"He\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.22,
+              "y": 0.6
+            },
+            {
+              "x": 0.42,
+              "y": 0.35
+            },
+            {
+              "x": 0.78,
+              "y": 0.68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_ho",
+      "glyph": "ほ",
+      "romanization": "ho",
+      "ipa": "/ho/",
+      "category": "syllable",
+      "codepoints": [
+        "U+307B"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "A chimney with Santa saying \"Ho ho ho\": \"Ho\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.2
+            },
+            {
+              "x": 0.28,
+              "y": 0.82
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.45,
+              "y": 0.32
+            },
+            {
+              "x": 0.78,
+              "y": 0.32
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.45,
+              "y": 0.5
+            },
+            {
+              "x": 0.75,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.6,
+              "y": 0.32
+            },
+            {
+              "x": 0.6,
+              "y": 0.72
+            },
+            {
+              "x": 0.48,
+              "y": 0.82
+            },
+            {
+              "x": 0.48,
+              "y": 0.7
+            },
+            {
+              "x": 0.7,
+              "y": 0.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_ma",
+      "glyph": "ま",
+      "romanization": "ma",
+      "ipa": "/ma/",
+      "category": "syllable",
+      "codepoints": [
+        "U+307E"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A mast on a sailboat: \"Ma\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.35
+            },
+            {
+              "x": 0.72,
+              "y": 0.35
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.52
+            },
+            {
+              "x": 0.68,
+              "y": 0.52
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.2
+            },
+            {
+              "x": 0.5,
+              "y": 0.72
+            },
+            {
+              "x": 0.38,
+              "y": 0.82
+            },
+            {
+              "x": 0.38,
+              "y": 0.7
+            },
+            {
+              "x": 0.6,
+              "y": 0.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_mi",
+      "glyph": "み",
+      "romanization": "mi",
+      "ipa": "/mi/",
+      "category": "syllable",
+      "codepoints": [
+        "U+307F"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Looks like the number 21 for \"Me\": \"Mi\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.3
+            },
+            {
+              "x": 0.55,
+              "y": 0.3
+            },
+            {
+              "x": 0.3,
+              "y": 0.65
+            },
+            {
+              "x": 0.68,
+              "y": 0.62
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.6,
+              "y": 0.42
+            },
+            {
+              "x": 0.45,
+              "y": 0.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_mu",
+      "glyph": "む",
+      "romanization": "mu",
+      "ipa": "/mɯ/",
+      "category": "syllable",
+      "codepoints": [
+        "U+3080"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A cow with horns going \"Moo\": \"Mu\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.38
+            },
+            {
+              "x": 0.58,
+              "y": 0.38
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.42,
+              "y": 0.22
+            },
+            {
+              "x": 0.42,
+              "y": 0.68
+            },
+            {
+              "x": 0.3,
+              "y": 0.75
+            },
+            {
+              "x": 0.3,
+              "y": 0.65
+            },
+            {
+              "x": 0.52,
+              "y": 0.65
+            },
+            {
+              "x": 0.75,
+              "y": 0.65
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.3
+            },
+            {
+              "x": 0.76,
+              "y": 0.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_me",
+      "glyph": "め",
+      "romanization": "me",
+      "ipa": "/me/",
+      "category": "syllable",
+      "codepoints": [
+        "U+3081"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "An eye (me in Japanese) with a lash: \"Me\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.45,
+              "y": 0.28
+            },
+            {
+              "x": 0.3,
+              "y": 0.78
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.42
+            },
+            {
+              "x": 0.68,
+              "y": 0.35
+            },
+            {
+              "x": 0.72,
+              "y": 0.75
+            },
+            {
+              "x": 0.38,
+              "y": 0.75
+            },
+            {
+              "x": 0.55,
+              "y": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_mo",
+      "glyph": "も",
+      "romanization": "mo",
+      "ipa": "/mo/",
+      "category": "syllable",
+      "codepoints": [
+        "U+3082"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A fish hook catching \"more\" fish: \"Mo\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.48,
+              "y": 0.2
+            },
+            {
+              "x": 0.48,
+              "y": 0.75
+            },
+            {
+              "x": 0.65,
+              "y": 0.68
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.42
+            },
+            {
+              "x": 0.68,
+              "y": 0.42
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.56
+            },
+            {
+              "x": 0.68,
+              "y": 0.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_ya",
+      "glyph": "や",
+      "romanization": "ya",
+      "ipa": "/ja/",
+      "category": "syllable",
+      "codepoints": [
+        "U+3084"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A yak with long horns: \"Ya\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.45
+            },
+            {
+              "x": 0.48,
+              "y": 0.35
+            },
+            {
+              "x": 0.48,
+              "y": 0.55
+            },
+            {
+              "x": 0.38,
+              "y": 0.8
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.58,
+              "y": 0.28
+            },
+            {
+              "x": 0.62,
+              "y": 0.36
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.65,
+              "y": 0.22
+            },
+            {
+              "x": 0.52,
+              "y": 0.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_yu",
+      "glyph": "ゆ",
+      "romanization": "yu",
+      "ipa": "/jɯ/",
+      "category": "syllable",
+      "codepoints": [
+        "U+3086"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A unique goldfish swimming: \"Yu\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.38,
+              "y": 0.25
+            },
+            {
+              "x": 0.38,
+              "y": 0.65
+            },
+            {
+              "x": 0.55,
+              "y": 0.7
+            },
+            {
+              "x": 0.6,
+              "y": 0.42
+            },
+            {
+              "x": 0.3,
+              "y": 0.45
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.62,
+              "y": 0.2
+            },
+            {
+              "x": 0.62,
+              "y": 0.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_yo",
+      "glyph": "よ",
+      "romanization": "yo",
+      "ipa": "/jo/",
+      "category": "syllable",
+      "codepoints": [
+        "U+3088"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A yo-yo dangling from a finger: \"Yo\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.38
+            },
+            {
+              "x": 0.52,
+              "y": 0.38
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.52,
+              "y": 0.22
+            },
+            {
+              "x": 0.52,
+              "y": 0.68
+            },
+            {
+              "x": 0.38,
+              "y": 0.78
+            },
+            {
+              "x": 0.38,
+              "y": 0.68
+            },
+            {
+              "x": 0.65,
+              "y": 0.68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_ra",
+      "glyph": "ら",
+      "romanization": "ra",
+      "ipa": "/ɾa/",
+      "category": "syllable",
+      "codepoints": [
+        "U+3089"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A rabbit sitting upright: \"Ra\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.45,
+              "y": 0.22
+            },
+            {
+              "x": 0.55,
+              "y": 0.26
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.4,
+              "y": 0.4
+            },
+            {
+              "x": 0.62,
+              "y": 0.5
+            },
+            {
+              "x": 0.6,
+              "y": 0.78
+            },
+            {
+              "x": 0.38,
+              "y": 0.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_ri",
+      "glyph": "り",
+      "romanization": "ri",
+      "ipa": "/ɾi/",
+      "category": "syllable",
+      "codepoints": [
+        "U+308A"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Two reeds swaying in the wind: \"Ri\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.3
+            },
+            {
+              "x": 0.35,
+              "y": 0.58
+            },
+            {
+              "x": 0.4,
+              "y": 0.55
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.65,
+              "y": 0.2
+            },
+            {
+              "x": 0.65,
+              "y": 0.65
+            },
+            {
+              "x": 0.55,
+              "y": 0.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_ru",
+      "glyph": "る",
+      "romanization": "ru",
+      "ipa": "/ɾɯ/",
+      "category": "syllable",
+      "codepoints": [
+        "U+308B"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "Like number 3 holding a ring: \"Ru\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.28
+            },
+            {
+              "x": 0.65,
+              "y": 0.28
+            },
+            {
+              "x": 0.4,
+              "y": 0.55
+            },
+            {
+              "x": 0.68,
+              "y": 0.6
+            },
+            {
+              "x": 0.6,
+              "y": 0.82
+            },
+            {
+              "x": 0.48,
+              "y": 0.75
+            },
+            {
+              "x": 0.55,
+              "y": 0.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_re",
+      "glyph": "れ",
+      "romanization": "re",
+      "ipa": "/ɾe/",
+      "category": "syllable",
+      "codepoints": [
+        "U+308C"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A person resting their foot: \"Re\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.2
+            },
+            {
+              "x": 0.32,
+              "y": 0.82
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.4
+            },
+            {
+              "x": 0.62,
+              "y": 0.4
+            },
+            {
+              "x": 0.45,
+              "y": 0.65
+            },
+            {
+              "x": 0.68,
+              "y": 0.65
+            },
+            {
+              "x": 0.78,
+              "y": 0.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_ro",
+      "glyph": "ろ",
+      "romanization": "ro",
+      "ipa": "/ɾo/",
+      "category": "syllable",
+      "codepoints": [
+        "U+308D"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "A robber stole the loop from \"る\": \"Ro\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.28
+            },
+            {
+              "x": 0.65,
+              "y": 0.28
+            },
+            {
+              "x": 0.4,
+              "y": 0.55
+            },
+            {
+              "x": 0.68,
+              "y": 0.6
+            },
+            {
+              "x": 0.55,
+              "y": 0.82
+            },
+            {
+              "x": 0.38,
+              "y": 0.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_wa",
+      "glyph": "わ",
+      "romanization": "wa",
+      "ipa": "/wa/",
+      "category": "syllable",
+      "codepoints": [
+        "U+308F"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A wasp with a big round abdomen.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.2
+            },
+            {
+              "x": 0.32,
+              "y": 0.8
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.24,
+              "y": 0.38
+            },
+            {
+              "x": 0.6,
+              "y": 0.38
+            },
+            {
+              "x": 0.34,
+              "y": 0.6
+            },
+            {
+              "x": 0.72,
+              "y": 0.6
+            },
+            {
+              "x": 0.58,
+              "y": 0.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_wo",
+      "glyph": "を",
+      "romanization": "wo",
+      "ipa": "/o/",
+      "category": "syllable",
+      "codepoints": [
+        "U+3092"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A cheerleader jumping with \"woah!\"",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.32
+            },
+            {
+              "x": 0.7,
+              "y": 0.32
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.18
+            },
+            {
+              "x": 0.36,
+              "y": 0.58
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.42,
+              "y": 0.52
+            },
+            {
+              "x": 0.72,
+              "y": 0.56
+            },
+            {
+              "x": 0.4,
+              "y": 0.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "hiragana_n",
+      "glyph": "ん",
+      "romanization": "n",
+      "ipa": "/ɴ/",
+      "category": "syllable",
+      "codepoints": [
+        "U+3093"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "Looks like a handwritten script \"n\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.38,
+              "y": 0.22
+            },
+            {
+              "x": 0.3,
+              "y": 0.72
+            },
+            {
+              "x": 0.55,
+              "y": 0.44
+            },
+            {
+              "x": 0.68,
+              "y": 0.76
+            },
+            {
+              "x": 0.8,
+              "y": 0.66
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

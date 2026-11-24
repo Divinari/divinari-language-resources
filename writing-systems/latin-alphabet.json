@@ -1,0 +1,1944 @@
+{
+  "schema_version": "1.0.0",
+  "script_id": "latin-alphabet",
+  "script_name": "Latin Alphabet",
+  "language_codes": [
+    "en",
+    "es",
+    "de",
+    "fr",
+    "tl"
+  ],
+  "unicode_block": {
+    "start": "U+0041",
+    "end": "U+00DF"
+  },
+  "license": "CC-BY-4.0",
+  "origin_type": "cc_by_4_0",
+  "source_citation": "Divinari open writing-system stroke reference (Unicode standard codepoints and geometric stroke paths)",
+  "contributors": [
+    "Adam Blansett (@adamblansett)",
+    "Divinari Contributors"
+  ],
+  "characters": [
+    {
+      "character_id": "latin_a",
+      "glyph": "A",
+      "romanization": "a",
+      "ipa": "/æ/",
+      "category": "vowel",
+      "codepoints": [
+        "U+0041"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Two diagonal lines meeting at top with a crossbar; lowercase is a circle with a right stem.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.15
+            },
+            {
+              "x": 0.25,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.15
+            },
+            {
+              "x": 0.75,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.55
+            },
+            {
+              "x": 0.65,
+              "y": 0.55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "latin_b",
+      "glyph": "B",
+      "romanization": "b",
+      "ipa": "/b/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0042"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Vertical line with two rounded loops on the right.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.15
+            },
+            {
+              "x": 0.3,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.15
+            },
+            {
+              "x": 0.65,
+              "y": 0.15
+            },
+            {
+              "x": 0.7,
+              "y": 0.32
+            },
+            {
+              "x": 0.6,
+              "y": 0.5
+            },
+            {
+              "x": 0.3,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.5
+            },
+            {
+              "x": 0.7,
+              "y": 0.5
+            },
+            {
+              "x": 0.75,
+              "y": 0.68
+            },
+            {
+              "x": 0.65,
+              "y": 0.85
+            },
+            {
+              "x": 0.3,
+              "y": 0.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "latin_c",
+      "glyph": "C",
+      "romanization": "c",
+      "ipa": "/k/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0043"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "Open curved circle on the right side.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.75,
+              "y": 0.25
+            },
+            {
+              "x": 0.5,
+              "y": 0.15
+            },
+            {
+              "x": 0.25,
+              "y": 0.5
+            },
+            {
+              "x": 0.5,
+              "y": 0.85
+            },
+            {
+              "x": 0.75,
+              "y": 0.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "latin_d",
+      "glyph": "D",
+      "romanization": "d",
+      "ipa": "/d/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0044"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Vertical stem with one large rightward loop.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.15
+            },
+            {
+              "x": 0.3,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.15
+            },
+            {
+              "x": 0.7,
+              "y": 0.2
+            },
+            {
+              "x": 0.75,
+              "y": 0.5
+            },
+            {
+              "x": 0.7,
+              "y": 0.8
+            },
+            {
+              "x": 0.3,
+              "y": 0.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "latin_e",
+      "glyph": "E",
+      "romanization": "e",
+      "ipa": "/ɛ/",
+      "category": "vowel",
+      "codepoints": [
+        "U+0045"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "Vertical spine with three horizontal bars; lowercase loop.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.15
+            },
+            {
+              "x": 0.3,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.15
+            },
+            {
+              "x": 0.7,
+              "y": 0.15
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.5
+            },
+            {
+              "x": 0.6,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.85
+            },
+            {
+              "x": 0.7,
+              "y": 0.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "latin_f",
+      "glyph": "F",
+      "romanization": "f",
+      "ipa": "/f/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0046"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Vertical spine with top and middle crossbars.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.15
+            },
+            {
+              "x": 0.3,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.15
+            },
+            {
+              "x": 0.7,
+              "y": 0.15
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.5
+            },
+            {
+              "x": 0.6,
+              "y": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "latin_g",
+      "glyph": "G",
+      "romanization": "g",
+      "ipa": "/ɡ/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0047"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "Rounded C-curve with an inward shelf.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.75,
+              "y": 0.25
+            },
+            {
+              "x": 0.5,
+              "y": 0.15
+            },
+            {
+              "x": 0.25,
+              "y": 0.5
+            },
+            {
+              "x": 0.5,
+              "y": 0.85
+            },
+            {
+              "x": 0.75,
+              "y": 0.85
+            },
+            {
+              "x": 0.75,
+              "y": 0.55
+            },
+            {
+              "x": 0.55,
+              "y": 0.55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "latin_h",
+      "glyph": "H",
+      "romanization": "h",
+      "ipa": "/h/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0048"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Two parallel vertical legs joined by a center bridge.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.15
+            },
+            {
+              "x": 0.28,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.72,
+              "y": 0.15
+            },
+            {
+              "x": 0.72,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.5
+            },
+            {
+              "x": 0.72,
+              "y": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "latin_i",
+      "glyph": "I",
+      "romanization": "i",
+      "ipa": "/ɪ/",
+      "category": "vowel",
+      "codepoints": [
+        "U+0049"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Single vertical column with top and bottom serifs.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.15
+            },
+            {
+              "x": 0.5,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.15
+            },
+            {
+              "x": 0.65,
+              "y": 0.15
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.85
+            },
+            {
+              "x": 0.65,
+              "y": 0.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "latin_j",
+      "glyph": "J",
+      "romanization": "j",
+      "ipa": "/dʒ/",
+      "category": "consonant",
+      "codepoints": [
+        "U+004A"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Top anchor dropping down into a bottom-left hook.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.15
+            },
+            {
+              "x": 0.75,
+              "y": 0.15
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.6,
+              "y": 0.15
+            },
+            {
+              "x": 0.6,
+              "y": 0.7
+            },
+            {
+              "x": 0.5,
+              "y": 0.85
+            },
+            {
+              "x": 0.35,
+              "y": 0.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "latin_k",
+      "glyph": "K",
+      "romanization": "k",
+      "ipa": "/k/",
+      "category": "consonant",
+      "codepoints": [
+        "U+004B"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Vertical post with two diagonal kick branches.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.15
+            },
+            {
+              "x": 0.3,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.18
+            },
+            {
+              "x": 0.3,
+              "y": 0.52
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.48
+            },
+            {
+              "x": 0.72,
+              "y": 0.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "latin_l",
+      "glyph": "L",
+      "romanization": "l",
+      "ipa": "/l/",
+      "category": "consonant",
+      "codepoints": [
+        "U+004C"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Vertical drop with a single right floor line.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.15
+            },
+            {
+              "x": 0.32,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.85
+            },
+            {
+              "x": 0.75,
+              "y": 0.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "latin_m",
+      "glyph": "M",
+      "romanization": "m",
+      "ipa": "/m/",
+      "category": "consonant",
+      "codepoints": [
+        "U+004D"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "Two vertical legs connected by an inner V-peak.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.15
+            },
+            {
+              "x": 0.25,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.15
+            },
+            {
+              "x": 0.5,
+              "y": 0.55
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.55
+            },
+            {
+              "x": 0.75,
+              "y": 0.15
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.75,
+              "y": 0.15
+            },
+            {
+              "x": 0.75,
+              "y": 0.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "latin_n",
+      "glyph": "N",
+      "romanization": "n",
+      "ipa": "/n/",
+      "category": "consonant",
+      "codepoints": [
+        "U+004E"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Two upright columns connected by a descending slash.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.15
+            },
+            {
+              "x": 0.28,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.15
+            },
+            {
+              "x": 0.72,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.72,
+              "y": 0.15
+            },
+            {
+              "x": 0.72,
+              "y": 0.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "latin_o",
+      "glyph": "O",
+      "romanization": "o",
+      "ipa": "/ɒ/",
+      "category": "vowel",
+      "codepoints": [
+        "U+004F"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "Continuous smooth oval loop.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.15
+            },
+            {
+              "x": 0.25,
+              "y": 0.35
+            },
+            {
+              "x": 0.25,
+              "y": 0.65
+            },
+            {
+              "x": 0.5,
+              "y": 0.85
+            },
+            {
+              "x": 0.75,
+              "y": 0.65
+            },
+            {
+              "x": 0.75,
+              "y": 0.35
+            },
+            {
+              "x": 0.5,
+              "y": 0.15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "latin_p",
+      "glyph": "P",
+      "romanization": "p",
+      "ipa": "/p/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0050"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Vertical spine with an upper right loop.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.15
+            },
+            {
+              "x": 0.3,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.15
+            },
+            {
+              "x": 0.68,
+              "y": 0.15
+            },
+            {
+              "x": 0.75,
+              "y": 0.33
+            },
+            {
+              "x": 0.65,
+              "y": 0.52
+            },
+            {
+              "x": 0.3,
+              "y": 0.52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "latin_q",
+      "glyph": "Q",
+      "romanization": "q",
+      "ipa": "/kw/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0051"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Full oval circle with an anchoring kick diagonal.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.15
+            },
+            {
+              "x": 0.25,
+              "y": 0.35
+            },
+            {
+              "x": 0.25,
+              "y": 0.65
+            },
+            {
+              "x": 0.5,
+              "y": 0.85
+            },
+            {
+              "x": 0.75,
+              "y": 0.65
+            },
+            {
+              "x": 0.75,
+              "y": 0.35
+            },
+            {
+              "x": 0.5,
+              "y": 0.15
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.58,
+              "y": 0.68
+            },
+            {
+              "x": 0.8,
+              "y": 0.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "latin_r",
+      "glyph": "R",
+      "romanization": "r",
+      "ipa": "/r/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0052"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Vertical spine, upper loop, and bottom-right leg.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.15
+            },
+            {
+              "x": 0.3,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.15
+            },
+            {
+              "x": 0.68,
+              "y": 0.15
+            },
+            {
+              "x": 0.75,
+              "y": 0.33
+            },
+            {
+              "x": 0.65,
+              "y": 0.52
+            },
+            {
+              "x": 0.3,
+              "y": 0.52
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.52
+            },
+            {
+              "x": 0.75,
+              "y": 0.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "latin_s",
+      "glyph": "S",
+      "romanization": "s",
+      "ipa": "/s/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0053"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "Double-curving serpent wave.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.72,
+              "y": 0.28
+            },
+            {
+              "x": 0.5,
+              "y": 0.15
+            },
+            {
+              "x": 0.32,
+              "y": 0.32
+            },
+            {
+              "x": 0.68,
+              "y": 0.65
+            },
+            {
+              "x": 0.48,
+              "y": 0.85
+            },
+            {
+              "x": 0.28,
+              "y": 0.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "latin_t",
+      "glyph": "T",
+      "romanization": "t",
+      "ipa": "/t/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0054"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Top roof crossbar with a central downward column.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.2,
+              "y": 0.18
+            },
+            {
+              "x": 0.8,
+              "y": 0.18
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.18
+            },
+            {
+              "x": 0.5,
+              "y": 0.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "latin_u",
+      "glyph": "U",
+      "romanization": "u",
+      "ipa": "/ʌ/",
+      "category": "vowel",
+      "codepoints": [
+        "U+0055"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "Top-down drop curving at baseline and climbing back up.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.18
+            },
+            {
+              "x": 0.3,
+              "y": 0.65
+            },
+            {
+              "x": 0.5,
+              "y": 0.85
+            },
+            {
+              "x": 0.7,
+              "y": 0.65
+            },
+            {
+              "x": 0.7,
+              "y": 0.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "latin_v",
+      "glyph": "V",
+      "romanization": "v",
+      "ipa": "/v/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0056"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Downward diagonal meeting an upward diagonal at a point.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.18
+            },
+            {
+              "x": 0.5,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.85
+            },
+            {
+              "x": 0.75,
+              "y": 0.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "latin_w",
+      "glyph": "W",
+      "romanization": "w",
+      "ipa": "/w/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0057"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "Double-V wave pattern.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.18,
+              "y": 0.18
+            },
+            {
+              "x": 0.35,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.85
+            },
+            {
+              "x": 0.5,
+              "y": 0.35
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.35
+            },
+            {
+              "x": 0.65,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.65,
+              "y": 0.85
+            },
+            {
+              "x": 0.82,
+              "y": 0.18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "latin_x",
+      "glyph": "X",
+      "romanization": "x",
+      "ipa": "/ks/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0058"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Two intersecting crossing diagonal strokes.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.18
+            },
+            {
+              "x": 0.75,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.75,
+              "y": 0.18
+            },
+            {
+              "x": 0.25,
+              "y": 0.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "latin_y",
+      "glyph": "Y",
+      "romanization": "y",
+      "ipa": "/j/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0059"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Upper V funneling into a lower stem.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.18
+            },
+            {
+              "x": 0.5,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.75,
+              "y": 0.18
+            },
+            {
+              "x": 0.5,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.5
+            },
+            {
+              "x": 0.5,
+              "y": 0.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "latin_z",
+      "glyph": "Z",
+      "romanization": "z",
+      "ipa": "/z/",
+      "category": "consonant",
+      "codepoints": [
+        "U+005A"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Top bar, backward diagonal slash, and bottom base bar.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.2
+            },
+            {
+              "x": 0.75,
+              "y": 0.2
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.75,
+              "y": 0.2
+            },
+            {
+              "x": 0.25,
+              "y": 0.82
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.82
+            },
+            {
+              "x": 0.75,
+              "y": 0.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "latin_umlaut_a",
+      "glyph": "Ä",
+      "romanization": "ä",
+      "ipa": "/ɛː/",
+      "category": "diacritic",
+      "codepoints": [
+        "U+00C4"
+      ],
+      "stroke_count": 5,
+      "mnemonic": "German A-Umlaut with two dots above.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.25
+            },
+            {
+              "x": 0.25,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.25
+            },
+            {
+              "x": 0.75,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.6
+            },
+            {
+              "x": 0.65,
+              "y": 0.6
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.38,
+              "y": 0.12
+            },
+            {
+              "x": 0.42,
+              "y": 0.12
+            }
+          ]
+        },
+        {
+          "stroke_index": 5,
+          "points": [
+            {
+              "x": 0.58,
+              "y": 0.12
+            },
+            {
+              "x": 0.62,
+              "y": 0.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "latin_umlaut_o",
+      "glyph": "Ö",
+      "romanization": "ö",
+      "ipa": "/øː/",
+      "category": "diacritic",
+      "codepoints": [
+        "U+00D6"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "German O-Umlaut with two dots above.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.25
+            },
+            {
+              "x": 0.25,
+              "y": 0.45
+            },
+            {
+              "x": 0.25,
+              "y": 0.7
+            },
+            {
+              "x": 0.5,
+              "y": 0.85
+            },
+            {
+              "x": 0.75,
+              "y": 0.7
+            },
+            {
+              "x": 0.75,
+              "y": 0.45
+            },
+            {
+              "x": 0.5,
+              "y": 0.25
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.4,
+              "y": 0.12
+            },
+            {
+              "x": 0.44,
+              "y": 0.12
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.56,
+              "y": 0.12
+            },
+            {
+              "x": 0.6,
+              "y": 0.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "latin_umlaut_u",
+      "glyph": "Ü",
+      "romanization": "ü",
+      "ipa": "/yː/",
+      "category": "diacritic",
+      "codepoints": [
+        "U+00DC"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "German U-Umlaut with two dots above.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.25
+            },
+            {
+              "x": 0.3,
+              "y": 0.68
+            },
+            {
+              "x": 0.5,
+              "y": 0.85
+            },
+            {
+              "x": 0.7,
+              "y": 0.68
+            },
+            {
+              "x": 0.7,
+              "y": 0.25
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.4,
+              "y": 0.12
+            },
+            {
+              "x": 0.44,
+              "y": 0.12
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.56,
+              "y": 0.12
+            },
+            {
+              "x": 0.6,
+              "y": 0.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "latin_eszett",
+      "glyph": "ß",
+      "romanization": "ß",
+      "ipa": "/s/",
+      "category": "diacritic",
+      "codepoints": [
+        "U+00DF"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "German sharp S (Eszett) combining long s and z.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.18
+            },
+            {
+              "x": 0.3,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.18
+            },
+            {
+              "x": 0.65,
+              "y": 0.18
+            },
+            {
+              "x": 0.7,
+              "y": 0.42
+            },
+            {
+              "x": 0.4,
+              "y": 0.52
+            },
+            {
+              "x": 0.72,
+              "y": 0.65
+            },
+            {
+              "x": 0.6,
+              "y": 0.85
+            },
+            {
+              "x": 0.3,
+              "y": 0.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "latin_enye",
+      "glyph": "Ñ",
+      "romanization": "ñ",
+      "ipa": "/ɲ/",
+      "category": "diacritic",
+      "codepoints": [
+        "U+00D1"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "Spanish Eñe with tilde wave accent above.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.25
+            },
+            {
+              "x": 0.28,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.25
+            },
+            {
+              "x": 0.72,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.72,
+              "y": 0.25
+            },
+            {
+              "x": 0.72,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.14
+            },
+            {
+              "x": 0.48,
+              "y": 0.1
+            },
+            {
+              "x": 0.55,
+              "y": 0.16
+            },
+            {
+              "x": 0.68,
+              "y": 0.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "latin_c_cedille",
+      "glyph": "Ç",
+      "romanization": "ç",
+      "ipa": "/s/",
+      "category": "diacritic",
+      "codepoints": [
+        "U+00C7"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "French C-cedilla with hook under C.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.75,
+              "y": 0.25
+            },
+            {
+              "x": 0.5,
+              "y": 0.15
+            },
+            {
+              "x": 0.25,
+              "y": 0.5
+            },
+            {
+              "x": 0.5,
+              "y": 0.85
+            },
+            {
+              "x": 0.75,
+              "y": 0.75
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.85
+            },
+            {
+              "x": 0.5,
+              "y": 0.94
+            },
+            {
+              "x": 0.42,
+              "y": 0.98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "latin_a_tilde",
+      "glyph": "Ã",
+      "romanization": "ã",
+      "ipa": "/ɐ̃/",
+      "category": "diacritic",
+      "codepoints": [
+        "U+00C3"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "Portuguese nasalized A with tilde.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.25
+            },
+            {
+              "x": 0.25,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.25
+            },
+            {
+              "x": 0.75,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.6
+            },
+            {
+              "x": 0.65,
+              "y": 0.6
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.12
+            },
+            {
+              "x": 0.48,
+              "y": 0.08
+            },
+            {
+              "x": 0.55,
+              "y": 0.14
+            },
+            {
+              "x": 0.65,
+              "y": 0.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "latin_ng_digraph",
+      "glyph": "NG",
+      "romanization": "ng",
+      "ipa": "/ŋ/",
+      "category": "consonant",
+      "codepoints": [
+        "U+004E",
+        "U+0047"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "Philippine single phoneme velar nasal digraph.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.22,
+              "y": 0.18
+            },
+            {
+              "x": 0.22,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.22,
+              "y": 0.18
+            },
+            {
+              "x": 0.5,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.18
+            },
+            {
+              "x": 0.5,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.85,
+              "y": 0.28
+            },
+            {
+              "x": 0.68,
+              "y": 0.18
+            },
+            {
+              "x": 0.56,
+              "y": 0.5
+            },
+            {
+              "x": 0.7,
+              "y": 0.85
+            },
+            {
+              "x": 0.85,
+              "y": 0.85
+            },
+            {
+              "x": 0.85,
+              "y": 0.55
+            },
+            {
+              "x": 0.72,
+              "y": 0.55
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

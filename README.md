@@ -20,6 +20,7 @@
 ## Structure
 
 - `languages/` — Per-language metadata scaffolds and reviewed open lexicon/example datasets
+- `writing-systems/` — Open stroke-order and Unicode coordinate specifications for 11 core world writing systems (`CC BY 4.0`)
 - `schemas/` — Pinned copies of Draft 2020-12 JSON Schemas from [`Divinari/divinari-developer-resources`](https://github.com/Divinari/divinari-developer-resources) (`Apache 2.0`)
 - `regional-variants/` — Documentation honoring regional varieties and distinct languages
 - `pronunciation/` — IPA & syllabic notation guides *(synthetic TTS prohibited; audio uploads blocked until Phase 5 Voice Release)*

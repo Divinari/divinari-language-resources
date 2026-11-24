@@ -1,0 +1,3202 @@
+{
+  "schema_version": "1.0.0",
+  "script_id": "devanagari",
+  "script_name": "Devanagari Script",
+  "language_codes": [
+    "hi"
+  ],
+  "unicode_block": {
+    "start": "U+0905",
+    "end": "U+094D"
+  },
+  "license": "CC-BY-4.0",
+  "origin_type": "cc_by_4_0",
+  "source_citation": "Divinari open writing-system stroke reference (Unicode standard codepoints and geometric stroke paths)",
+  "contributors": [
+    "Adam Blansett (@adamblansett)",
+    "Divinari Contributors"
+  ],
+  "characters": [
+    {
+      "character_id": "deva_a",
+      "glyph": "अ",
+      "romanization": "a",
+      "ipa": "/ə/",
+      "category": "vowel",
+      "codepoints": [
+        "U+0905"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "Starts like the number 3, tethered by a line to a vertical pillar under a roof.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.25
+            },
+            {
+              "x": 0.48,
+              "y": 0.25
+            },
+            {
+              "x": 0.38,
+              "y": 0.48
+            },
+            {
+              "x": 0.52,
+              "y": 0.65
+            },
+            {
+              "x": 0.25,
+              "y": 0.8
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.4,
+              "y": 0.48
+            },
+            {
+              "x": 0.7,
+              "y": 0.48
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.2
+            },
+            {
+              "x": 0.7,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.2,
+              "y": 0.2
+            },
+            {
+              "x": 0.85,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_aa",
+      "glyph": "आ",
+      "romanization": "aa",
+      "ipa": "/aː/",
+      "category": "vowel",
+      "codepoints": [
+        "U+0906"
+      ],
+      "stroke_count": 5,
+      "mnemonic": "The base vowel \"अ\" reinforced with an extra parallel pillar.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.2,
+              "y": 0.25
+            },
+            {
+              "x": 0.42,
+              "y": 0.25
+            },
+            {
+              "x": 0.32,
+              "y": 0.48
+            },
+            {
+              "x": 0.45,
+              "y": 0.65
+            },
+            {
+              "x": 0.2,
+              "y": 0.8
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.48
+            },
+            {
+              "x": 0.6,
+              "y": 0.48
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.6,
+              "y": 0.2
+            },
+            {
+              "x": 0.6,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.8,
+              "y": 0.2
+            },
+            {
+              "x": 0.8,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 5,
+          "points": [
+            {
+              "x": 0.15,
+              "y": 0.2
+            },
+            {
+              "x": 0.9,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_i",
+      "glyph": "इ",
+      "romanization": "i",
+      "ipa": "/ɪ/",
+      "category": "vowel",
+      "codepoints": [
+        "U+0907"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "An S-shaped serpent hanging by its head with a curled tail.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.2
+            },
+            {
+              "x": 0.5,
+              "y": 0.3
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.3
+            },
+            {
+              "x": 0.32,
+              "y": 0.35
+            },
+            {
+              "x": 0.5,
+              "y": 0.48
+            },
+            {
+              "x": 0.68,
+              "y": 0.58
+            },
+            {
+              "x": 0.45,
+              "y": 0.72
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.45,
+              "y": 0.72
+            },
+            {
+              "x": 0.52,
+              "y": 0.78
+            },
+            {
+              "x": 0.35,
+              "y": 0.88
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.2
+            },
+            {
+              "x": 0.7,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_ii",
+      "glyph": "ई",
+      "romanization": "ee",
+      "ipa": "/iː/",
+      "category": "vowel",
+      "codepoints": [
+        "U+0908"
+      ],
+      "stroke_count": 5,
+      "mnemonic": "The short \"इ\" serpent wearing an eagle feather atop its roof.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.25
+            },
+            {
+              "x": 0.5,
+              "y": 0.33
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.33
+            },
+            {
+              "x": 0.35,
+              "y": 0.38
+            },
+            {
+              "x": 0.5,
+              "y": 0.5
+            },
+            {
+              "x": 0.65,
+              "y": 0.6
+            },
+            {
+              "x": 0.45,
+              "y": 0.72
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.45,
+              "y": 0.72
+            },
+            {
+              "x": 0.52,
+              "y": 0.78
+            },
+            {
+              "x": 0.35,
+              "y": 0.88
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.25
+            },
+            {
+              "x": 0.62,
+              "y": 0.18
+            },
+            {
+              "x": 0.68,
+              "y": 0.1
+            }
+          ]
+        },
+        {
+          "stroke_index": 5,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.25
+            },
+            {
+              "x": 0.7,
+              "y": 0.25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_u",
+      "glyph": "उ",
+      "romanization": "u",
+      "ipa": "/ʊ/",
+      "category": "vowel",
+      "codepoints": [
+        "U+0909"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A graceful numeral 3 suspended freely from the ceiling.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.22
+            },
+            {
+              "x": 0.6,
+              "y": 0.22
+            },
+            {
+              "x": 0.45,
+              "y": 0.48
+            },
+            {
+              "x": 0.65,
+              "y": 0.65
+            },
+            {
+              "x": 0.3,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.2
+            },
+            {
+              "x": 0.75,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_uu",
+      "glyph": "ऊ",
+      "romanization": "oo",
+      "ipa": "/uː/",
+      "category": "vowel",
+      "codepoints": [
+        "U+090A"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "The vowel \"उ\" sprouting a long tail arching down.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.22
+            },
+            {
+              "x": 0.55,
+              "y": 0.22
+            },
+            {
+              "x": 0.42,
+              "y": 0.48
+            },
+            {
+              "x": 0.6,
+              "y": 0.65
+            },
+            {
+              "x": 0.3,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.48,
+              "y": 0.48
+            },
+            {
+              "x": 0.68,
+              "y": 0.55
+            },
+            {
+              "x": 0.75,
+              "y": 0.75
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.2
+            },
+            {
+              "x": 0.75,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_e",
+      "glyph": "ए",
+      "romanization": "e",
+      "ipa": "/eː/",
+      "category": "vowel",
+      "codepoints": [
+        "U+090F"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "An open doorway with a tilted latch under the roof: \"E\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.4,
+              "y": 0.2
+            },
+            {
+              "x": 0.4,
+              "y": 0.55
+            },
+            {
+              "x": 0.28,
+              "y": 0.75
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.6,
+              "y": 0.2
+            },
+            {
+              "x": 0.6,
+              "y": 0.5
+            },
+            {
+              "x": 0.42,
+              "y": 0.55
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.2,
+              "y": 0.2
+            },
+            {
+              "x": 0.8,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_ai",
+      "glyph": "ऐ",
+      "romanization": "ai",
+      "ipa": "/ɛː/",
+      "category": "vowel",
+      "codepoints": [
+        "U+0910"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "The letter \"E\" wearing an antenna plume flag: \"Ai\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.4,
+              "y": 0.25
+            },
+            {
+              "x": 0.4,
+              "y": 0.6
+            },
+            {
+              "x": 0.28,
+              "y": 0.8
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.6,
+              "y": 0.25
+            },
+            {
+              "x": 0.6,
+              "y": 0.55
+            },
+            {
+              "x": 0.42,
+              "y": 0.6
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.6,
+              "y": 0.1
+            },
+            {
+              "x": 0.45,
+              "y": 0.25
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.2,
+              "y": 0.25
+            },
+            {
+              "x": 0.8,
+              "y": 0.25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_o",
+      "glyph": "ओ",
+      "romanization": "o",
+      "ipa": "/oː/",
+      "category": "vowel",
+      "codepoints": [
+        "U+0913"
+      ],
+      "stroke_count": 6,
+      "mnemonic": "Letter \"Aa\" with a single flag rising above the roof: \"O\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.2,
+              "y": 0.3
+            },
+            {
+              "x": 0.42,
+              "y": 0.3
+            },
+            {
+              "x": 0.32,
+              "y": 0.52
+            },
+            {
+              "x": 0.45,
+              "y": 0.68
+            },
+            {
+              "x": 0.2,
+              "y": 0.82
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.52
+            },
+            {
+              "x": 0.6,
+              "y": 0.52
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.6,
+              "y": 0.25
+            },
+            {
+              "x": 0.6,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.8,
+              "y": 0.25
+            },
+            {
+              "x": 0.8,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 5,
+          "points": [
+            {
+              "x": 0.62,
+              "y": 0.1
+            },
+            {
+              "x": 0.8,
+              "y": 0.25
+            }
+          ]
+        },
+        {
+          "stroke_index": 6,
+          "points": [
+            {
+              "x": 0.15,
+              "y": 0.25
+            },
+            {
+              "x": 0.9,
+              "y": 0.25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_au",
+      "glyph": "औ",
+      "romanization": "au",
+      "ipa": "/ɔː/",
+      "category": "vowel",
+      "codepoints": [
+        "U+0914"
+      ],
+      "stroke_count": 7,
+      "mnemonic": "Letter \"Aa\" crowned with two flying flags: \"Au\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.2,
+              "y": 0.3
+            },
+            {
+              "x": 0.42,
+              "y": 0.3
+            },
+            {
+              "x": 0.32,
+              "y": 0.52
+            },
+            {
+              "x": 0.45,
+              "y": 0.68
+            },
+            {
+              "x": 0.2,
+              "y": 0.82
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.52
+            },
+            {
+              "x": 0.6,
+              "y": 0.52
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.6,
+              "y": 0.25
+            },
+            {
+              "x": 0.6,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.8,
+              "y": 0.25
+            },
+            {
+              "x": 0.8,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 5,
+          "points": [
+            {
+              "x": 0.58,
+              "y": 0.1
+            },
+            {
+              "x": 0.8,
+              "y": 0.25
+            }
+          ]
+        },
+        {
+          "stroke_index": 6,
+          "points": [
+            {
+              "x": 0.72,
+              "y": 0.08
+            },
+            {
+              "x": 0.8,
+              "y": 0.25
+            }
+          ]
+        },
+        {
+          "stroke_index": 7,
+          "points": [
+            {
+              "x": 0.15,
+              "y": 0.25
+            },
+            {
+              "x": 0.9,
+              "y": 0.25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_ka",
+      "glyph": "क",
+      "romanization": "ka",
+      "ipa": "/kə/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0915"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "A vertical central trunk with a round leaf on the left and a falling leaf on the right.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.2
+            },
+            {
+              "x": 0.5,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.35
+            },
+            {
+              "x": 0.28,
+              "y": 0.45
+            },
+            {
+              "x": 0.3,
+              "y": 0.62
+            },
+            {
+              "x": 0.5,
+              "y": 0.62
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.42
+            },
+            {
+              "x": 0.72,
+              "y": 0.45
+            },
+            {
+              "x": 0.75,
+              "y": 0.7
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.2,
+              "y": 0.2
+            },
+            {
+              "x": 0.8,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_kha",
+      "glyph": "ख",
+      "romanization": "kha",
+      "ipa": "/kʰə/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0916"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "Resembles \"ra\" and \"va\" joining together under one shared roof.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.25
+            },
+            {
+              "x": 0.38,
+              "y": 0.35
+            },
+            {
+              "x": 0.25,
+              "y": 0.55
+            },
+            {
+              "x": 0.55,
+              "y": 0.78
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.2
+            },
+            {
+              "x": 0.7,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.5
+            },
+            {
+              "x": 0.55,
+              "y": 0.6
+            },
+            {
+              "x": 0.7,
+              "y": 0.7
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.2,
+              "y": 0.2
+            },
+            {
+              "x": 0.8,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_ga",
+      "glyph": "ग",
+      "romanization": "ga",
+      "ipa": "/ɡə/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0917"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A walking cane with a looped handle standing next to a tall flagpole.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.42,
+              "y": 0.2
+            },
+            {
+              "x": 0.42,
+              "y": 0.65
+            },
+            {
+              "x": 0.32,
+              "y": 0.72
+            },
+            {
+              "x": 0.42,
+              "y": 0.72
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.68,
+              "y": 0.2
+            },
+            {
+              "x": 0.68,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.2
+            },
+            {
+              "x": 0.8,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_gha",
+      "glyph": "घ",
+      "romanization": "gha",
+      "ipa": "/ɡʱə/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0918"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A stacked double-bowl resting against a tall column.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.25
+            },
+            {
+              "x": 0.48,
+              "y": 0.35
+            },
+            {
+              "x": 0.3,
+              "y": 0.5
+            },
+            {
+              "x": 0.52,
+              "y": 0.65
+            },
+            {
+              "x": 0.7,
+              "y": 0.65
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.2
+            },
+            {
+              "x": 0.7,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.2,
+              "y": 0.2
+            },
+            {
+              "x": 0.85,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_nga",
+      "glyph": "ङ",
+      "romanization": "nga",
+      "ipa": "/ŋə/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0919"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "The serpentine \"ड\" accompanied by a nasal dot beside its curve: \"Nga\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.2
+            },
+            {
+              "x": 0.5,
+              "y": 0.3
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.3
+            },
+            {
+              "x": 0.35,
+              "y": 0.42
+            },
+            {
+              "x": 0.5,
+              "y": 0.55
+            },
+            {
+              "x": 0.65,
+              "y": 0.68
+            },
+            {
+              "x": 0.4,
+              "y": 0.8
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.72,
+              "y": 0.52
+            },
+            {
+              "x": 0.74,
+              "y": 0.54
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.2
+            },
+            {
+              "x": 0.75,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_cha",
+      "glyph": "च",
+      "romanization": "cha",
+      "ipa": "/t͡ʃə/",
+      "category": "consonant",
+      "codepoints": [
+        "U+091A"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A teacup handle attached to a supportive right wall.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.45
+            },
+            {
+              "x": 0.55,
+              "y": 0.45
+            },
+            {
+              "x": 0.35,
+              "y": 0.55
+            },
+            {
+              "x": 0.45,
+              "y": 0.72
+            },
+            {
+              "x": 0.7,
+              "y": 0.6
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.2
+            },
+            {
+              "x": 0.7,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.2,
+              "y": 0.2
+            },
+            {
+              "x": 0.85,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_chha",
+      "glyph": "छ",
+      "romanization": "chha",
+      "ipa": "/t͡ʃʰə/",
+      "category": "consonant",
+      "codepoints": [
+        "U+091B"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "An umbrella handle looping under rain clouds: \"Chha\" for Chhatri.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.35
+            },
+            {
+              "x": 0.55,
+              "y": 0.38
+            },
+            {
+              "x": 0.32,
+              "y": 0.55
+            },
+            {
+              "x": 0.55,
+              "y": 0.65
+            },
+            {
+              "x": 0.48,
+              "y": 0.8
+            },
+            {
+              "x": 0.4,
+              "y": 0.7
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.48,
+              "y": 0.2
+            },
+            {
+              "x": 0.48,
+              "y": 0.35
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.2
+            },
+            {
+              "x": 0.75,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_ja",
+      "glyph": "ज",
+      "romanization": "ja",
+      "ipa": "/d͡ʒə/",
+      "category": "consonant",
+      "codepoints": [
+        "U+091C"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "A ladle scooping water (Jal) anchored to a firm pillar.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.42
+            },
+            {
+              "x": 0.32,
+              "y": 0.72
+            },
+            {
+              "x": 0.52,
+              "y": 0.68
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.45,
+              "y": 0.48
+            },
+            {
+              "x": 0.7,
+              "y": 0.48
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.2
+            },
+            {
+              "x": 0.7,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.2
+            },
+            {
+              "x": 0.85,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_jha",
+      "glyph": "झ",
+      "romanization": "jha",
+      "ipa": "/d͡ʒʱə/",
+      "category": "consonant",
+      "codepoints": [
+        "U+091D"
+      ],
+      "stroke_count": 5,
+      "mnemonic": "An \"इ\"-shaped flag flapping on a flagpole: \"Jha\" for Jhandaa.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.38,
+              "y": 0.2
+            },
+            {
+              "x": 0.38,
+              "y": 0.28
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.38,
+              "y": 0.28
+            },
+            {
+              "x": 0.25,
+              "y": 0.38
+            },
+            {
+              "x": 0.38,
+              "y": 0.5
+            },
+            {
+              "x": 0.5,
+              "y": 0.62
+            },
+            {
+              "x": 0.32,
+              "y": 0.75
+            },
+            {
+              "x": 0.22,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.38,
+              "y": 0.5
+            },
+            {
+              "x": 0.68,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.68,
+              "y": 0.2
+            },
+            {
+              "x": 0.68,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 5,
+          "points": [
+            {
+              "x": 0.2,
+              "y": 0.2
+            },
+            {
+              "x": 0.85,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_nya",
+      "glyph": "ञ",
+      "romanization": "nya",
+      "ipa": "/ɲə/",
+      "category": "consonant",
+      "codepoints": [
+        "U+091E"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "A backwards crescent moon tethered to a pillar: palatal \"Nya\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.45,
+              "y": 0.3
+            },
+            {
+              "x": 0.25,
+              "y": 0.45
+            },
+            {
+              "x": 0.45,
+              "y": 0.62
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.45,
+              "y": 0.46
+            },
+            {
+              "x": 0.7,
+              "y": 0.46
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.2
+            },
+            {
+              "x": 0.7,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.2,
+              "y": 0.2
+            },
+            {
+              "x": 0.85,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_tta",
+      "glyph": "ट",
+      "romanization": "ṭa",
+      "ipa": "/ʈə/",
+      "category": "consonant",
+      "codepoints": [
+        "U+091F"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A hanging basket with a wide open front: retroflex \"Ṭa\" for Tamatar (tomato).",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.2
+            },
+            {
+              "x": 0.5,
+              "y": 0.35
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.35
+            },
+            {
+              "x": 0.32,
+              "y": 0.42
+            },
+            {
+              "x": 0.32,
+              "y": 0.7
+            },
+            {
+              "x": 0.68,
+              "y": 0.78
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.2
+            },
+            {
+              "x": 0.75,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_ttha",
+      "glyph": "ठ",
+      "romanization": "ṭha",
+      "ipa": "/ʈʰə/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0920"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A circular bell hanging under the roof: aspirated retroflex \"Ṭha\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.2
+            },
+            {
+              "x": 0.5,
+              "y": 0.35
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.35
+            },
+            {
+              "x": 0.3,
+              "y": 0.55
+            },
+            {
+              "x": 0.5,
+              "y": 0.8
+            },
+            {
+              "x": 0.7,
+              "y": 0.55
+            },
+            {
+              "x": 0.5,
+              "y": 0.35
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.2
+            },
+            {
+              "x": 0.75,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_dda",
+      "glyph": "ड",
+      "romanization": "ḍa",
+      "ipa": "/ɖə/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0921"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "An S-shaped hourglass drum (Damru) suspended from the roof: \"Ḍa\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.2
+            },
+            {
+              "x": 0.5,
+              "y": 0.32
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.32
+            },
+            {
+              "x": 0.35,
+              "y": 0.45
+            },
+            {
+              "x": 0.5,
+              "y": 0.58
+            },
+            {
+              "x": 0.65,
+              "y": 0.7
+            },
+            {
+              "x": 0.38,
+              "y": 0.82
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.2
+            },
+            {
+              "x": 0.75,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_ddha",
+      "glyph": "ढ",
+      "romanization": "ḍha",
+      "ipa": "/ɖʱə/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0922"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A covered bowl with a lid knob inside: voiced aspirate \"Ḍha\" for Dhakkan (lid).",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.2
+            },
+            {
+              "x": 0.5,
+              "y": 0.35
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.35
+            },
+            {
+              "x": 0.32,
+              "y": 0.45
+            },
+            {
+              "x": 0.32,
+              "y": 0.72
+            },
+            {
+              "x": 0.65,
+              "y": 0.75
+            },
+            {
+              "x": 0.62,
+              "y": 0.6
+            },
+            {
+              "x": 0.5,
+              "y": 0.62
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.2
+            },
+            {
+              "x": 0.75,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_nna",
+      "glyph": "ण",
+      "romanization": "ṇa",
+      "ipa": "/ɳə/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0923"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A U-shaped magnet standing right beside a tall pillar: retroflex nasal \"Ṇa\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.2
+            },
+            {
+              "x": 0.35,
+              "y": 0.6
+            },
+            {
+              "x": 0.5,
+              "y": 0.65
+            },
+            {
+              "x": 0.5,
+              "y": 0.2
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.2
+            },
+            {
+              "x": 0.7,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.2,
+              "y": 0.2
+            },
+            {
+              "x": 0.85,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_ta",
+      "glyph": "त",
+      "romanization": "ta",
+      "ipa": "/t̪ə/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0924"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "An arching sword (Talwar) hanging from a strong pillar.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.68,
+              "y": 0.2
+            },
+            {
+              "x": 0.68,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.68,
+              "y": 0.5
+            },
+            {
+              "x": 0.4,
+              "y": 0.5
+            },
+            {
+              "x": 0.35,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.2
+            },
+            {
+              "x": 0.85,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_tha",
+      "glyph": "थ",
+      "romanization": "tha",
+      "ipa": "/t̪ʰə/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0925"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "A looped pitcher resting beside a pillar: aspirated dental \"Tha\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.35
+            },
+            {
+              "x": 0.25,
+              "y": 0.3
+            },
+            {
+              "x": 0.32,
+              "y": 0.25
+            },
+            {
+              "x": 0.38,
+              "y": 0.35
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.35
+            },
+            {
+              "x": 0.28,
+              "y": 0.55
+            },
+            {
+              "x": 0.48,
+              "y": 0.7
+            },
+            {
+              "x": 0.68,
+              "y": 0.7
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.68,
+              "y": 0.2
+            },
+            {
+              "x": 0.68,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.55,
+              "y": 0.2
+            },
+            {
+              "x": 0.85,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_da",
+      "glyph": "द",
+      "romanization": "da",
+      "ipa": "/d̪ə/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0926"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A dental stop \"Da\" curving down with a hanging tail for Dawa (medicine).",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.2
+            },
+            {
+              "x": 0.5,
+              "y": 0.35
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.35
+            },
+            {
+              "x": 0.32,
+              "y": 0.45
+            },
+            {
+              "x": 0.35,
+              "y": 0.68
+            },
+            {
+              "x": 0.55,
+              "y": 0.72
+            },
+            {
+              "x": 0.4,
+              "y": 0.88
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.2
+            },
+            {
+              "x": 0.75,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_dha",
+      "glyph": "ध",
+      "romanization": "dha",
+      "ipa": "/d̪ʱə/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0927"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "A curled archer's bow (Dhanush) anchored to a pillar: \"Dha\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.32
+            },
+            {
+              "x": 0.25,
+              "y": 0.28
+            },
+            {
+              "x": 0.3,
+              "y": 0.22
+            },
+            {
+              "x": 0.38,
+              "y": 0.32
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.38,
+              "y": 0.32
+            },
+            {
+              "x": 0.28,
+              "y": 0.48
+            },
+            {
+              "x": 0.48,
+              "y": 0.65
+            },
+            {
+              "x": 0.7,
+              "y": 0.65
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.2
+            },
+            {
+              "x": 0.7,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.55,
+              "y": 0.2
+            },
+            {
+              "x": 0.85,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_na",
+      "glyph": "न",
+      "romanization": "na",
+      "ipa": "/n̪ə/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0928"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A water tap (Nal) flowing horizontally into a pipe pillar.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.55
+            },
+            {
+              "x": 0.38,
+              "y": 0.65
+            },
+            {
+              "x": 0.28,
+              "y": 0.65
+            },
+            {
+              "x": 0.28,
+              "y": 0.55
+            },
+            {
+              "x": 0.7,
+              "y": 0.55
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.2
+            },
+            {
+              "x": 0.7,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.2,
+              "y": 0.2
+            },
+            {
+              "x": 0.85,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_pa",
+      "glyph": "प",
+      "romanization": "pa",
+      "ipa": "/pə/",
+      "category": "consonant",
+      "codepoints": [
+        "U+092A"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A floating kite (Patang) string secured to a post.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.2
+            },
+            {
+              "x": 0.35,
+              "y": 0.6
+            },
+            {
+              "x": 0.7,
+              "y": 0.6
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.2
+            },
+            {
+              "x": 0.7,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.2
+            },
+            {
+              "x": 0.85,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_pha",
+      "glyph": "फ",
+      "romanization": "pha",
+      "ipa": "/pʰə/",
+      "category": "consonant",
+      "codepoints": [
+        "U+092B"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "The letter \"प\" sprouting an arching spray of fruits (Phal).",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.2
+            },
+            {
+              "x": 0.3,
+              "y": 0.55
+            },
+            {
+              "x": 0.5,
+              "y": 0.55
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.2
+            },
+            {
+              "x": 0.5,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.55
+            },
+            {
+              "x": 0.75,
+              "y": 0.55
+            },
+            {
+              "x": 0.75,
+              "y": 0.8
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.2,
+              "y": 0.2
+            },
+            {
+              "x": 0.85,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_ba",
+      "glyph": "ब",
+      "romanization": "ba",
+      "ipa": "/bə/",
+      "category": "consonant",
+      "codepoints": [
+        "U+092C"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "A round belly with a belt slash tied to a pillar: \"Ba\" for Bakri (goat).",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.2
+            },
+            {
+              "x": 0.7,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.4
+            },
+            {
+              "x": 0.4,
+              "y": 0.4
+            },
+            {
+              "x": 0.4,
+              "y": 0.7
+            },
+            {
+              "x": 0.7,
+              "y": 0.7
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.45,
+              "y": 0.45
+            },
+            {
+              "x": 0.65,
+              "y": 0.65
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.2
+            },
+            {
+              "x": 0.85,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_bha",
+      "glyph": "भ",
+      "romanization": "bha",
+      "ipa": "/bʱə/",
+      "category": "consonant",
+      "codepoints": [
+        "U+092D"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "The letter \"म\" adorned with an open upper loop: voiced aspirate \"Bha\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.28
+            },
+            {
+              "x": 0.28,
+              "y": 0.24
+            },
+            {
+              "x": 0.32,
+              "y": 0.32
+            },
+            {
+              "x": 0.32,
+              "y": 0.65
+            },
+            {
+              "x": 0.25,
+              "y": 0.72
+            },
+            {
+              "x": 0.35,
+              "y": 0.72
+            },
+            {
+              "x": 0.68,
+              "y": 0.72
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.68,
+              "y": 0.2
+            },
+            {
+              "x": 0.68,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.55,
+              "y": 0.2
+            },
+            {
+              "x": 0.85,
+              "y": 0.2
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.72
+            },
+            {
+              "x": 0.68,
+              "y": 0.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_ma",
+      "glyph": "म",
+      "romanization": "ma",
+      "ipa": "/mə/",
+      "category": "consonant",
+      "codepoints": [
+        "U+092E"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A fish (Machhli) swimming into an upright post under a roof.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.2
+            },
+            {
+              "x": 0.35,
+              "y": 0.65
+            },
+            {
+              "x": 0.25,
+              "y": 0.72
+            },
+            {
+              "x": 0.35,
+              "y": 0.72
+            },
+            {
+              "x": 0.7,
+              "y": 0.72
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.2
+            },
+            {
+              "x": 0.7,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.2,
+              "y": 0.2
+            },
+            {
+              "x": 0.85,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_ya",
+      "glyph": "य",
+      "romanization": "ya",
+      "ipa": "/jə/",
+      "category": "consonant",
+      "codepoints": [
+        "U+092F"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A sacred fire vessel without the head loop: palatal semivowel \"Ya\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.25
+            },
+            {
+              "x": 0.48,
+              "y": 0.38
+            },
+            {
+              "x": 0.32,
+              "y": 0.55
+            },
+            {
+              "x": 0.48,
+              "y": 0.7
+            },
+            {
+              "x": 0.7,
+              "y": 0.7
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.2
+            },
+            {
+              "x": 0.7,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.2,
+              "y": 0.2
+            },
+            {
+              "x": 0.85,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_ra",
+      "glyph": "र",
+      "romanization": "ra",
+      "ipa": "/rə/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0930"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A royal chariot (Rath) wheel with a trailing banner.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.4,
+              "y": 0.2
+            },
+            {
+              "x": 0.65,
+              "y": 0.35
+            },
+            {
+              "x": 0.45,
+              "y": 0.52
+            },
+            {
+              "x": 0.3,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.2
+            },
+            {
+              "x": 0.75,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_la",
+      "glyph": "ल",
+      "romanization": "la",
+      "ipa": "/lə/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0932"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A double-curved spinning top (Lattoo) anchored to a pillar: \"La\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.7
+            },
+            {
+              "x": 0.35,
+              "y": 0.45
+            },
+            {
+              "x": 0.45,
+              "y": 0.65
+            },
+            {
+              "x": 0.55,
+              "y": 0.45
+            },
+            {
+              "x": 0.7,
+              "y": 0.55
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.2
+            },
+            {
+              "x": 0.7,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.2,
+              "y": 0.2
+            },
+            {
+              "x": 0.85,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_va",
+      "glyph": "व",
+      "romanization": "va",
+      "ipa": "/ʋə/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0935"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A round belly loop on a pillar without any internal slash: \"Va\" for Van (forest).",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.4
+            },
+            {
+              "x": 0.4,
+              "y": 0.4
+            },
+            {
+              "x": 0.4,
+              "y": 0.7
+            },
+            {
+              "x": 0.7,
+              "y": 0.7
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.2
+            },
+            {
+              "x": 0.7,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.2
+            },
+            {
+              "x": 0.85,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_sha",
+      "glyph": "श",
+      "romanization": "sha",
+      "ipa": "/ʃə/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0936"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "A royal conch shell (Shankh) resting beside a temple pillar: \"Sha\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.42,
+              "y": 0.32
+            },
+            {
+              "x": 0.3,
+              "y": 0.25
+            },
+            {
+              "x": 0.35,
+              "y": 0.2
+            },
+            {
+              "x": 0.48,
+              "y": 0.32
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.48,
+              "y": 0.32
+            },
+            {
+              "x": 0.35,
+              "y": 0.55
+            },
+            {
+              "x": 0.45,
+              "y": 0.65
+            },
+            {
+              "x": 0.28,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.2
+            },
+            {
+              "x": 0.7,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.2,
+              "y": 0.2
+            },
+            {
+              "x": 0.85,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_ssa",
+      "glyph": "ष",
+      "romanization": "ṣa",
+      "ipa": "/ʂə/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0937"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "Letter \"Pa\" crossed with a diagonal sword slash: retroflex sibilant \"Ṣa\".",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.2
+            },
+            {
+              "x": 0.35,
+              "y": 0.6
+            },
+            {
+              "x": 0.7,
+              "y": 0.6
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.2
+            },
+            {
+              "x": 0.7,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.38,
+              "y": 0.35
+            },
+            {
+              "x": 0.68,
+              "y": 0.6
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.2
+            },
+            {
+              "x": 0.85,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_sa",
+      "glyph": "स",
+      "romanization": "sa",
+      "ipa": "/sə/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0938"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "A serpent coiled on the left tethered to a solid right pillar.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.2
+            },
+            {
+              "x": 0.55,
+              "y": 0.32
+            },
+            {
+              "x": 0.42,
+              "y": 0.48
+            },
+            {
+              "x": 0.25,
+              "y": 0.8
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.42,
+              "y": 0.48
+            },
+            {
+              "x": 0.7,
+              "y": 0.48
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.7,
+              "y": 0.2
+            },
+            {
+              "x": 0.7,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.2,
+              "y": 0.2
+            },
+            {
+              "x": 0.85,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_ha",
+      "glyph": "ह",
+      "romanization": "ha",
+      "ipa": "/ɦə/",
+      "category": "consonant",
+      "codepoints": [
+        "U+0939"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "An elephant's trunk (Haathi) playfully curving in the air.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.2
+            },
+            {
+              "x": 0.5,
+              "y": 0.3
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.3
+            },
+            {
+              "x": 0.35,
+              "y": 0.4
+            },
+            {
+              "x": 0.55,
+              "y": 0.5
+            },
+            {
+              "x": 0.42,
+              "y": 0.62
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.42,
+              "y": 0.58
+            },
+            {
+              "x": 0.65,
+              "y": 0.72
+            },
+            {
+              "x": 0.4,
+              "y": 0.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_matra_aa",
+      "glyph": "ा",
+      "romanization": "-aa",
+      "ipa": "/aː/",
+      "category": "diacritic",
+      "codepoints": [
+        "U+093E"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "The Aa-ki-matra stands beside a consonant (e.g. क + ा = का \"kaa\").",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.2
+            },
+            {
+              "x": 0.5,
+              "y": 0.85
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.35,
+              "y": 0.2
+            },
+            {
+              "x": 0.65,
+              "y": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "deva_virama",
+      "glyph": "्",
+      "romanization": "Halant / Virama",
+      "ipa": "/cancels inherent -a/",
+      "category": "diacritic",
+      "codepoints": [
+        "U+094D"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "Halant cuts off the inherent \"a\" sound, producing pure consonants and conjuncts (e.g. क् = k).",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.45,
+              "y": 0.68
+            },
+            {
+              "x": 0.32,
+              "y": 0.85
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

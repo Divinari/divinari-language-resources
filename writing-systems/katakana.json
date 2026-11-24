@@ -1,0 +1,2236 @@
+{
+  "schema_version": "1.0.0",
+  "script_id": "katakana",
+  "script_name": "Katakana",
+  "language_codes": [
+    "ja"
+  ],
+  "unicode_block": {
+    "start": "U+30A2",
+    "end": "U+30F3"
+  },
+  "license": "CC-BY-4.0",
+  "origin_type": "cc_by_4_0",
+  "source_citation": "Divinari open writing-system stroke reference (Unicode standard codepoints and geometric stroke paths)",
+  "contributors": [
+    "Adam Blansett (@adamblansett)",
+    "Divinari Contributors"
+  ],
+  "characters": [
+    {
+      "character_id": "katakana_a",
+      "glyph": "ア",
+      "romanization": "a",
+      "ipa": "/a/",
+      "category": "vowel",
+      "codepoints": [
+        "U+30A2"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "An axe chopping downward.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.32
+            },
+            {
+              "x": 0.7,
+              "y": 0.32
+            },
+            {
+              "x": 0.5,
+              "y": 0.58
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.54,
+              "y": 0.32
+            },
+            {
+              "x": 0.42,
+              "y": 0.6
+            },
+            {
+              "x": 0.26,
+              "y": 0.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_i",
+      "glyph": "イ",
+      "romanization": "i",
+      "ipa": "/i/",
+      "category": "vowel",
+      "codepoints": [
+        "U+30A4"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "An eagle standing tall on an iron perch.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.54,
+              "y": 0.22
+            },
+            {
+              "x": 0.32,
+              "y": 0.52
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.42,
+              "y": 0.4
+            },
+            {
+              "x": 0.42,
+              "y": 0.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_u",
+      "glyph": "ウ",
+      "romanization": "u",
+      "ipa": "/ɯ/",
+      "category": "vowel",
+      "codepoints": [
+        "U+30A6"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "An astronaut wearing a heavy space helmet.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.18
+            },
+            {
+              "x": 0.5,
+              "y": 0.32
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.38
+            },
+            {
+              "x": 0.28,
+              "y": 0.54
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.38
+            },
+            {
+              "x": 0.72,
+              "y": 0.38
+            },
+            {
+              "x": 0.64,
+              "y": 0.58
+            },
+            {
+              "x": 0.46,
+              "y": 0.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_e",
+      "glyph": "エ",
+      "romanization": "e",
+      "ipa": "/e/",
+      "category": "vowel",
+      "codepoints": [
+        "U+30A8"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "An elevator with open metal doors.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.26
+            },
+            {
+              "x": 0.7,
+              "y": 0.26
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.26
+            },
+            {
+              "x": 0.5,
+              "y": 0.74
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.24,
+              "y": 0.74
+            },
+            {
+              "x": 0.76,
+              "y": 0.74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_o",
+      "glyph": "オ",
+      "romanization": "o",
+      "ipa": "/o/",
+      "category": "vowel",
+      "codepoints": [
+        "U+30AA"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "An opera singer with arm outstretched.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.26,
+              "y": 0.34
+            },
+            {
+              "x": 0.74,
+              "y": 0.34
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.52,
+              "y": 0.2
+            },
+            {
+              "x": 0.52,
+              "y": 0.78
+            },
+            {
+              "x": 0.4,
+              "y": 0.74
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.38
+            },
+            {
+              "x": 0.28,
+              "y": 0.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_ka",
+      "glyph": "カ",
+      "romanization": "ka",
+      "ipa": "/ka/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30AB"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A sharp camera tripod leg.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.32
+            },
+            {
+              "x": 0.66,
+              "y": 0.32
+            },
+            {
+              "x": 0.56,
+              "y": 0.78
+            },
+            {
+              "x": 0.46,
+              "y": 0.7
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.48,
+              "y": 0.2
+            },
+            {
+              "x": 0.34,
+              "y": 0.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_ki",
+      "glyph": "キ",
+      "romanization": "ki",
+      "ipa": "/ki/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30AD"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A key with sharp teeth.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.32
+            },
+            {
+              "x": 0.7,
+              "y": 0.32
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.26,
+              "y": 0.5
+            },
+            {
+              "x": 0.74,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.56,
+              "y": 0.18
+            },
+            {
+              "x": 0.4,
+              "y": 0.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_ku",
+      "glyph": "ク",
+      "romanization": "ku",
+      "ipa": "/kɯ/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30AF"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A cook's sharp cleaver knife.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.48,
+              "y": 0.22
+            },
+            {
+              "x": 0.34,
+              "y": 0.44
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.34,
+              "y": 0.44
+            },
+            {
+              "x": 0.72,
+              "y": 0.44
+            },
+            {
+              "x": 0.56,
+              "y": 0.64
+            },
+            {
+              "x": 0.32,
+              "y": 0.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_ke",
+      "glyph": "ケ",
+      "romanization": "ke",
+      "ipa": "/ke/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30B1"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A kettle handle.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.22
+            },
+            {
+              "x": 0.32,
+              "y": 0.48
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.36,
+              "y": 0.46
+            },
+            {
+              "x": 0.78,
+              "y": 0.46
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.6,
+              "y": 0.46
+            },
+            {
+              "x": 0.38,
+              "y": 0.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_ko",
+      "glyph": "コ",
+      "romanization": "ko",
+      "ipa": "/ko/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30B3"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A cardboard box with an open side.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.3
+            },
+            {
+              "x": 0.7,
+              "y": 0.3
+            },
+            {
+              "x": 0.7,
+              "y": 0.72
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.72
+            },
+            {
+              "x": 0.7,
+              "y": 0.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_sa",
+      "glyph": "サ",
+      "romanization": "sa",
+      "ipa": "/sa/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30B5"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A salad bowl with two forks sticking up.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.24,
+              "y": 0.36
+            },
+            {
+              "x": 0.76,
+              "y": 0.36
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.4,
+              "y": 0.24
+            },
+            {
+              "x": 0.38,
+              "y": 0.52
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.62,
+              "y": 0.22
+            },
+            {
+              "x": 0.6,
+              "y": 0.6
+            },
+            {
+              "x": 0.48,
+              "y": 0.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_shi",
+      "glyph": "シ",
+      "romanization": "shi",
+      "ipa": "/ɕi/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30B7"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A ship sailing upward through the ocean spray.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.28
+            },
+            {
+              "x": 0.42,
+              "y": 0.34
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.26,
+              "y": 0.48
+            },
+            {
+              "x": 0.38,
+              "y": 0.54
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.78
+            },
+            {
+              "x": 0.5,
+              "y": 0.6
+            },
+            {
+              "x": 0.74,
+              "y": 0.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_su",
+      "glyph": "ス",
+      "romanization": "su",
+      "ipa": "/sɯ/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30B9"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A person skiing down a snowy slope.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.32
+            },
+            {
+              "x": 0.7,
+              "y": 0.32
+            },
+            {
+              "x": 0.44,
+              "y": 0.78
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.52,
+              "y": 0.48
+            },
+            {
+              "x": 0.74,
+              "y": 0.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_se",
+      "glyph": "セ",
+      "romanization": "se",
+      "ipa": "/se/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30BB"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A set of open shelves.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.36
+            },
+            {
+              "x": 0.72,
+              "y": 0.36
+            },
+            {
+              "x": 0.72,
+              "y": 0.54
+            },
+            {
+              "x": 0.64,
+              "y": 0.54
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.46,
+              "y": 0.22
+            },
+            {
+              "x": 0.46,
+              "y": 0.72
+            },
+            {
+              "x": 0.74,
+              "y": 0.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_so",
+      "glyph": "ソ",
+      "romanization": "so",
+      "ipa": "/so/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30BD"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A needle sewing a downward stitch.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.36,
+              "y": 0.28
+            },
+            {
+              "x": 0.44,
+              "y": 0.4
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.68,
+              "y": 0.24
+            },
+            {
+              "x": 0.5,
+              "y": 0.54
+            },
+            {
+              "x": 0.34,
+              "y": 0.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_ta",
+      "glyph": "タ",
+      "romanization": "ta",
+      "ipa": "/ta/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30BF"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A taxi meter showing the fare.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.44,
+              "y": 0.22
+            },
+            {
+              "x": 0.32,
+              "y": 0.44
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.44
+            },
+            {
+              "x": 0.7,
+              "y": 0.44
+            },
+            {
+              "x": 0.4,
+              "y": 0.8
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.42,
+              "y": 0.54
+            },
+            {
+              "x": 0.6,
+              "y": 0.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_chi",
+      "glyph": "チ",
+      "romanization": "chi",
+      "ipa": "/tɕi/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30C1"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A cheerful cheerleader jumping up.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.64,
+              "y": 0.22
+            },
+            {
+              "x": 0.36,
+              "y": 0.32
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.26,
+              "y": 0.48
+            },
+            {
+              "x": 0.74,
+              "y": 0.48
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.32
+            },
+            {
+              "x": 0.5,
+              "y": 0.64
+            },
+            {
+              "x": 0.64,
+              "y": 0.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_tsu",
+      "glyph": "ツ",
+      "romanization": "tsu",
+      "ipa": "/tsɯ/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30C4"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Two eyes and a tsunami wave falling down.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.28
+            },
+            {
+              "x": 0.38,
+              "y": 0.4
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.48,
+              "y": 0.32
+            },
+            {
+              "x": 0.54,
+              "y": 0.44
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.72,
+              "y": 0.26
+            },
+            {
+              "x": 0.54,
+              "y": 0.58
+            },
+            {
+              "x": 0.36,
+              "y": 0.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_te",
+      "glyph": "テ",
+      "romanization": "te",
+      "ipa": "/te/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30C6"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A telephone pole with two wires.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.36,
+              "y": 0.28
+            },
+            {
+              "x": 0.64,
+              "y": 0.28
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.24,
+              "y": 0.48
+            },
+            {
+              "x": 0.76,
+              "y": 0.48
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.48
+            },
+            {
+              "x": 0.46,
+              "y": 0.68
+            },
+            {
+              "x": 0.32,
+              "y": 0.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_to",
+      "glyph": "ト",
+      "romanization": "to",
+      "ipa": "/to/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30C8"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A totem pole with a branch sticking out.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.42,
+              "y": 0.2
+            },
+            {
+              "x": 0.42,
+              "y": 0.8
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.42,
+              "y": 0.46
+            },
+            {
+              "x": 0.72,
+              "y": 0.64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_na",
+      "glyph": "ナ",
+      "romanization": "na",
+      "ipa": "/na/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30CA"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A nutcracker blade.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.26,
+              "y": 0.38
+            },
+            {
+              "x": 0.74,
+              "y": 0.38
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.48,
+              "y": 0.22
+            },
+            {
+              "x": 0.46,
+              "y": 0.56
+            },
+            {
+              "x": 0.32,
+              "y": 0.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_ni",
+      "glyph": "ニ",
+      "romanization": "ni",
+      "ipa": "/ɲi/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30CB"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Two parallel needle needles.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.34,
+              "y": 0.36
+            },
+            {
+              "x": 0.66,
+              "y": 0.36
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.26,
+              "y": 0.64
+            },
+            {
+              "x": 0.74,
+              "y": 0.64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_nu",
+      "glyph": "ヌ",
+      "romanization": "nu",
+      "ipa": "/nɯ/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30CC"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Chopsticks pulling up noodles.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.34
+            },
+            {
+              "x": 0.68,
+              "y": 0.34
+            },
+            {
+              "x": 0.36,
+              "y": 0.78
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.44,
+              "y": 0.48
+            },
+            {
+              "x": 0.72,
+              "y": 0.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_ne",
+      "glyph": "ネ",
+      "romanization": "ne",
+      "ipa": "/ne/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30CD"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "A necktie neatly arranged.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.42,
+              "y": 0.18
+            },
+            {
+              "x": 0.48,
+              "y": 0.28
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.38
+            },
+            {
+              "x": 0.66,
+              "y": 0.38
+            },
+            {
+              "x": 0.44,
+              "y": 0.6
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.44,
+              "y": 0.46
+            },
+            {
+              "x": 0.44,
+              "y": 0.82
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.44,
+              "y": 0.56
+            },
+            {
+              "x": 0.7,
+              "y": 0.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_no",
+      "glyph": "ノ",
+      "romanization": "no",
+      "ipa": "/no/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30CE"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "A long ski slope.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.68,
+              "y": 0.22
+            },
+            {
+              "x": 0.5,
+              "y": 0.52
+            },
+            {
+              "x": 0.3,
+              "y": 0.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_ha",
+      "glyph": "ハ",
+      "romanization": "ha",
+      "ipa": "/ha/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30CF"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A thatched hut roof.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.42,
+              "y": 0.3
+            },
+            {
+              "x": 0.3,
+              "y": 0.72
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.58,
+              "y": 0.32
+            },
+            {
+              "x": 0.72,
+              "y": 0.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_hi",
+      "glyph": "ヒ",
+      "romanization": "hi",
+      "ipa": "/çi/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30D2"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "He is sitting with legs stretched out.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.32
+            },
+            {
+              "x": 0.64,
+              "y": 0.32
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.38,
+              "y": 0.32
+            },
+            {
+              "x": 0.38,
+              "y": 0.72
+            },
+            {
+              "x": 0.7,
+              "y": 0.72
+            },
+            {
+              "x": 0.7,
+              "y": 0.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_fu",
+      "glyph": "フ",
+      "romanization": "fu",
+      "ipa": "/ɸɯ/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30D5"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "A flag fluttering in the wind.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.32
+            },
+            {
+              "x": 0.7,
+              "y": 0.32
+            },
+            {
+              "x": 0.56,
+              "y": 0.56
+            },
+            {
+              "x": 0.36,
+              "y": 0.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_he",
+      "glyph": "ヘ",
+      "romanization": "he",
+      "ipa": "/he/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30D8"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "The peak of Mount Fuji.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.26,
+              "y": 0.58
+            },
+            {
+              "x": 0.44,
+              "y": 0.34
+            },
+            {
+              "x": 0.76,
+              "y": 0.68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_ho",
+      "glyph": "ホ",
+      "romanization": "ho",
+      "ipa": "/ho/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30DB"
+      ],
+      "stroke_count": 4,
+      "mnemonic": "A holy wooden cross.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.32
+            },
+            {
+              "x": 0.72,
+              "y": 0.32
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.5,
+              "y": 0.2
+            },
+            {
+              "x": 0.5,
+              "y": 0.78
+            },
+            {
+              "x": 0.42,
+              "y": 0.72
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.38,
+              "y": 0.48
+            },
+            {
+              "x": 0.28,
+              "y": 0.68
+            }
+          ]
+        },
+        {
+          "stroke_index": 4,
+          "points": [
+            {
+              "x": 0.62,
+              "y": 0.48
+            },
+            {
+              "x": 0.74,
+              "y": 0.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_ma",
+      "glyph": "マ",
+      "romanization": "ma",
+      "ipa": "/ma/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30DE"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A martini glass in a hand.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.34
+            },
+            {
+              "x": 0.7,
+              "y": 0.34
+            },
+            {
+              "x": 0.42,
+              "y": 0.58
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.42,
+              "y": 0.58
+            },
+            {
+              "x": 0.64,
+              "y": 0.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_mi",
+      "glyph": "ミ",
+      "romanization": "mi",
+      "ipa": "/mi/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30DF"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "Three missile tracks in the sky.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.34,
+              "y": 0.3
+            },
+            {
+              "x": 0.64,
+              "y": 0.36
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.5
+            },
+            {
+              "x": 0.66,
+              "y": 0.56
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.7
+            },
+            {
+              "x": 0.7,
+              "y": 0.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_mu",
+      "glyph": "ム",
+      "romanization": "mu",
+      "ipa": "/mɯ/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30E0"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A cow face saying moo.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.52,
+              "y": 0.24
+            },
+            {
+              "x": 0.3,
+              "y": 0.62
+            },
+            {
+              "x": 0.7,
+              "y": 0.62
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.6,
+              "y": 0.5
+            },
+            {
+              "x": 0.72,
+              "y": 0.68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_me",
+      "glyph": "メ",
+      "romanization": "me",
+      "ipa": "/me/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30E1"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A metal sword cross.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.66,
+              "y": 0.24
+            },
+            {
+              "x": 0.32,
+              "y": 0.78
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.38,
+              "y": 0.36
+            },
+            {
+              "x": 0.68,
+              "y": 0.68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_mo",
+      "glyph": "モ",
+      "romanization": "mo",
+      "ipa": "/mo/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30E2"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "More horizontal bars stacked.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.34
+            },
+            {
+              "x": 0.68,
+              "y": 0.34
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.26,
+              "y": 0.52
+            },
+            {
+              "x": 0.74,
+              "y": 0.52
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.46,
+              "y": 0.22
+            },
+            {
+              "x": 0.46,
+              "y": 0.76
+            },
+            {
+              "x": 0.7,
+              "y": 0.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_ya",
+      "glyph": "ヤ",
+      "romanization": "ya",
+      "ipa": "/ja/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30E4"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A yak's horn pointing out.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.28,
+              "y": 0.38
+            },
+            {
+              "x": 0.66,
+              "y": 0.38
+            },
+            {
+              "x": 0.5,
+              "y": 0.78
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.44,
+              "y": 0.22
+            },
+            {
+              "x": 0.34,
+              "y": 0.64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_yu",
+      "glyph": "ユ",
+      "romanization": "yu",
+      "ipa": "/jɯ/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30E6"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "You are number one fish hook.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.32
+            },
+            {
+              "x": 0.68,
+              "y": 0.32
+            },
+            {
+              "x": 0.68,
+              "y": 0.6
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.6
+            },
+            {
+              "x": 0.76,
+              "y": 0.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_yo",
+      "glyph": "ヨ",
+      "romanization": "yo",
+      "ipa": "/jo/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30E8"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A toy robot box facing left.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.28
+            },
+            {
+              "x": 0.68,
+              "y": 0.28
+            },
+            {
+              "x": 0.68,
+              "y": 0.74
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.36,
+              "y": 0.5
+            },
+            {
+              "x": 0.68,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.74
+            },
+            {
+              "x": 0.68,
+              "y": 0.74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_ra",
+      "glyph": "ラ",
+      "romanization": "ra",
+      "ipa": "/ɾa/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30E9"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A raptor's curved claw.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.28
+            },
+            {
+              "x": 0.64,
+              "y": 0.28
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.42,
+              "y": 0.44
+            },
+            {
+              "x": 0.68,
+              "y": 0.44
+            },
+            {
+              "x": 0.5,
+              "y": 0.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_ri",
+      "glyph": "リ",
+      "romanization": "ri",
+      "ipa": "/ɾi/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30EA"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Ribbons hanging down.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.38,
+              "y": 0.28
+            },
+            {
+              "x": 0.38,
+              "y": 0.54
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.62,
+              "y": 0.24
+            },
+            {
+              "x": 0.62,
+              "y": 0.66
+            },
+            {
+              "x": 0.54,
+              "y": 0.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_ru",
+      "glyph": "ル",
+      "romanization": "ru",
+      "ipa": "/ɾɯ/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30EB"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Two routes diverging.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.42,
+              "y": 0.26
+            },
+            {
+              "x": 0.32,
+              "y": 0.68
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.56,
+              "y": 0.26
+            },
+            {
+              "x": 0.56,
+              "y": 0.72
+            },
+            {
+              "x": 0.72,
+              "y": 0.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_re",
+      "glyph": "レ",
+      "romanization": "re",
+      "ipa": "/ɾe/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30EC"
+      ],
+      "stroke_count": 1,
+      "mnemonic": "A record checkmark.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.38,
+              "y": 0.24
+            },
+            {
+              "x": 0.38,
+              "y": 0.74
+            },
+            {
+              "x": 0.7,
+              "y": 0.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_ro",
+      "glyph": "ロ",
+      "romanization": "ro",
+      "ipa": "/ɾo/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30ED"
+      ],
+      "stroke_count": 3,
+      "mnemonic": "A square robot mouth.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.3
+            },
+            {
+              "x": 0.3,
+              "y": 0.74
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.3
+            },
+            {
+              "x": 0.7,
+              "y": 0.3
+            },
+            {
+              "x": 0.7,
+              "y": 0.74
+            }
+          ]
+        },
+        {
+          "stroke_index": 3,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.74
+            },
+            {
+              "x": 0.7,
+              "y": 0.74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_wa",
+      "glyph": "ワ",
+      "romanization": "wa",
+      "ipa": "/wa/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30EF"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A wine glass outline.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.32
+            },
+            {
+              "x": 0.32,
+              "y": 0.54
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.32,
+              "y": 0.34
+            },
+            {
+              "x": 0.7,
+              "y": 0.34
+            },
+            {
+              "x": 0.52,
+              "y": 0.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_wo",
+      "glyph": "ヲ",
+      "romanization": "wo",
+      "ipa": "/o/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30F2"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A person shouting whoa!",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.32
+            },
+            {
+              "x": 0.7,
+              "y": 0.32
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.34,
+              "y": 0.5
+            },
+            {
+              "x": 0.66,
+              "y": 0.5
+            },
+            {
+              "x": 0.42,
+              "y": 0.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "character_id": "katakana_n",
+      "glyph": "ン",
+      "romanization": "n",
+      "ipa": "/n/",
+      "category": "syllable",
+      "codepoints": [
+        "U+30F3"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "A smiling wink pointing upward.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.34,
+              "y": 0.36
+            },
+            {
+              "x": 0.44,
+              "y": 0.46
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.3,
+              "y": 0.76
+            },
+            {
+              "x": 0.5,
+              "y": 0.58
+            },
+            {
+              "x": 0.72,
+              "y": 0.32
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
