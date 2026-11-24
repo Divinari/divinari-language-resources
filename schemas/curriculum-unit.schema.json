@@ -1,0 +1,97 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Divinari/divinari-developer-resources/schemas/curriculum-unit.schema.json",
+  "title": "Divinari Public Curriculum Unit Metadata",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "unit_id",
+    "language_code",
+    "cefr_level",
+    "actfl_level",
+    "title",
+    "can_do_statements",
+    "concept_keys",
+    "license",
+    "origin_type",
+    "source_citation",
+    "contributors"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$"
+    },
+    "unit_id": {
+      "type": "string",
+      "pattern": "^[a-z0-9_-]+$"
+    },
+    "language_code": {
+      "type": "string",
+      "pattern": "^[a-z]{2,3}(?:-[A-Za-z0-9]{2,8})*$"
+    },
+    "cefr_level": {
+      "type": "string",
+      "enum": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "C2"
+      ]
+    },
+    "actfl_level": {
+      "type": "string",
+      "minLength": 2
+    },
+    "title": {
+      "type": "string",
+      "minLength": 2
+    },
+    "can_do_statements": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "minLength": 5
+      }
+    },
+    "concept_keys": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "pattern": "^[A-Z0-9_]+$"
+      }
+    },
+    "license": {
+      "type": "string",
+      "enum": [
+        "CC-BY-4.0",
+        "CC0-1.0"
+      ]
+    },
+    "origin_type": {
+      "type": "string",
+      "enum": [
+        "native_speaker",
+        "public_domain",
+        "cc_by_4_0"
+      ]
+    },
+    "source_citation": {
+      "type": "string",
+      "minLength": 3
+    },
+    "contributors": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    }
+  }
+}

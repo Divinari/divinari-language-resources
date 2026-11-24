@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0.0",
+  "language_code": "tl",
+  "iso_639_3": "tgl",
+  "iso_639_1": "tl",
+  "english_name": "Tagalog",
+  "autonym": "Tagalog",
+  "region_notes": "Pending Phase 3 native-speaker verification before publishing starter lexicon.json.",
+  "script_names": [
+    "Latin",
+    "Baybayin"
+  ],
+  "writing_direction": "ltr",
+  "status": "scaffold",
+  "verified_entry_count": 0,
+  "license": "CC-BY-4.0",
+  "origin_type": "maintainer_scaffold",
+  "source_citation": "Divinari Clean-Room Repository Scaffold (Zero Unverified Seed Rows)",
+  "attribution": [
+    {
+      "name": "Divinari Maintainers",
+      "role": "maintainer"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "language_code": "fr",
+  "iso_639_3": "fra",
+  "iso_639_1": "fr",
+  "english_name": "French",
+  "autonym": "Français",
+  "region_notes": "Scaffolded directory awaiting native-verified comparative entries.",
+  "script_names": [
+    "Latin"
+  ],
+  "writing_direction": "ltr",
+  "status": "scaffold",
+  "verified_entry_count": 0,
+  "license": "CC-BY-4.0",
+  "origin_type": "maintainer_scaffold",
+  "source_citation": "Divinari Clean-Room Repository Scaffold (Zero Unverified Seed Rows)",
+  "attribution": [
+    {
+      "name": "Divinari Maintainers",
+      "role": "maintainer"
+    }
+  ]
+}

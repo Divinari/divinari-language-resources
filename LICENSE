@@ -1,0 +1,16 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0) — Data & Docs
+Apache License, Version 2.0 — Schemas & Validation Tooling
+
+Copyright (c) 2026 Divinari.
+
+1. Linguistic Data & Documentation (`languages/`, `grammar/`, `pronunciation/`,
+   `regional-variants/`, `attribution/`, and Markdown files):
+   Licensed under the Creative Commons Attribution 4.0 International License:
+   https://creativecommons.org/licenses/by/4.0/
+   https://creativecommons.org/licenses/by/4.0/legalcode
+
+2. JSON Schemas & Validation Software (`schemas/` and `validation/`):
+   Licensed under the Apache License, Version 2.0 (see schemas/LICENSE-APACHE-2.0.txt).
+
+3. Trademarks & Brand Identity:
+   Excluded from all open licenses and strictly All Rights Reserved under TRADEMARK.md.

@@ -1,0 +1,25 @@
+name: Vocabulary or Lexicon Addition Proposal
+description: Propose verified words, idioms, or example sentences for a language directory.
+title: "[Vocab Proposal]: "
+labels: ["lexicon"]
+body:
+  - type: input
+    id: language_code
+    attributes:
+      label: ISO 639-1 / 639-3 Language Code
+      placeholder: "e.g., tl, ceb, hil, ilo"
+    validations:
+      required: true
+  - type: textarea
+    id: entries
+    attributes:
+      label: Term, Meaning, Register & Natural Example Sentence
+    validations:
+      required: true
+  - type: input
+    id: source_provenance
+    attributes:
+      label: Origin / Provenance Declaration
+      placeholder: "native_speaker (human authored) OR verified public-domain/CC-BY-4.0 citation"
+    validations:
+      required: true

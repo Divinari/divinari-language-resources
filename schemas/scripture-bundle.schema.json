@@ -1,0 +1,145 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Divinari/divinari-developer-resources/schemas/scripture-bundle.schema.json",
+  "title": "Divinari Public-Domain Scripture Bundle",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "translation_id",
+    "title",
+    "language_code",
+    "publication_year",
+    "public_domain_status",
+    "licenseInfo",
+    "books"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$"
+    },
+    "translation_id": {
+      "type": "string",
+      "pattern": "^[a-z0-9_]+$"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 3
+    },
+    "language_code": {
+      "type": "string",
+      "pattern": "^[a-z]{2,3}(?:-[A-Za-z0-9]{2,8})*$"
+    },
+    "publication_year": {
+      "type": "integer",
+      "minimum": 1400,
+      "maximum": 2100
+    },
+    "public_domain_status": {
+      "type": "string",
+      "enum": [
+        "public_domain",
+        "cc_by_4_0"
+      ]
+    },
+    "licenseInfo": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "license",
+        "verified_edition",
+        "publisher",
+        "digital_source"
+      ],
+      "properties": {
+        "license": {
+          "type": "string",
+          "enum": [
+            "Public Domain",
+            "CC-BY-4.0",
+            "CC0-1.0"
+          ]
+        },
+        "verified_edition": {
+          "type": "string",
+          "minLength": 3
+        },
+        "publisher": {
+          "type": "string",
+          "minLength": 2
+        },
+        "digital_source": {
+          "type": "string",
+          "minLength": 3
+        },
+        "jurisdiction_notes": {
+          "type": "string"
+        }
+      }
+    },
+    "books": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "book_code",
+          "book_name",
+          "chapters"
+        ],
+        "properties": {
+          "book_code": {
+            "type": "string",
+            "pattern": "^[A-Z0-9]{3}$"
+          },
+          "book_name": {
+            "type": "string",
+            "minLength": 2
+          },
+          "chapters": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "chapter_number",
+                "verses"
+              ],
+              "properties": {
+                "chapter_number": {
+                  "type": "integer",
+                  "minimum": 1
+                },
+                "verses": {
+                  "type": "array",
+                  "minItems": 1,
+                  "items": {
+                    "type": "object",
+                    "additionalProperties": false,
+                    "required": [
+                      "verse_number",
+                      "text"
+                    ],
+                    "properties": {
+                      "verse_number": {
+                        "type": "integer",
+                        "minimum": 1
+                      },
+                      "text": {
+                        "type": "string",
+                        "minLength": 2
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

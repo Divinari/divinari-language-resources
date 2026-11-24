@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "language_code": "hil",
+  "iso_639_3": "hil",
+  "iso_639_1": null,
+  "english_name": "Hiligaynon",
+  "autonym": "Hiligaynon / Ilonggo",
+  "region_notes": "Scaffolded directory awaiting Hiligaynon Language Lead & native-verified entries.",
+  "script_names": [
+    "Latin"
+  ],
+  "writing_direction": "ltr",
+  "status": "scaffold",
+  "verified_entry_count": 0,
+  "license": "CC-BY-4.0",
+  "origin_type": "maintainer_scaffold",
+  "source_citation": "Divinari Clean-Room Repository Scaffold (Zero Unverified Seed Rows)",
+  "attribution": [
+    {
+      "name": "Divinari Maintainers",
+      "role": "maintainer"
+    }
+  ]
+}

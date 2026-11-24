@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0.0",
+  "language_code": "ceb",
+  "iso_639_3": "ceb",
+  "iso_639_1": null,
+  "english_name": "Cebuano (Bisaya)",
+  "autonym": "Sinugboanon / Bisaya",
+  "region_notes": "Scaffolded directory awaiting Cebuano Language Lead & native-verified entries.",
+  "script_names": [
+    "Latin",
+    "Badlit"
+  ],
+  "writing_direction": "ltr",
+  "status": "scaffold",
+  "verified_entry_count": 0,
+  "license": "CC-BY-4.0",
+  "origin_type": "maintainer_scaffold",
+  "source_citation": "Divinari Clean-Room Repository Scaffold (Zero Unverified Seed Rows)",
+  "attribution": [
+    {
+      "name": "Divinari Maintainers",
+      "role": "maintainer"
+    }
+  ]
+}

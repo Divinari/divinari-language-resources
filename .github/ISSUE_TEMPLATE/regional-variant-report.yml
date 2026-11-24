@@ -1,0 +1,18 @@
+name: Regional Variety or Orthography Note
+description: Document authentic regional vocabulary, pronunciation, or orthographic conventions.
+title: "[Regional Variant]: "
+labels: ["regional-variant"]
+body:
+  - type: input
+    id: region
+    attributes:
+      label: Language & Region
+      placeholder: "e.g., Batangas Tagalog, Bohol Cebuano, Antique Kinaray-a"
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Orthographic & Usage Documentation
+    validations:
+      required: true

@@ -1,0 +1,137 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Divinari/divinari-developer-resources/schemas/example-sentence.schema.json",
+  "title": "Divinari Public Example Sentence Dataset",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "language_code",
+    "translation_language_code",
+    "license",
+    "origin_type",
+    "source_citation",
+    "contributors",
+    "sentences"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$"
+    },
+    "language_code": {
+      "type": "string",
+      "pattern": "^[a-z]{2,3}(?:-[A-Za-z0-9]{2,8})*$"
+    },
+    "translation_language_code": {
+      "type": "string",
+      "pattern": "^[a-z]{2,3}(?:-[A-Za-z0-9]{2,8})*$"
+    },
+    "license": {
+      "type": "string",
+      "enum": [
+        "CC-BY-4.0",
+        "CC0-1.0"
+      ]
+    },
+    "origin_type": {
+      "type": "string",
+      "enum": [
+        "native_speaker",
+        "public_domain",
+        "cc_by_4_0"
+      ]
+    },
+    "source_citation": {
+      "type": "string",
+      "minLength": 3
+    },
+    "contributors": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "sentences": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "sentence_id",
+          "sentence_text",
+          "translation_text",
+          "tokens",
+          "verification_status"
+        ],
+        "properties": {
+          "sentence_id": {
+            "type": "string",
+            "pattern": "^[a-z0-9_]+$"
+          },
+          "concept_key": {
+            "type": "string",
+            "pattern": "^[A-Z0-9_]+$"
+          },
+          "sentence_text": {
+            "type": "string",
+            "minLength": 3
+          },
+          "translation_text": {
+            "type": "string",
+            "minLength": 3
+          },
+          "register": {
+            "type": "string",
+            "enum": [
+              "standard",
+              "formal",
+              "casual",
+              "regional"
+            ]
+          },
+          "tokens": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "surface",
+                "char_start",
+                "char_end"
+              ],
+              "properties": {
+                "surface": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "char_start": {
+                  "type": "integer",
+                  "minimum": 0
+                },
+                "char_end": {
+                  "type": "integer",
+                  "minimum": 1
+                },
+                "sense_key": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "verification_status": {
+            "type": "string",
+            "enum": [
+              "native-reviewed",
+              "linguist-reviewed"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

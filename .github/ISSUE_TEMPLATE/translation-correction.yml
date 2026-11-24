@@ -1,0 +1,17 @@
+name: Translation or Usage Correction
+description: Report an unnatural gloss, register error, typo, or cultural inaccuracy.
+title: "[Correction]: "
+labels: ["correction"]
+body:
+  - type: input
+    id: language_code
+    attributes:
+      label: Language Code & Term
+    validations:
+      required: true
+  - type: textarea
+    id: explanation
+    attributes:
+      label: Current vs. Suggested Natural Phrasing & Register Notes
+    validations:
+      required: true
