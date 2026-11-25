@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: GitHub Discussions
+    url: https://github.com/Divinari/divinari-community/discussions
+    about: Ask questions, request new languages, coordinate native reviews, or share ideas.
+  - name: Divinari Discord Community
+    url: https://discord.gg/gr3mXDAXPt
+    about: Chat live with learners and native speakers across 63 language channels.
+  - name: Private Security Advisory
+    url: https://github.com/Divinari/divinari-language-resources/security/advisories/new
+    about: Report security vulnerabilities, exposed credentials, PII, or copyright issues privately.
