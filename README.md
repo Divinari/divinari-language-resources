@@ -13,7 +13,7 @@
 
 ## Language Track Availability
 
-> **Important Note:** Presence of a language directory under `languages/` (`tl/`, `ceb/`, `ilo/`, `hil/`, `es/`, `de/`, `fr/`, `en/`) provides a standardized contribution structure and metadata file—it does **not** mean complete verified datasets already exist for that language. Initial `languages/*/metadata.json` records currently carry `status: "scaffold"` (`verified_entry_count: 0`) pending native-speaker provenance verification and curation.
+> **Important Note:** Presence of a language directory under `languages/` (`tl/`, `ceb/`, `ilo/`, `hil/`, `id/`, `es/`, `de/`, `fr/`, `en/`) provides a standardized contribution structure and metadata file—it does **not** mean complete verified datasets already exist for that language. Initial `languages/*/metadata.json` records currently carry `status: "scaffold"` (`verified_entry_count: 0`) pending native-speaker provenance verification and curation.
 
 ---
 
